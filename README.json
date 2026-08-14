@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:57:39Z",
+            "last_commit": "2026-08-14T02:27:21Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3337
+            "stars": 3339
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T16:08:45Z",
+            "last_commit": "2026-08-13T21:18:09Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
@@ -509,7 +509,7 @@
             "last_commit": "2018-05-12T21:38:02Z",
             "owner": "majbthrd",
             "repo": "MazdaCANbus",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -1018,7 +1018,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-13T09:52:42Z",
+            "last_commit": "2026-08-14T10:31:10Z",
             "owner": "EVNotify",
             "repo": "EVNotify",
             "stars": 233
@@ -1080,10 +1080,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:57:39Z",
+            "last_commit": "2026-08-14T02:27:21Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3337
+            "stars": 3339
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3385
+            "stars": 3406
           }
         },
         {
@@ -1352,7 +1352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:34:52.331Z",
+    "last_updated": "2026-08-14T14:28:39.269Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
