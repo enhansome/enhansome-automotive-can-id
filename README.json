@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:07:41Z",
+            "last_commit": "2026-08-15T21:58:09Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3340
+            "stars": 3342
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T18:34:18Z",
+            "last_commit": "2026-08-16T02:15:30Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
@@ -720,7 +720,7 @@
             "last_commit": "2026-04-22T04:27:46Z",
             "owner": "JJToB",
             "repo": "Car-CAN-Message-DB",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -959,7 +959,7 @@
             "last_commit": "2024-06-28T15:11:33Z",
             "owner": "v-ivanyshyn",
             "repo": "parse_can_logs",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -1080,10 +1080,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:07:41Z",
+            "last_commit": "2026-08-15T21:58:09Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3340
+            "stars": 3342
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3413
+            "stars": 3417
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 975
+            "stars": 977
           }
         },
         {
@@ -1352,7 +1352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:47:47.128Z",
+    "last_updated": "2026-08-16T13:48:59.658Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
