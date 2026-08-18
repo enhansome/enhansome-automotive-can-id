@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T23:50:26Z",
+            "last_commit": "2026-08-17T14:06:34Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3343
+            "stars": 3345
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T01:31:12Z",
+            "last_commit": "2026-08-17T18:46:04Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
@@ -1080,10 +1080,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T23:50:26Z",
+            "last_commit": "2026-08-17T14:06:34Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3343
+            "stars": 3345
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3421
           }
         },
         {
@@ -1352,7 +1352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:57:25.553Z",
+    "last_updated": "2026-08-18T14:01:47.105Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
