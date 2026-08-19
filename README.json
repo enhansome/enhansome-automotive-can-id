@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92912604,
             "language": "Python",
             "last_commit": "2026-08-17T14:06:34Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3345
+            "stars": 3346
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163530292,
             "language": "HTML",
-            "last_commit": "2026-08-17T18:46:04Z",
+            "last_commit": "2026-08-18T18:07:07Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
@@ -35,12 +37,7 @@
       "title": "Common"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Acura"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101318455,
             "language": "C",
             "last_commit": "2018-12-02T18:52:09Z",
             "owner": "kmalinich",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101318455,
             "language": "C",
             "last_commit": "2018-12-02T18:52:09Z",
             "owner": "kmalinich",
@@ -77,66 +76,71 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144304986,
             "language": "C++",
             "last_commit": "2018-08-10T15:48:17Z",
             "owner": "damienmaguire",
             "repo": "BMW-E65-CANBUS",
             "stars": 32
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BMW iDrive",
+              "description": "iDrive controller 500k CAN speed (2004y late model).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151394098,
+                "language": "C++",
+                "last_commit": "2018-10-28T21:16:36Z",
+                "owner": "Autohome2",
+                "repo": "idrive-controller",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BMW iDrive",
+              "description": "Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197702830,
+                "language": "C++",
+                "last_commit": "2019-07-19T04:38:08Z",
+                "owner": "thatdamnranga",
+                "repo": "iDrive",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BMW iDrive",
+              "description": "Arduino canbus reader for events on iDrive knob controller.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9154931,
+                "language": "Arduino",
+                "last_commit": "2013-04-01T20:01:57Z",
+                "owner": "jegb",
+                "repo": "iDrive_knob",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iDrive"
         }
       ],
       "title": "BMW"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BMW iDrive",
-          "description": "iDrive controller 500k CAN speed (2004y late model).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-10-28T21:16:36Z",
-            "owner": "Autohome2",
-            "repo": "idrive-controller",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BMW iDrive",
-          "description": "Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-07-19T04:38:08Z",
-            "owner": "thatdamnranga",
-            "repo": "iDrive",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BMW iDrive",
-          "description": "Arduino canbus reader for events on iDrive knob controller.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Arduino",
-            "last_commit": "2013-04-01T20:01:57Z",
-            "owner": "jegb",
-            "repo": "iDrive_knob",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "iDrive"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -145,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146688187,
             "language": "C",
             "last_commit": "2026-07-13T20:48:55Z",
             "owner": "karlyamashita",
@@ -159,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146688187,
             "language": "C",
             "last_commit": "2026-07-13T20:48:55Z",
             "owner": "karlyamashita",
@@ -170,60 +176,65 @@
       "title": "General Motors (Buick, Cadillac, Chevrolet, GMC)"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jeep",
+              "description": "CAN BUS in Chrysler Jeep - VES enabler, other small features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86825945,
+                "language": "C++",
+                "last_commit": "2022-11-07T10:03:16Z",
+                "owner": "latonita",
+                "repo": "jeep-canbus",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jeep",
+              "description": "Grand Cherokee 2006, Wrangler 2010.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239360781,
+                "language": null,
+                "last_commit": "2020-11-10T01:50:28Z",
+                "owner": "BiggRanger",
+                "repo": "CANBUS-Vehicle-Reverse-Engineering",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jeep",
+              "description": "Grand Cherokee 2017, dashboard speed,cruise.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859672430,
+                "language": null,
+                "last_commit": "2024-09-19T05:21:51Z",
+                "owner": "SvetlAl",
+                "repo": "docs",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jeep"
+        }
+      ],
       "title": "Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jeep",
-          "description": "CAN BUS in Chrysler Jeep - VES enabler, other small features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-11-07T10:03:16Z",
-            "owner": "latonita",
-            "repo": "jeep-canbus",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jeep",
-          "description": "Grand Cherokee 2006, Wrangler 2010.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-10T01:50:28Z",
-            "owner": "BiggRanger",
-            "repo": "CANBUS-Vehicle-Reverse-Engineering",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jeep",
-          "description": "Grand Cherokee 2017, dashboard speed,cruise.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-09-19T05:21:51Z",
-            "owner": "SvetlAl",
-            "repo": "docs",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Jeep"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,6 +243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97443560,
             "language": "Python",
             "last_commit": "2021-10-11T14:38:01Z",
             "owner": "P1kachu",
@@ -246,6 +258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408912581,
             "language": "C",
             "last_commit": "2022-02-21T12:17:46Z",
             "owner": "VeryBusyBee",
@@ -257,89 +270,162 @@
       "title": "Fiat"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Ford Fiesta",
-          "description": "MK5 2006+ (MK5 restyling, Bus speed 125K).",
+          "title": "Mustang, 2007-2009",
+          "description": "Emulator for Dashboard Instrument Cluster.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2020-09-30T20:22:55Z",
-            "owner": "roncapat",
-            "repo": "Ford-Fiesta-MK5-MS-CAN-bus",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ford Fiesta",
-          "description": "MK7.5.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 163445078,
             "language": "C++",
-            "last_commit": "2019-10-27T18:53:46Z",
-            "owner": "fereste",
-            "repo": "tablero",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Fiesta"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ford FG Falcon",
-          "description": "FG Falcon (XLSX).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-25T13:44:32Z",
-            "owner": "jakka351",
-            "repo": "FG-Falcon",
-            "stars": 85
+            "last_commit": "2024-03-18T17:19:16Z",
+            "owner": "thomastech",
+            "repo": "CAN2Cluster",
+            "stars": 48
           }
         },
         {
           "node_type": "item",
-          "title": "Ford FG Falcon",
-          "description": "CANBus decoded (XLSX).",
+          "title": "Ford",
+          "description": "Mustang 2005 CAN 125k.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-25T13:44:32Z",
-            "owner": "jakka351",
-            "repo": "FG-Falcon",
-            "stars": 85
+            "id": 146688187,
+            "language": "C",
+            "last_commit": "2026-07-13T20:48:55Z",
+            "owner": "karlyamashita",
+            "repo": "common_libraries",
+            "stars": 33
           }
         },
         {
           "node_type": "item",
-          "title": "Ford FG Falcon",
-          "description": "Orion.",
+          "title": "Ford and Lincoln",
+          "description": "Files for Ford Fusion and Lincoln MKZ (DBC).",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-25T13:44:32Z",
-            "owner": "jakka351",
-            "repo": "FG-Falcon",
-            "stars": 85
+            "id": 84316393,
+            "language": "Python",
+            "last_commit": "2018-07-12T07:16:45Z",
+            "owner": "autti",
+            "repo": "abraham",
+            "stars": 29
           }
+        },
+        {
+          "node_type": "item",
+          "title": "S550 Mustang, 2015-2017",
+          "description": "Python scripts with notes and a wiki on CANBus ids and behavior.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637408376,
+            "language": "Python",
+            "last_commit": "2025-01-17T03:05:16Z",
+            "owner": "EricTurner3",
+            "repo": "s550-canbus",
+            "stars": 20
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ford Fiesta",
+              "description": "MK5 2006+ (MK5 restyling, Bus speed 125K).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289456997,
+                "language": null,
+                "last_commit": "2020-09-30T20:22:55Z",
+                "owner": "roncapat",
+                "repo": "Ford-Fiesta-MK5-MS-CAN-bus",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ford Fiesta",
+              "description": "MK7.5.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214669413,
+                "language": "C++",
+                "last_commit": "2019-10-27T18:53:46Z",
+                "owner": "fereste",
+                "repo": "tablero",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fiesta"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ford FG Falcon",
+              "description": "FG Falcon (XLSX).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298083806,
+                "language": "HTML",
+                "last_commit": "2026-05-25T13:44:32Z",
+                "owner": "jakka351",
+                "repo": "FG-Falcon",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ford FG Falcon",
+              "description": "CANBus decoded (XLSX).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298083806,
+                "language": "HTML",
+                "last_commit": "2026-05-25T13:44:32Z",
+                "owner": "jakka351",
+                "repo": "FG-Falcon",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ford FG Falcon",
+              "description": "Orion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298083806,
+                "language": "HTML",
+                "last_commit": "2026-05-25T13:44:32Z",
+                "owner": "jakka351",
+                "repo": "FG-Falcon",
+                "stars": 85
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ford FG Falcon"
         }
       ],
-      "title": "Ford FG Falcon"
+      "title": "Ford (Lincoln, Mercury)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -348,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472536644,
             "language": null,
             "last_commit": "2026-03-12T20:34:05Z",
             "owner": "Esprit1st",
@@ -362,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369661355,
             "language": "Python",
             "last_commit": "2021-06-07T21:26:53Z",
             "owner": "joshpatten",
@@ -376,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359183229,
             "language": "Rich Text Format",
             "last_commit": "2021-04-18T15:37:25Z",
             "owner": "tylerwatt12",
@@ -387,7 +476,7 @@
       "title": "Hyundai"
     },
     {
-      "description": "",
+      "description": "Note ⚠ Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems",
       "items": [
         {
           "node_type": "item",
@@ -396,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
             "last_commit": "2019-12-10T18:04:57Z",
             "owner": "PolySync",
@@ -410,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
             "last_commit": "2019-12-10T18:04:57Z",
             "owner": "PolySync",
@@ -424,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
             "last_commit": "2019-12-10T18:04:57Z",
             "owner": "PolySync",
@@ -438,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
             "last_commit": "2019-12-10T18:04:57Z",
             "owner": "PolySync",
@@ -452,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
             "last_commit": "2019-12-10T18:04:57Z",
             "owner": "PolySync",
@@ -466,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
             "last_commit": "2019-12-10T18:04:57Z",
             "owner": "PolySync",
@@ -480,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75996723,
             "language": null,
             "last_commit": "2021-06-10T15:41:25Z",
             "owner": "JejuSoul",
@@ -491,12 +587,7 @@
       "title": "Kia"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Lotus"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -505,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76207828,
             "language": null,
             "last_commit": "2018-05-12T21:38:02Z",
             "owner": "majbthrd",
@@ -519,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5775503,
             "language": "Python",
             "last_commit": "2016-01-17T02:24:58Z",
             "owner": "ihaque",
@@ -533,6 +626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517401853,
             "language": "Python",
             "last_commit": "2025-09-05T03:57:38Z",
             "owner": "silverchris",
@@ -544,7 +638,7 @@
       "title": "Mazda"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -553,6 +647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212410806,
             "language": "C++",
             "last_commit": "2020-08-07T08:49:33Z",
             "owner": "rnd-ash",
@@ -567,6 +662,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 281424206,
             "language": "Kotlin",
             "last_commit": "2023-01-16T21:21:17Z",
             "owner": "rnd-ash",
@@ -581,6 +677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340183415,
             "language": null,
             "last_commit": "2026-06-01T18:42:46Z",
             "owner": "rnd-ash",
@@ -595,6 +692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68191214,
             "language": "C++",
             "last_commit": "2020-07-07T08:08:22Z",
             "owner": "mkovero",
@@ -609,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187445221,
             "language": null,
             "last_commit": "2021-09-19T10:42:06Z",
             "owner": "dvjcodec",
@@ -620,7 +719,7 @@
       "title": "Mercedes-Benz"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -629,6 +728,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3363154,
             "language": "JavaScript",
             "last_commit": "2016-08-27T07:33:46Z",
             "owner": "Knio",
@@ -643,145 +743,129 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127993647,
             "language": null,
             "last_commit": "2018-04-19T00:07:07Z",
             "owner": "jackm",
             "repo": "carhack",
             "stars": 38
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nissan Leaf",
+              "description": "CAN bus message decoding with proper database files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205167184,
+                "language": null,
+                "last_commit": "2026-07-06T10:38:54Z",
+                "owner": "dalathegreat",
+                "repo": "leaf_can_bus_messages",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nissan Leaf",
+              "description": "#1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360972754,
+                "language": "AGS Script",
+                "last_commit": "2026-07-05T09:17:10Z",
+                "owner": "dalathegreat",
+                "repo": "EV-CANlogs",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nissan Leaf",
+              "description": "Some Logs from Gen 1 Nissan Leaf.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107578688,
+                "language": null,
+                "last_commit": "2021-05-05T17:59:29Z",
+                "owner": "damienmaguire",
+                "repo": "LeafLogs",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Leaf"
         }
       ],
       "title": "Nissan"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Nissan Leaf",
-          "description": "CAN bus message decoding with proper database files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-06T10:38:54Z",
-            "owner": "dalathegreat",
-            "repo": "leaf_can_bus_messages",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nissan Leaf",
-          "description": "#1.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AGS Script",
-            "last_commit": "2026-07-05T09:17:10Z",
-            "owner": "dalathegreat",
-            "repo": "EV-CANlogs",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nissan Leaf",
-          "description": "Some Logs from Gen 1 Nissan Leaf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-05-05T17:59:29Z",
-            "owner": "damienmaguire",
-            "repo": "LeafLogs",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Opel Astra H",
+              "description": "CAN Message Databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104185847,
+                "language": null,
+                "last_commit": "2026-04-22T04:27:46Z",
+                "owner": "JJToB",
+                "repo": "Car-CAN-Message-DB",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opel Astra H",
+              "description": "LS CAN, MS CAN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329555740,
+                "language": null,
+                "last_commit": "2021-01-14T11:47:06Z",
+                "owner": "megadrifter",
+                "repo": "Astra-H-Public",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opel Astra H",
+              "description": "Climate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94404252,
+                "language": "Arduino",
+                "last_commit": "2017-06-15T05:48:27Z",
+                "owner": "megadrifter",
+                "repo": "AstraH_climate",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Astra"
         }
       ],
-      "title": "Leaf"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Opel"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Opel Astra H",
-          "description": "CAN Message Databases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-22T04:27:46Z",
-            "owner": "JJToB",
-            "repo": "Car-CAN-Message-DB",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opel Astra H",
-          "description": "LS CAN, MS CAN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-14T11:47:06Z",
-            "owner": "megadrifter",
-            "repo": "Astra-H-Public",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opel Astra H",
-          "description": "Climate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Arduino",
-            "last_commit": "2017-06-15T05:48:27Z",
-            "owner": "megadrifter",
-            "repo": "AstraH_climate",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opel Astra H",
-          "description": "CAN BUS.",
-          "children": []
-        }
-      ],
-      "title": "Astra"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PSA (Peugeot, Citroen, DS)"
-    },
-    {
-      "description": "temporaly unsorted:",
-      "items": [],
-      "title": "Peugeot"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "DS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SAAB"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -790,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95372640,
             "language": null,
             "last_commit": "2023-11-08T14:03:07Z",
             "owner": "afreiday",
@@ -804,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200890013,
             "language": null,
             "last_commit": "2019-08-06T20:42:02Z",
             "owner": "equinox311",
@@ -818,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200890013,
             "language": null,
             "last_commit": "2019-08-06T20:42:02Z",
             "owner": "equinox311",
@@ -832,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200890013,
             "language": null,
             "last_commit": "2019-08-06T20:42:02Z",
             "owner": "equinox311",
@@ -843,7 +931,7 @@
       "title": "Subaru"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -852,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168047831,
             "language": null,
             "last_commit": "2019-02-02T19:29:24Z",
             "owner": "gerdbremer",
@@ -861,72 +950,12 @@
         },
         {
           "node_type": "item",
-          "title": "TIS Document Ripper",
-          "description": "Script allows you to rip electrical wiring diagrams, collision/body repair manuals, and repair manuals from Toyota's TIS.",
-          "children": []
-        }
-      ],
-      "title": "Toyota"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "VAG (Audi, Porsche, Volkswagen, Seat, Skoda)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Audi",
-          "description": "Q8 2019: RAW dumps + decoded frames of the EPS FlexRay bus.",
+          "title": "Toyota",
+          "description": "Yaris.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2020-02-29T11:22:58Z",
-            "owner": "robbederks",
-            "repo": "q8_flexray_dumps",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Audi",
-          "description": "E-tron.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-19T14:14:25Z",
-            "owner": "bradarnold",
-            "repo": "e-tron_OBD2ABRP",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Audi"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Porsche"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Seat"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Volkswagen",
-          "description": "Polo R6.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 97443560,
             "language": "Python",
             "last_commit": "2021-10-11T14:38:01Z",
             "owner": "P1kachu",
@@ -936,53 +965,27 @@
         },
         {
           "node_type": "item",
-          "title": "Volkswagen",
-          "description": "Polo R6.",
+          "title": "Toyota AVC LAN",
+          "description": "Arduino emulating a CD Changer on a Toyota AVC LAN network.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-11T14:38:01Z",
-            "owner": "P1kachu",
-            "repo": "talking-with-cars",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volkswagen",
-          "description": "Drivetrain CAN bus IDs].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-28T15:11:33Z",
-            "owner": "v-ivanyshyn",
-            "repo": "parse_can_logs",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volkswagen",
-          "description": "Touran 2004.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 39314927,
             "language": "C++",
-            "last_commit": "2026-01-31T16:37:47Z",
-            "owner": "jsphuebner",
-            "repo": "stm32-car",
-            "stars": 70
+            "last_commit": "2026-08-14T03:47:01Z",
+            "owner": "halleysfifthinc",
+            "repo": "AVCLAN-Mockingboard",
+            "stars": 59
           }
         },
         {
           "node_type": "item",
-          "title": "Volkswagen",
-          "description": "CAN_ID.",
+          "title": "Toyota",
+          "description": "2018 Tacoma.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146688187,
             "language": "C",
             "last_commit": "2026-07-13T20:48:55Z",
             "owner": "karlyamashita",
@@ -992,85 +995,246 @@
         },
         {
           "node_type": "item",
-          "title": "Volkswagen",
-          "description": "MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc).",
+          "title": "Toyota AVC LAN",
+          "description": "Arduino emulating a CD Changer on a Toyota AVC LAN network (another project).",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2018-01-29T20:47:53Z",
-            "owner": "bri3d",
-            "repo": "MQBSimosLogVariables",
-            "stars": 18
+            "id": 160049545,
+            "language": "C++",
+            "last_commit": "2021-02-07T10:46:25Z",
+            "owner": "instalator",
+            "repo": "AVC-LAN-Toyota",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toyota",
+          "description": "Prius CAN message translator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60481772,
+            "language": "Python",
+            "last_commit": "2016-06-09T14:53:01Z",
+            "owner": "HbirdJ",
+            "repo": "CAN-Translator",
+            "stars": 11
           }
         }
       ],
-      "title": "Volkswagen"
+      "title": "Toyota"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Volkswagen",
-          "description": "VW e-Golf #2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-14T10:31:10Z",
-            "owner": "EVNotify",
-            "repo": "EVNotify",
-            "stars": 233
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Audi",
+              "description": "Q8 2019: RAW dumps + decoded frames of the EPS FlexRay bus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243953507,
+                "language": null,
+                "last_commit": "2020-02-29T11:22:58Z",
+                "owner": "robbederks",
+                "repo": "q8_flexray_dumps",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audi",
+              "description": "E-tron.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437645488,
+                "language": "Python",
+                "last_commit": "2023-04-19T14:14:25Z",
+                "owner": "bradarnold",
+                "repo": "e-tron_OBD2ABRP",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audi"
         },
         {
-          "node_type": "item",
-          "title": "Volkswagen",
-          "description": "VW e-Golf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AGS Script",
-            "last_commit": "2026-07-05T09:17:10Z",
-            "owner": "dalathegreat",
-            "repo": "EV-CANlogs",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volkswagen",
-          "description": "MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-02T18:03:18Z",
-            "owner": "spot2000",
-            "repo": "Volkswagen-MEB-EV-CAN-parameters",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VW-GTE-ContactorBox",
-          "description": "Reverse engineering the VW GTE Contactor Box (E-BOX).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-05-08T13:56:10Z",
-            "owner": "jamiejones85",
-            "repo": "VW-GTE-ContactorBox",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volkswagen",
+              "description": "Polo R6.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97443560,
+                "language": "Python",
+                "last_commit": "2021-10-11T14:38:01Z",
+                "owner": "P1kachu",
+                "repo": "talking-with-cars",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volkswagen",
+              "description": "Polo R6.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97443560,
+                "language": "Python",
+                "last_commit": "2021-10-11T14:38:01Z",
+                "owner": "P1kachu",
+                "repo": "talking-with-cars",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volkswagen",
+              "description": "Drivetrain CAN bus IDs].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212888024,
+                "language": "Python",
+                "last_commit": "2024-06-28T15:11:33Z",
+                "owner": "v-ivanyshyn",
+                "repo": "parse_can_logs",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volkswagen",
+              "description": "Touran 2004.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219599108,
+                "language": "C++",
+                "last_commit": "2026-01-31T16:37:47Z",
+                "owner": "jsphuebner",
+                "repo": "stm32-car",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volkswagen",
+              "description": "CAN_ID.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146688187,
+                "language": "C",
+                "last_commit": "2026-07-13T20:48:55Z",
+                "owner": "karlyamashita",
+                "repo": "common_libraries",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volkswagen",
+              "description": "MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119439095,
+                "language": null,
+                "last_commit": "2018-01-29T20:47:53Z",
+                "owner": "bri3d",
+                "repo": "MQBSimosLogVariables",
+                "stars": 18
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Volkswagen",
+                  "description": "VW e-Golf #2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93888796,
+                    "language": "Vue",
+                    "last_commit": "2026-08-14T10:31:10Z",
+                    "owner": "EVNotify",
+                    "repo": "EVNotify",
+                    "stars": 233
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Volkswagen",
+                  "description": "VW e-Golf.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 360972754,
+                    "language": "AGS Script",
+                    "last_commit": "2026-07-05T09:17:10Z",
+                    "owner": "dalathegreat",
+                    "repo": "EV-CANlogs",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Volkswagen",
+                  "description": "MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 328944740,
+                    "language": null,
+                    "last_commit": "2024-06-02T18:03:18Z",
+                    "owner": "spot2000",
+                    "repo": "Volkswagen-MEB-EV-CAN-parameters",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VW-GTE-ContactorBox",
+                  "description": "Reverse engineering the VW GTE Contactor Box (E-BOX).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631193527,
+                    "language": "C++",
+                    "last_commit": "2023-05-08T13:56:10Z",
+                    "owner": "jamiejones85",
+                    "repo": "VW-GTE-ContactorBox",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "VW Hybrid and EV"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Volkswagen"
         }
       ],
-      "title": "VW Hybrid and EV"
+      "title": "VAG (Audi, Porsche, Volkswagen, Seat, Skoda)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1079,11 +1243,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92912604,
             "language": "Python",
             "last_commit": "2026-08-17T14:06:34Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3345
+            "stars": 3346
           }
         },
         {
@@ -1093,6 +1258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62731441,
             "language": "C++",
             "last_commit": "2022-01-10T17:17:38Z",
             "owner": "vtl",
@@ -1107,6 +1273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163684812,
             "language": "C++",
             "last_commit": "2021-04-13T09:49:38Z",
             "owner": "olegel",
@@ -1121,6 +1288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163684812,
             "language": "C++",
             "last_commit": "2021-04-13T09:49:38Z",
             "owner": "olegel",
@@ -1135,6 +1303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153762982,
             "language": "C++",
             "last_commit": "2018-10-19T10:54:41Z",
             "owner": "johnbutol",
@@ -1149,6 +1318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153762982,
             "language": "C++",
             "last_commit": "2018-10-19T10:54:41Z",
             "owner": "johnbutol",
@@ -1163,147 +1333,153 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603414990,
             "language": "Fluent",
             "last_commit": "2023-02-24T12:53:24Z",
             "owner": "damienmaguire",
             "repo": "Volvo-V50-CAN-Info",
             "stars": 10
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volvo C30",
+              "description": "T5 2011 Codes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293345380,
+                "language": "Roff",
+                "last_commit": "2022-07-06T17:57:01Z",
+                "owner": "Alfaa123",
+                "repo": "Volvo-CAN-Gauge",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volvo C30",
+              "description": "T5 2011 LowSpeed CAN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293345380,
+                "language": "Roff",
+                "last_commit": "2022-07-06T17:57:01Z",
+                "owner": "Alfaa123",
+                "repo": "Volvo-CAN-Gauge",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volvo C30",
+              "description": "T5 2011 HighSpeed CAN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293345380,
+                "language": "Roff",
+                "last_commit": "2022-07-06T17:57:01Z",
+                "owner": "Alfaa123",
+                "repo": "Volvo-CAN-Gauge",
+                "stars": 129
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C30"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volvo S60",
+              "description": "2007 DIM: Project to power a volvo DIM outside of the car.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257314811,
+                "language": "C++",
+                "last_commit": "2023-09-27T00:48:26Z",
+                "owner": "vgab7",
+                "repo": "VolvoDIM",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volvo S60",
+              "description": "2007 DIM: Notes on CANBUS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257314811,
+                "language": "C++",
+                "last_commit": "2023-09-27T00:48:26Z",
+                "owner": "vgab7",
+                "repo": "VolvoDIM",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volvo S60",
+              "description": "Arduino CANBUS Volvo S60 DPF soot filter.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 40704907,
+                "language": "C++",
+                "last_commit": "2025-06-20T10:50:51Z",
+                "owner": "waal70",
+                "repo": "S60CAN",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volvo S60",
+              "description": "MY2009, aka P2 facelift model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142137323,
+                "language": "Java",
+                "last_commit": "2026-04-10T23:57:07Z",
+                "owner": "waal70",
+                "repo": "VolvoCANBUS",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volvo S60",
+              "description": "OBD-II CAN Data Extraction and Analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188383418,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-06-07T09:27:27Z",
+                "owner": "ezkripke",
+                "repo": "volvo-CAN-exploration",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "S60"
         }
       ],
       "title": "Volvo"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Volvo C30",
-          "description": "T5 2011 Codes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2022-07-06T17:57:01Z",
-            "owner": "Alfaa123",
-            "repo": "Volvo-CAN-Gauge",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volvo C30",
-          "description": "T5 2011 LowSpeed CAN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2022-07-06T17:57:01Z",
-            "owner": "Alfaa123",
-            "repo": "Volvo-CAN-Gauge",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volvo C30",
-          "description": "T5 2011 HighSpeed CAN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2022-07-06T17:57:01Z",
-            "owner": "Alfaa123",
-            "repo": "Volvo-CAN-Gauge",
-            "stars": 129
-          }
-        }
-      ],
-      "title": "C30"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Volvo S60",
-          "description": "2007 DIM: Project to power a volvo DIM outside of the car.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-09-27T00:48:26Z",
-            "owner": "vgab7",
-            "repo": "VolvoDIM",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volvo S60",
-          "description": "2007 DIM: Notes on CANBUS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-09-27T00:48:26Z",
-            "owner": "vgab7",
-            "repo": "VolvoDIM",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volvo S60",
-          "description": "Arduino CANBUS Volvo S60 DPF soot filter.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2025-06-20T10:50:51Z",
-            "owner": "waal70",
-            "repo": "S60CAN",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volvo S60",
-          "description": "MY2009, aka P2 facelift model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-10T23:57:07Z",
-            "owner": "waal70",
-            "repo": "VolvoCANBUS",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volvo S60",
-          "description": "OBD-II CAN Data Extraction and Analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-06-07T09:27:27Z",
-            "owner": "ezkripke",
-            "repo": "volvo-CAN-exploration",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "S60"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Motorcycles"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1312,11 +1488,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313261022,
             "language": null,
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3421
+            "stars": 3420
           }
         },
         {
@@ -1326,11 +1503,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317634009,
             "language": null,
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 977
+            "stars": 976
           }
         },
         {
@@ -1340,6 +1518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344925173,
             "language": null,
             "last_commit": "2023-09-06T06:49:15Z",
             "owner": "iDoka",
@@ -1352,8 +1531,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:01:47.105Z",
+    "last_updated": "2026-08-19T12:16:13.802Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
+    "original_repository_id": 317634009,
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
     "enhanced_repository_description": null,
