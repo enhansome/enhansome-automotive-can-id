@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T14:06:34Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3346
+            "stars": 3348
           }
         },
         {
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 298083806,
                 "language": "HTML",
-                "last_commit": "2026-05-25T13:44:32Z",
+                "last_commit": "2026-08-20T08:29:16Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 85
@@ -395,7 +395,7 @@
                 "archived": false,
                 "id": 298083806,
                 "language": "HTML",
-                "last_commit": "2026-05-25T13:44:32Z",
+                "last_commit": "2026-08-20T08:29:16Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 85
@@ -410,7 +410,7 @@
                 "archived": false,
                 "id": 298083806,
                 "language": "HTML",
-                "last_commit": "2026-05-25T13:44:32Z",
+                "last_commit": "2026-08-20T08:29:16Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 85
@@ -780,7 +780,7 @@
                 "last_commit": "2026-07-05T09:17:10Z",
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -1187,7 +1187,7 @@
                     "last_commit": "2026-07-05T09:17:10Z",
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
-                    "stars": 49
+                    "stars": 50
                   }
                 },
                 {
@@ -1248,7 +1248,7 @@
             "last_commit": "2026-08-17T14:06:34Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3346
+            "stars": 3348
           }
         },
         {
@@ -1493,7 +1493,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3423
           }
         },
         {
@@ -1531,7 +1531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:02:38.791Z",
+    "last_updated": "2026-08-20T14:05:04.326Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_id": 317634009,
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
