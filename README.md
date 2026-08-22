@@ -1,10 +1,10 @@
 # Awesome CAN ID with stars
 
-[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/) ⭐ 976 | 🐛 0 | 📅 2026-08-12
-[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/) ⭐ 976 | 🐛 0 | 📅 2026-08-12
-[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/) ⭐ 976 | 🐛 0 | 📅 2026-08-12
-[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/) ⭐ 976 | 🐛 0 | 📅 2026-08-12
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged) ⭐ 976 | 🐛 0 | 📅 2026-08-12
+[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged) ⭐ 978 | 🐛 0 | 📅 2026-08-12
 
 <!-- [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/commit/) -->
 
@@ -12,7 +12,7 @@
 
 An attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
 
-Permanent URL to this list: <https://github.com/iDoka/awesome-automotive-can-id> ⭐ 976 | 🐛 0 | 📅 2026-08-12
+Permanent URL to this list: <https://github.com/iDoka/awesome-automotive-can-id> ⭐ 978 | 🐛 0 | 📅 2026-08-12
 
 ## Contents
 
@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,350 | 🐛 336 | 🌐 Python | 📅 2026-08-17 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 62 | 🐛 47 | 🌐 HTML | 📅 2026-08-20 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,351 | 🐛 338 | 🌐 Python | 📅 2026-08-22 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 63 | 🐛 47 | 🌐 HTML | 📅 2026-08-21 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -163,9 +163,9 @@ Links for general DB and uther useful resources:
 
 ### Ford FG Falcon
 
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-21 - FG Falcon (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-21 - CANBus decoded (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-21 - Orion.
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - FG Falcon (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - CANBus decoded (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - Orion.
 
 ### Ford Transit
 
@@ -191,7 +191,7 @@ Links for general DB and uther useful resources:
 ## Jaguar
 
 * [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
-* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 1 | 🐛 1 | 📅 2026-08-18 - CAN Codes & DBCs
+* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - CAN Codes & DBCs
 
 ## Kia
 
@@ -374,14 +374,14 @@ temporaly unsorted:
 
 #### VW Hybrid and EV
 
-* [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-08-14 - VW e-Golf #2.
+* [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-08-21 - VW e-Golf #2.
 * [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 50 | 🐛 1 | 🌐 AGS Script | 📅 2026-07-05 - VW e-Golf.
 * [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) ⭐ 47 | 🐛 6 | 📅 2024-06-02 - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
 * [VW-GTE-ContactorBox](https://github.com/jamiejones85/VW-GTE-ContactorBox) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-05-08 - Reverse engineering the VW GTE Contactor Box (E-BOX).
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,350 | 🐛 336 | 🌐 Python | 📅 2026-08-17 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,351 | 🐛 338 | 🌐 Python | 📅 2026-08-22 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -420,7 +420,7 @@ temporaly unsorted:
 
 ### KTM motorcycle
 
-* [KTM motorcycle](https://github.com/blalor/ktm-can) ⭐ 71 | 🐛 1 | 🌐 Python | 📅 2021-02-28 - Python library for decoding KTM motorcycle CAN-bus messages.
+* [KTM motorcycle](https://github.com/blalor/ktm-can) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2021-02-28 - Python library for decoding KTM motorcycle CAN-bus messages.
 
 ***
 
@@ -430,8 +430,8 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,424 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 976 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,429 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 978 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
 3. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 
 <!--
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
