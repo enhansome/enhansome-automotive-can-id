@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-22T08:08:26Z",
+            "last_commit": "2026-08-24T14:13:36Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3354
+            "stars": 3356
           }
         },
         {
@@ -83,6 +83,28 @@
             "repo": "BMW-E65-CANBUS",
             "stars": 32
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BMW BMS/Sbox",
+              "description": "Reverse Engineering of the BMW SBox for use in EV conversion projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630580364,
+                "language": "C++",
+                "last_commit": "2023-04-21T10:49:40Z",
+                "owner": "damienmaguire",
+                "repo": "BMW_SBox",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BMW Hybrid vehicles"
         },
         {
           "children": [
@@ -182,6 +204,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CHRYSLER",
+              "description": "Several CHRYSLER models CAN ID.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146688187,
+                "language": "C",
+                "last_commit": "2026-07-13T20:48:55Z",
+                "owner": "karlyamashita",
+                "repo": "common_libraries",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chrysler"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dodge",
+              "description": "Durango 2008 Internal CANBUS 83.333Kbps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239360781,
+                "language": null,
+                "last_commit": "2020-11-10T01:50:28Z",
+                "owner": "BiggRanger",
+                "repo": "CANBUS-Vehicle-Reverse-Engineering",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dodge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Jeep",
               "description": "CAN BUS in Chrysler Jeep - VES enabler, other small features.",
               "children": [],
@@ -272,6 +338,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Ford",
+          "description": "Escape 2010 LTD with Active Park Assist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64955625,
+            "language": "Python",
+            "last_commit": "2016-08-05T22:42:42Z",
+            "owner": "andrewraharjo",
+            "repo": "CAN-Bus-Hack_Prius_Focus",
+            "stars": 61
+          }
+        },
         {
           "node_type": "item",
           "title": "Mustang, 2007-2009",
@@ -420,6 +501,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ford FG Falcon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ford Transit",
+              "description": "2020.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417697697,
+                "language": "Python",
+                "last_commit": "2022-10-14T00:26:38Z",
+                "owner": "slyt",
+                "repo": "van-hack",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ford Transit"
         }
       ],
       "title": "Ford (Lincoln, Mercury)"
@@ -474,6 +577,48 @@
         }
       ],
       "title": "Hyundai"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infiniti",
+          "description": "G37 2011 (DBC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338701963,
+            "language": "C++",
+            "last_commit": "2022-05-07T03:31:45Z",
+            "owner": "icecube45",
+            "repo": "Dash_InfinitiG37",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Infiniti"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jaguar XF 2013MY - Facelift",
+          "description": "CAN Codes & DBCs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1284768385,
+            "language": "Python",
+            "last_commit": "2026-08-22T02:28:59Z",
+            "owner": "fsfarmscaper",
+            "repo": "jaguar-xf-x250-can",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Jaguar"
     },
     {
       "description": "Note ⚠ Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems",
@@ -580,11 +725,53 @@
             "last_commit": "2021-06-10T15:41:25Z",
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 283
+            "stars": 284
           }
         }
       ],
       "title": "Kia"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Land Rover ( +Jaguar)",
+          "description": "Gearknob.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594504087,
+            "language": "C++",
+            "last_commit": "2023-04-06T08:30:44Z",
+            "owner": "Tom-evnut",
+            "repo": "Land-Rover-Gearknob",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Land Rover"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lexus",
+          "description": "RX350 2011 (RU).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 341846087,
+            "language": null,
+            "last_commit": "2021-02-24T09:34:55Z",
+            "owner": "Paucpauc",
+            "repo": "lexus_canbus_id",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Lexus"
     },
     {
       "description": null,
@@ -723,6 +910,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Mini",
+          "description": "Cooper 2002-2006 (XLSX).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200890013,
+            "language": null,
+            "last_commit": "2019-08-06T20:42:02Z",
+            "owner": "equinox311",
+            "repo": "open-can-db",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "MINI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mitsubishi",
+          "description": "I-Miev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9892932,
+            "language": null,
+            "last_commit": "2013-05-20T09:25:19Z",
+            "owner": "plaes",
+            "repo": "i-miev-obd2",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Mitsubishi"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Nissan",
           "description": "370Z 2010.",
           "children": [],
@@ -823,7 +1052,7 @@
                 "last_commit": "2026-04-22T04:27:46Z",
                 "owner": "JJToB",
                 "repo": "Car-CAN-Message-DB",
-                "stars": 68
+                "stars": 69
               }
             },
             {
@@ -935,6 +1164,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Suzuki",
+          "description": "Swift IV AZG 1.3 DDiS 16V 75cv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97443560,
+            "language": "Python",
+            "last_commit": "2021-10-11T14:38:01Z",
+            "owner": "P1kachu",
+            "repo": "talking-with-cars",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Suzuki"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tank",
+          "description": "Tank-500 FD CAN speedometer, odometer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 859672430,
+            "language": null,
+            "last_commit": "2024-09-19T05:21:51Z",
+            "owner": "SvetlAl",
+            "repo": "docs",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tank"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tesla",
+          "description": "Model 3 DBC file CAN messages (DBC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189098820,
+            "language": null,
+            "last_commit": "2023-10-24T05:53:52Z",
+            "owner": "joshwardell",
+            "repo": "model3dbc",
+            "stars": 403
+          }
+        }
+      ],
+      "title": "Tesla"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Toyota",
           "description": "Prius gen2.",
           "children": [],
@@ -946,6 +1238,21 @@
             "owner": "gerdbremer",
             "repo": "Prius-gen2-torque-PIDs",
             "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toyota",
+          "description": "Prius 2010 with Intelligent Parking Assist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64955625,
+            "language": "Python",
+            "last_commit": "2016-08-05T22:42:42Z",
+            "owner": "andrewraharjo",
+            "repo": "CAN-Bus-Hack_Prius_Focus",
+            "stars": 61
           }
         },
         {
@@ -1125,7 +1432,7 @@
                 "last_commit": "2026-01-31T16:37:47Z",
                 "owner": "jsphuebner",
                 "repo": "stm32-car",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -1245,10 +1552,10 @@
             "archived": false,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-22T08:08:26Z",
+            "last_commit": "2026-08-24T14:13:36Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3354
+            "stars": 3356
           }
         },
         {
@@ -1482,6 +1789,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ducati",
+              "description": "Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330760661,
+                "language": "C++",
+                "last_commit": "2025-02-10T02:29:14Z",
+                "owner": "renatobo",
+                "repo": "DucatiPanigaleCanBus",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ducati"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KTM motorcycle",
+              "description": "Python library for decoding KTM motorcycle CAN-bus messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339909357,
+                "language": "Python",
+                "last_commit": "2021-02-28T14:11:05Z",
+                "owner": "blalor",
+                "repo": "ktm-can",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "KTM motorcycle"
+        }
+      ],
+      "title": "Motorcycles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Also might be useful this curated list",
           "description": "of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.",
@@ -1531,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:49:59.073Z",
+    "last_updated": "2026-08-24T14:16:36.753Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_id": 317634009,
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",

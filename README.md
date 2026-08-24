@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,354 | 🐛 341 | 🌐 Python | 📅 2026-08-22 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,356 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 63 | 🐛 47 | 🌐 HTML | 📅 2026-08-23 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -122,8 +122,8 @@ Links for general DB and uther useful resources:
 
 ### Dodge
 
-* [Dodge](http://opengarages.org/index.php/Dodge_CAN_ID) - Opengarages Dodge CAN ID.
 * [Dodge](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering/blob/master/CAN-IHS%202010%20JK.ods) ⭐ 27 | 🐛 0 | 📅 2020-11-10 - Durango 2008 Internal CANBUS 83.333Kbps.
+* [Dodge](http://opengarages.org/index.php/Dodge_CAN_ID) - Opengarages Dodge CAN ID.
 
 ### Jeep
 
@@ -190,8 +190,8 @@ Links for general DB and uther useful resources:
 
 ## Jaguar
 
-* [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
 * [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - CAN Codes & DBCs
+* [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
 
 ## Kia
 
@@ -204,14 +204,14 @@ Links for general DB and uther useful resources:
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,037 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,037 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,037 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
-* [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 283 | 🐛 39 | 📅 2021-06-10 - EV.
+* [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 284 | 🐛 39 | 📅 2021-06-10 - EV.
 
 ## Land Rover
 
+* [Land Rover ( +Jaguar)](https://github.com/Tom-evnut/Land-Rover-Gearknob) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-04-06 - Gearknob.
 * [Freelander2 2.2 2007MY](https://www.drive2.ru/b/578407163836235804/) - CAN Codes (RU).
 * [Freelander2 2.2 2013MY](https://www.drive2.ru/b/578407438714142951/) - CAN Codes (RU).
 * [Discovery3 4.4 2006MY](https://www.drive2.ru/b/578407713592049777/) - CAN Codes (RU).
-* [Land Rover ( +Jaguar)](https://github.com/Tom-evnut/Land-Rover-Gearknob) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-04-06 - Gearknob.
 
 ### Range Rover
 
@@ -219,8 +219,8 @@ Links for general DB and uther useful resources:
 
 ## Lexus
 
-* [Lexus](https://habr.com/ru/post/450140/) - RX 450h (RU).
 * [Lexus](https://github.com/Paucpauc/lexus_canbus_id) ⭐ 34 | 🐛 1 | 📅 2021-02-24 - RX350 2011 (RU).
+* [Lexus](https://habr.com/ru/post/450140/) - RX 450h (RU).
 
 ## Lotus
 
@@ -249,8 +249,8 @@ Links for general DB and uther useful resources:
 
 ## Mitsubishi
 
-* [Mitsubishi](https://habr.com/ru/post/448658/) - Lancer 2008 (RU).
 * [Mitsubishi](https://github.com/plaes/i-miev-obd2) ⭐ 31 | 🐛 5 | 📅 2013-05-20 - I-Miev.
+* [Mitsubishi](https://habr.com/ru/post/448658/) - Lancer 2008 (RU).
 
 ## Nissan
 
@@ -263,7 +263,7 @@ Links for general DB and uther useful resources:
 ### Leaf
 
 * [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 230 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
-* [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 50 | 🐛 2 | 🌐 AGS Script | 📅 2026-07-05 - #1.
+* [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 50 | 🐛 1 | 🌐 AGS Script | 📅 2026-07-05 - #1.
 * [Nissan Leaf](https://github.com/damienmaguire/LeafLogs) ⭐ 7 | 🐛 0 | 📅 2021-05-05 - Some Logs from Gen 1 Nissan Leaf.
 * [Nissan Leaf](https://leaf-obd.readthedocs.io/en/latest/pid/index.html) - #2.
 
@@ -271,7 +271,7 @@ Links for general DB and uther useful resources:
 
 ### Astra
 
-* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 68 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
+* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 69 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
 * [Opel Astra H](https://github.com/megadrifter/Astra-H-Public) ⭐ 17 | 🐛 0 | 📅 2021-01-14 - LS CAN, MS CAN.
 * [Opel Astra H](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino) ⭐ 4 | 🐛 0 | 🌐 Arduino | 📅 2017-06-15 - Climate.
 * [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H) - CAN BUS.
@@ -324,8 +324,8 @@ temporaly unsorted:
 
 ## Tesla
 
-* [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
 * [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 403 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
+* [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
 * [Tesla](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0) - Model S/X CAN IDs and payload.
 
 ## Toyota
@@ -366,7 +366,7 @@ temporaly unsorted:
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Drivetrain CAN bus IDs].
-* [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 70 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
+* [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-07-13 - CAN\_ID.
 * [Volkswagen](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv) ⭐ 18 | 🐛 1 | 📅 2018-01-29 - MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc).
 * [Volkswagen](https://docs.google.com/spreadsheets/d/1eirT8LbSRl4j06BpwgsiE4PM_2BGH9UStdWLXwKvHJw/edit) - Golf GTI MK5.
@@ -375,13 +375,13 @@ temporaly unsorted:
 #### VW Hybrid and EV
 
 * [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-08-21 - VW e-Golf #2.
-* [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 50 | 🐛 2 | 🌐 AGS Script | 📅 2026-07-05 - VW e-Golf.
+* [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 50 | 🐛 1 | 🌐 AGS Script | 📅 2026-07-05 - VW e-Golf.
 * [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) ⭐ 47 | 🐛 6 | 📅 2024-06-02 - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
 * [VW-GTE-ContactorBox](https://github.com/jamiejones85/VW-GTE-ContactorBox) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-05-08 - Reverse engineering the VW GTE Contactor Box (E-BOX).
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,354 | 🐛 341 | 🌐 Python | 📅 2026-08-22 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,356 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -415,8 +415,8 @@ temporaly unsorted:
 
 ### Ducati
 
-* [Ducati](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351) - Collective decoding of Ducati CANBUS messages.
 * [Ducati](https://github.com/renatobo/DucatiPanigaleCanBus) ⭐ 46 | 🐛 5 | 🌐 C++ | 📅 2025-02-10 - Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)].
+* [Ducati](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351) - Collective decoding of Ducati CANBUS messages.
 
 ### KTM motorcycle
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
