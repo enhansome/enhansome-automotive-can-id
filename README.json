@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T14:13:36Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3357
+            "stars": 3361
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 163530292,
             "language": "HTML",
-            "last_commit": "2026-08-24T18:35:42Z",
+            "last_commit": "2026-08-25T12:36:42Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 63
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 298083806,
                 "language": "HTML",
-                "last_commit": "2026-08-22T03:31:12Z",
+                "last_commit": "2026-08-25T09:47:26Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 85
@@ -476,7 +476,7 @@
                 "archived": false,
                 "id": 298083806,
                 "language": "HTML",
-                "last_commit": "2026-08-22T03:31:12Z",
+                "last_commit": "2026-08-25T09:47:26Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 85
@@ -491,7 +491,7 @@
                 "archived": false,
                 "id": 298083806,
                 "language": "HTML",
-                "last_commit": "2026-08-22T03:31:12Z",
+                "last_commit": "2026-08-25T09:47:26Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 85
@@ -1555,7 +1555,7 @@
             "last_commit": "2026-08-24T14:13:36Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3357
+            "stars": 3361
           }
         },
         {
@@ -1802,7 +1802,7 @@
                 "last_commit": "2025-02-10T02:29:14Z",
                 "owner": "renatobo",
                 "repo": "DucatiPanigaleCanBus",
-                "stars": 46
+                "stars": 47
               }
             }
           ],
@@ -1888,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:53.845Z",
+    "last_updated": "2026-08-25T14:10:01.540Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_id": 317634009,
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",

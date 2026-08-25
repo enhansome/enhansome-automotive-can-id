@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,357 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 63 | 🐛 47 | 🌐 HTML | 📅 2026-08-24 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,361 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 63 | 🐛 47 | 🌐 HTML | 📅 2026-08-25 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -163,9 +163,9 @@ Links for general DB and uther useful resources:
 
 ### Ford FG Falcon
 
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - FG Falcon (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - CANBus decoded (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-22 - Orion.
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-25 - FG Falcon (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-25 - CANBus decoded (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-08-25 - Orion.
 
 ### Ford Transit
 
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,357 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,361 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -415,7 +415,7 @@ temporaly unsorted:
 
 ### Ducati
 
-* [Ducati](https://github.com/renatobo/DucatiPanigaleCanBus) ⭐ 46 | 🐛 5 | 🌐 C++ | 📅 2025-02-10 - Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)].
+* [Ducati](https://github.com/renatobo/DucatiPanigaleCanBus) ⭐ 47 | 🐛 5 | 🌐 C++ | 📅 2025-02-10 - Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)].
 * [Ducati](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351) - Collective decoding of Ducati CANBUS messages.
 
 ### KTM motorcycle
