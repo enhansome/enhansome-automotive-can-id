@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T14:13:36Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3356
+            "stars": 3357
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 163530292,
             "language": "HTML",
-            "last_commit": "2026-08-23T01:52:28Z",
+            "last_commit": "2026-08-24T18:35:42Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 63
@@ -1555,7 +1555,7 @@
             "last_commit": "2026-08-24T14:13:36Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3356
+            "stars": 3357
           }
         },
         {
@@ -1850,7 +1850,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3430
+            "stars": 3431
           }
         },
         {
@@ -1865,7 +1865,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 978
+            "stars": 977
           }
         },
         {
@@ -1888,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:52.580Z",
+    "last_updated": "2026-08-25T06:07:53.845Z",
     "original_repository": "iDoka/awesome-automotive-can-id",
     "original_repository_id": 317634009,
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
