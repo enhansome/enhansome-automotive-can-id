@@ -1,10 +1,10 @@
 # Awesome CAN ID with stars
 
-[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/) ⭐ 977 | 🐛 0 | 📅 2026-08-12
-[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/) ⭐ 977 | 🐛 0 | 📅 2026-08-12
-[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/) ⭐ 977 | 🐛 0 | 📅 2026-08-12
-[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/) ⭐ 977 | 🐛 0 | 📅 2026-08-12
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged) ⭐ 977 | 🐛 0 | 📅 2026-08-12
+[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/) ⭐ 978 | 🐛 0 | 📅 2026-08-12
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged) ⭐ 978 | 🐛 0 | 📅 2026-08-12
 
 <!-- [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/commit/) -->
 
@@ -12,7 +12,7 @@
 
 An attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
 
-Permanent URL to this list: <https://github.com/iDoka/awesome-automotive-can-id> ⭐ 977 | 🐛 0 | 📅 2026-08-12
+Permanent URL to this list: <https://github.com/iDoka/awesome-automotive-can-id> ⭐ 978 | 🐛 0 | 📅 2026-08-12
 
 ## Contents
 
@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,361 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 63 | 🐛 47 | 🌐 HTML | 📅 2026-08-25 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,363 | 🐛 341 | 🌐 Python | 📅 2026-08-25 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 62 | 🐛 47 | 🌐 HTML | 📅 2026-08-26 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -87,8 +87,8 @@ Links for general DB and uther useful resources:
 
 ## BMW
 
-* [BMW](https://github.com/kmalinich/node-bmw-ref) ⭐ 78 | 🐛 0 | 🌐 C | 📅 2018-12-02 - DBUS/IBUS/KBUS information/reference/examples.
-* [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) ⭐ 78 | 🐛 0 | 🌐 C | 📅 2018-12-02 - CANBUS information/reference.
+* [BMW](https://github.com/kmalinich/node-bmw-ref) ⭐ 79 | 🐛 0 | 🌐 C | 📅 2018-12-02 - DBUS/IBUS/KBUS information/reference/examples.
+* [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) ⭐ 79 | 🐛 0 | 🌐 C | 📅 2018-12-02 - CANBUS information/reference.
 * [BMW](https://github.com/damienmaguire/BMW-E65-CANBUS) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2018-08-10 - E65 7 Series Powertrain CAN bus.
 * [BMW](https://www.ms4x.net/index.php?title=Siemens_MS43_CAN_Bus) - BMW E46, MS43 ECU.
 * [BMW](https://www.ms4x.net/index.php?title=Siemens_MS42_CAN_Bus) - BMW E46, MS42 ECU.
@@ -177,7 +177,7 @@ Links for general DB and uther useful resources:
 
 ## Hyundai
 
-* [Hyundai](https://github.com/Esprit1st/Hyundai-Ioniq-5-Torque-Pro-PIDs) ⭐ 31 | 🐛 0 | 📅 2026-03-12 - Ioniq 5.
+* [Hyundai](https://github.com/Esprit1st/Hyundai-Ioniq-5-Torque-Pro-PIDs) ⭐ 32 | 🐛 0 | 📅 2026-03-12 - Ioniq 5.
 * [Hyundai](https://github.com/joshpatten/HyundaiCan) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2021-06-07 - Genesis 5.0 2015.
 * [Hyundai](https://github.com/tylerwatt12/VelosterCANBus) ⭐ 4 | 🐛 1 | 🌐 Rich Text Format | 📅 2021-04-18 - Veloster 2016.
 * [Hyundai](https://philipkocanda.github.io/canair/profiles/ioniq-2017) - Ioniq AE Electric 2017.
@@ -249,7 +249,7 @@ Links for general DB and uther useful resources:
 
 ## Mitsubishi
 
-* [Mitsubishi](https://github.com/plaes/i-miev-obd2) ⭐ 31 | 🐛 5 | 📅 2013-05-20 - I-Miev.
+* [Mitsubishi](https://github.com/plaes/i-miev-obd2) ⭐ 32 | 🐛 5 | 📅 2013-05-20 - I-Miev.
 * [Mitsubishi](https://habr.com/ru/post/448658/) - Lancer 2008 (RU).
 
 ## Nissan
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,361 | 🐛 342 | 🌐 Python | 📅 2026-08-24 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,363 | 🐛 341 | 🌐 Python | 📅 2026-08-25 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,8 +430,8 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,431 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 977 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,432 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 978 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
 3. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 
 <!--
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
