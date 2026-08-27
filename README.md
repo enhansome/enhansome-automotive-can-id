@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,365 | 🐛 341 | 🌐 Python | 📅 2026-08-26 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,366 | 🐛 342 | 🌐 Python | 📅 2026-08-27 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 62 | 🐛 47 | 🌐 HTML | 📅 2026-08-27 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -236,11 +236,11 @@ Links for general DB and uther useful resources:
 
 ## Mercedes-Benz
 
-* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 167 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
+* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 168 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
 * [Mercedes-Benz](https://github.com/rnd-ash/MBUX-Port) ⚠️ Archived - 2000-2007: See txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
 * [Mercedes-Benz](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) ⭐ 130 | 🐛 5 | 📅 2026-06-01 - W203 C200 CDI: Should theoretically work on W203/w209/w211/w219 vehicles.
 * [Mercedes-Benz](https://github.com/mkovero/7226ctrl) ⭐ 66 | 🐛 12 | 🌐 C++ | 📅 2020-07-07 - Controller for 722.6 automatic transmission.
-* [Mercedes-Benz](https://github.com/dvjcodec/Mercedes-Benz-CAN-BUS) ⭐ 22 | 🐛 0 | 📅 2021-09-19 - Understand and run units via CAN-bus network.
+* [Mercedes-Benz](https://github.com/dvjcodec/Mercedes-Benz-CAN-BUS) ⭐ 23 | 🐛 0 | 📅 2021-09-19 - Understand and run units via CAN-bus network.
 * [Mercedes-Benz](https://docs.google.com/spreadsheets/d/1krPDmjjwmlta4jAVcDMoWbseAokUYnBAHn67pOo00C0/edit#gid=2038710733) - W203 CAN BUS.
 
 ## MINI
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,365 | 🐛 341 | 🌐 Python | 📅 2026-08-26 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,366 | 🐛 342 | 🌐 Python | 📅 2026-08-27 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.

@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-26T21:27:11Z",
+            "last_commit": "2026-08-27T16:09:24Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3365
+            "stars": 3366
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 163530292,
             "language": "HTML",
-            "last_commit": "2026-08-27T08:41:42Z",
+            "last_commit": "2026-08-27T20:30:27Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
@@ -839,7 +839,7 @@
             "last_commit": "2020-08-07T08:49:33Z",
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -899,7 +899,7 @@
             "last_commit": "2021-09-19T10:42:06Z",
             "owner": "dvjcodec",
             "repo": "Mercedes-Benz-CAN-BUS",
-            "stars": 22
+            "stars": 23
           }
         }
       ],
@@ -1552,10 +1552,10 @@
             "archived": false,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-26T21:27:11Z",
+            "last_commit": "2026-08-27T16:09:24Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3365
+            "stars": 3366
           }
         },
         {
@@ -1888,7 +1888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:04.267Z",
+    "last_updated": "2026-08-27T22:59:46.710Z",
     "original_repository_info": {
       "archived": false,
       "id": 317634009,
