@@ -12,10 +12,10 @@
             "archived": false,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-25T21:39:29Z",
+            "last_commit": "2026-08-26T21:27:11Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3363
+            "stars": 3365
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 163530292,
             "language": "HTML",
-            "last_commit": "2026-08-26T01:03:07Z",
+            "last_commit": "2026-08-27T08:41:42Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
@@ -410,7 +410,7 @@
             "last_commit": "2025-01-17T03:05:16Z",
             "owner": "EricTurner3",
             "repo": "s550-canbus",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -464,7 +464,7 @@
                 "last_commit": "2026-08-25T09:47:26Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 85
+                "stars": 84
               }
             },
             {
@@ -479,7 +479,7 @@
                 "last_commit": "2026-08-25T09:47:26Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 85
+                "stars": 84
               }
             },
             {
@@ -494,7 +494,7 @@
                 "last_commit": "2026-08-25T09:47:26Z",
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 85
+                "stars": 84
               }
             }
           ],
@@ -1216,7 +1216,7 @@
             "last_commit": "2023-10-24T05:53:52Z",
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 403
+            "stars": 404
           }
         }
       ],
@@ -1417,7 +1417,7 @@
                 "last_commit": "2024-06-28T15:11:33Z",
                 "owner": "v-ivanyshyn",
                 "repo": "parse_can_logs",
-                "stars": 97
+                "stars": 98
               }
             },
             {
@@ -1552,10 +1552,10 @@
             "archived": false,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-25T21:39:29Z",
+            "last_commit": "2026-08-26T21:27:11Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3363
+            "stars": 3365
           }
         },
         {
@@ -1850,7 +1850,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -1888,9 +1888,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:09:11.045Z",
-    "original_repository": "iDoka/awesome-automotive-can-id",
-    "original_repository_id": 317634009,
+    "last_updated": "2026-08-27T11:20:04.267Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 317634009,
+      "language": null,
+      "last_commit": "2026-08-12T13:39:28Z",
+      "owner": "iDoka",
+      "repo": "awesome-automotive-can-id",
+      "stars": 978
+    },
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
     "enhanced_repository_description": null,
