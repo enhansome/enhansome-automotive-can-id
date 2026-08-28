@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T16:09:24Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3366
-          }
+            "stars": 3368
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 163530292,
             "language": "HTML",
-            "last_commit": "2026-08-27T20:30:27Z",
+            "last_commit": "2026-08-28T22:47:04Z",
             "owner": "rusefi",
             "repo": "rusefi_documentation",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Common"
@@ -52,7 +54,8 @@
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "damienmaguire",
             "repo": "BMW-E65-CANBUS",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "children": [
@@ -99,7 +104,8 @@
                 "owner": "damienmaguire",
                 "repo": "BMW_SBox",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -121,7 +127,8 @@
                 "owner": "Autohome2",
                 "repo": "idrive-controller",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "thatdamnranga",
                 "repo": "iDrive",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "jegb",
                 "repo": "iDrive_knob",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -177,7 +186,8 @@
             "owner": "karlyamashita",
             "repo": "common_libraries",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -192,7 +202,8 @@
             "owner": "karlyamashita",
             "repo": "common_libraries",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "General Motors (Buick, Cadillac, Chevrolet, GMC)"
@@ -215,7 +226,8 @@
                 "owner": "karlyamashita",
                 "repo": "common_libraries",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -237,7 +249,8 @@
                 "owner": "BiggRanger",
                 "repo": "CANBUS-Vehicle-Reverse-Engineering",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -259,7 +272,8 @@
                 "owner": "latonita",
                 "repo": "jeep-canbus",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -274,7 +288,8 @@
                 "owner": "BiggRanger",
                 "repo": "CANBUS-Vehicle-Reverse-Engineering",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -289,7 +304,8 @@
                 "owner": "SvetlAl",
                 "repo": "docs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -315,7 +331,8 @@
             "owner": "P1kachu",
             "repo": "talking-with-cars",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -330,7 +347,8 @@
             "owner": "VeryBusyBee",
             "repo": "FiatMon",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Fiat"
@@ -351,7 +369,8 @@
             "owner": "andrewraharjo",
             "repo": "CAN-Bus-Hack_Prius_Focus",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -366,7 +385,8 @@
             "owner": "thomastech",
             "repo": "CAN2Cluster",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -381,7 +401,8 @@
             "owner": "karlyamashita",
             "repo": "common_libraries",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -396,7 +417,8 @@
             "owner": "autti",
             "repo": "abraham",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -411,7 +433,8 @@
             "owner": "EricTurner3",
             "repo": "s550-canbus",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "children": [
@@ -428,7 +451,8 @@
                 "owner": "roncapat",
                 "repo": "Ford-Fiesta-MK5-MS-CAN-bus",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -443,7 +467,8 @@
                 "owner": "fereste",
                 "repo": "tablero",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -465,7 +490,8 @@
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -480,7 +506,8 @@
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -495,7 +522,8 @@
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -517,7 +545,8 @@
                 "owner": "slyt",
                 "repo": "van-hack",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -543,7 +572,8 @@
             "owner": "Esprit1st",
             "repo": "Hyundai-Ioniq-5-Torque-Pro-PIDs",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -558,7 +588,8 @@
             "owner": "joshpatten",
             "repo": "HyundaiCan",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -573,7 +604,8 @@
             "owner": "tylerwatt12",
             "repo": "VelosterCANBus",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Hyundai"
@@ -594,7 +626,8 @@
             "owner": "icecube45",
             "repo": "Dash_InfinitiG37",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Infiniti"
@@ -615,7 +648,8 @@
             "owner": "fsfarmscaper",
             "repo": "jaguar-xf-x250-can",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Jaguar"
@@ -636,7 +670,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -651,7 +686,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -666,7 +702,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -681,7 +718,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -696,7 +734,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -711,7 +750,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -726,7 +766,8 @@
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Kia"
@@ -747,7 +788,8 @@
             "owner": "Tom-evnut",
             "repo": "Land-Rover-Gearknob",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Land Rover"
@@ -768,7 +810,8 @@
             "owner": "Paucpauc",
             "repo": "lexus_canbus_id",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Lexus"
@@ -789,7 +832,8 @@
             "owner": "majbthrd",
             "repo": "MazdaCANbus",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -804,7 +848,8 @@
             "owner": "ihaque",
             "repo": "arduino-ecu-logger",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -819,7 +864,8 @@
             "owner": "silverchris",
             "repo": "Mazda3_Canbus_Messages",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Mazda"
@@ -839,8 +885,9 @@
             "last_commit": "2020-08-07T08:49:33Z",
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 168
-          }
+            "stars": 169
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -855,7 +902,8 @@
             "owner": "rnd-ash",
             "repo": "MBUX-Port",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -870,7 +918,8 @@
             "owner": "rnd-ash",
             "repo": "ultimate_nag52",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -885,7 +934,8 @@
             "owner": "mkovero",
             "repo": "7226ctrl",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -900,7 +950,8 @@
             "owner": "dvjcodec",
             "repo": "Mercedes-Benz-CAN-BUS",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Mercedes-Benz"
@@ -921,7 +972,8 @@
             "owner": "equinox311",
             "repo": "open-can-db",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "MINI"
@@ -942,7 +994,8 @@
             "owner": "plaes",
             "repo": "i-miev-obd2",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Mitsubishi"
@@ -963,7 +1016,8 @@
             "owner": "Knio",
             "repo": "carhack",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -978,7 +1032,8 @@
             "owner": "jackm",
             "repo": "carhack",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "children": [
@@ -995,7 +1050,8 @@
                 "owner": "dalathegreat",
                 "repo": "leaf_can_bus_messages",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1066,8 @@
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1082,8 @@
                 "owner": "damienmaguire",
                 "repo": "LeafLogs",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1053,7 +1111,8 @@
                 "owner": "JJToB",
                 "repo": "Car-CAN-Message-DB",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1068,7 +1127,8 @@
                 "owner": "megadrifter",
                 "repo": "Astra-H-Public",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1143,8 @@
                 "owner": "megadrifter",
                 "repo": "AstraH_climate",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1109,7 +1170,8 @@
             "owner": "afreiday",
             "repo": "2016-wrx-can-ids",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1124,7 +1186,8 @@
             "owner": "equinox311",
             "repo": "open-can-db",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1139,7 +1202,8 @@
             "owner": "equinox311",
             "repo": "open-can-db",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1154,7 +1218,8 @@
             "owner": "equinox311",
             "repo": "open-can-db",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Subaru"
@@ -1175,7 +1240,8 @@
             "owner": "P1kachu",
             "repo": "talking-with-cars",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Suzuki"
@@ -1196,7 +1262,8 @@
             "owner": "SvetlAl",
             "repo": "docs",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Tank"
@@ -1217,7 +1284,8 @@
             "owner": "joshwardell",
             "repo": "model3dbc",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Tesla"
@@ -1238,7 +1306,8 @@
             "owner": "gerdbremer",
             "repo": "Prius-gen2-torque-PIDs",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1322,8 @@
             "owner": "andrewraharjo",
             "repo": "CAN-Bus-Hack_Prius_Focus",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1268,7 +1338,8 @@
             "owner": "P1kachu",
             "repo": "talking-with-cars",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1283,7 +1354,8 @@
             "owner": "halleysfifthinc",
             "repo": "AVCLAN-Mockingboard",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1298,7 +1370,8 @@
             "owner": "karlyamashita",
             "repo": "common_libraries",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1386,8 @@
             "owner": "instalator",
             "repo": "AVC-LAN-Toyota",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1328,7 +1402,8 @@
             "owner": "HbirdJ",
             "repo": "CAN-Translator",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Toyota"
@@ -1351,7 +1426,8 @@
                 "owner": "robbederks",
                 "repo": "q8_flexray_dumps",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1442,8 @@
                 "owner": "bradarnold",
                 "repo": "e-tron_OBD2ABRP",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1388,7 +1465,8 @@
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1403,7 +1481,8 @@
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1418,7 +1497,8 @@
                 "owner": "v-ivanyshyn",
                 "repo": "parse_can_logs",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1433,7 +1513,8 @@
                 "owner": "jsphuebner",
                 "repo": "stm32-car",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1448,7 +1529,8 @@
                 "owner": "karlyamashita",
                 "repo": "common_libraries",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1463,7 +1545,8 @@
                 "owner": "bri3d",
                 "repo": "MQBSimosLogVariables",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "children": [
@@ -1480,7 +1563,8 @@
                     "owner": "EVNotify",
                     "repo": "EVNotify",
                     "stars": 233
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:36.776Z"
                 },
                 {
                   "node_type": "item",
@@ -1495,7 +1579,8 @@
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:36.776Z"
                 },
                 {
                   "node_type": "item",
@@ -1510,7 +1595,8 @@
                     "owner": "spot2000",
                     "repo": "Volkswagen-MEB-EV-CAN-parameters",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:36.776Z"
                 },
                 {
                   "node_type": "item",
@@ -1525,7 +1611,8 @@
                     "owner": "jamiejones85",
                     "repo": "VW-GTE-ContactorBox",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:36.776Z"
                 }
               ],
               "description": null,
@@ -1555,8 +1642,9 @@
             "last_commit": "2026-08-27T16:09:24Z",
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3366
-          }
+            "stars": 3368
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1571,7 +1659,8 @@
             "owner": "vtl",
             "repo": "volvo-ddd",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1586,7 +1675,8 @@
             "owner": "olegel",
             "repo": "VolvoCan",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1601,7 +1691,8 @@
             "owner": "olegel",
             "repo": "VolvoCan",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1616,7 +1707,8 @@
             "owner": "johnbutol",
             "repo": "CCM-busmaster",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1631,7 +1723,8 @@
             "owner": "johnbutol",
             "repo": "CCM-busmaster",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1646,7 +1739,8 @@
             "owner": "damienmaguire",
             "repo": "Volvo-V50-CAN-Info",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "children": [
@@ -1663,7 +1757,8 @@
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1678,7 +1773,8 @@
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1693,7 +1789,8 @@
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1715,7 +1812,8 @@
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1730,7 +1828,8 @@
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1745,7 +1844,8 @@
                 "owner": "waal70",
                 "repo": "S60CAN",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1760,7 +1860,8 @@
                 "owner": "waal70",
                 "repo": "VolvoCANBUS",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
@@ -1775,7 +1876,8 @@
                 "owner": "ezkripke",
                 "repo": "volvo-CAN-exploration",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1803,7 +1905,8 @@
                 "owner": "renatobo",
                 "repo": "DucatiPanigaleCanBus",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1825,7 +1928,8 @@
                 "owner": "blalor",
                 "repo": "ktm-can",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
@@ -1850,8 +1954,9 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3433
-          }
+            "stars": 3434
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1866,7 +1971,8 @@
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         },
         {
           "node_type": "item",
@@ -1881,14 +1987,15 @@
             "owner": "iDoka",
             "repo": "awesome-linbus",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T23:05:36.776Z"
         }
       ],
       "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:59:46.710Z",
+    "last_updated": "2026-08-28T23:05:36.776Z",
     "original_repository_info": {
       "archived": false,
       "id": 317634009,
