@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Python API for your car",
+            "homepage": null,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-27T16:09:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:54:50Z",
+            "open_issues": 342,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3368
+            "stars": 3369,
+            "topics": [
+              "automotive",
+              "can",
+              "dbc",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User documentation for rusEFI engine control unit",
+            "homepage": null,
             "id": 163530292,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:47:04Z",
+            "open_issues": 47,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -48,12 +63,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BMW CANBUS/DBUS/IBUS/KBUS information/reference/examples",
+            "homepage": null,
             "id": 101318455,
             "language": "C",
+            "license": null,
             "last_commit": "2018-12-02T18:52:09Z",
+            "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "bmw",
+              "bus-network",
+              "canbus",
+              "diagnostic",
+              "serial",
+              "vehicle"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -64,12 +91,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BMW CANBUS/DBUS/IBUS/KBUS information/reference/examples",
+            "homepage": null,
             "id": 101318455,
             "language": "C",
+            "license": null,
             "last_commit": "2018-12-02T18:52:09Z",
+            "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "bmw",
+              "bus-network",
+              "canbus",
+              "diagnostic",
+              "serial",
+              "vehicle"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -80,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information on the BMW E65 7 Series Powertrain CAN bus",
+            "homepage": null,
             "id": 144304986,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-08-10T15:48:17Z",
+            "open_issues": 1,
             "owner": "damienmaguire",
             "repo": "BMW-E65-CANBUS",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -98,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse Engineering of the BMW SBox for use in ev conversion projects",
+                "homepage": null,
                 "id": 630580364,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-21T10:49:40Z",
+                "open_issues": 1,
                 "owner": "damienmaguire",
                 "repo": "BMW_SBox",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -121,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 151394098,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-10-28T21:16:36Z",
+                "open_issues": 0,
                 "owner": "Autohome2",
                 "repo": "idrive-controller",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -137,12 +191,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller",
+                "homepage": null,
                 "id": 197702830,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2019-07-19T04:38:08Z",
+                "open_issues": 0,
                 "owner": "thatdamnranga",
                 "repo": "iDrive",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "arduino",
+                  "arduino-due",
+                  "arduino-library",
+                  "can",
+                  "can-bus"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -153,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino canbus reader for events on iDrive knob controller",
+                "homepage": null,
                 "id": 9154931,
                 "language": "Arduino",
+                "license": null,
                 "last_commit": "2013-04-01T20:01:57Z",
+                "open_issues": 0,
                 "owner": "jegb",
                 "repo": "iDrive_knob",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -180,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+            "homepage": null,
             "id": 146688187,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-13T20:48:55Z",
+            "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -196,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+            "homepage": null,
             "id": 146688187,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-13T20:48:55Z",
+            "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -220,12 +300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+                "homepage": null,
                 "id": 146688187,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-13T20:48:55Z",
+                "open_issues": 0,
                 "owner": "karlyamashita",
                 "repo": "common_libraries",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -243,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My CANBUS documentation for my 2006 Grand Cherokee, 2008 Durango, 2010 Wrangler",
+                "homepage": null,
                 "id": 239360781,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-11-10T01:50:28Z",
+                "open_issues": 0,
                 "owner": "BiggRanger",
                 "repo": "CANBUS-Vehicle-Reverse-Engineering",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -266,12 +356,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Projects around CAN BUS in Chrysler Jeep - VES enabler, other small features",
+                "homepage": null,
                 "id": 86825945,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-11-07T10:03:16Z",
+                "open_issues": 3,
                 "owner": "latonita",
                 "repo": "jeep-canbus",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "arduino",
+                  "bus-monitoring",
+                  "can",
+                  "can-b",
+                  "can-bus",
+                  "chrysler",
+                  "hack",
+                  "jeep",
+                  "radio",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -282,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My CANBUS documentation for my 2006 Grand Cherokee, 2008 Durango, 2010 Wrangler",
+                "homepage": null,
                 "id": 239360781,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-11-10T01:50:28Z",
+                "open_issues": 0,
                 "owner": "BiggRanger",
                 "repo": "CANBUS-Vehicle-Reverse-Engineering",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -298,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 859672430,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-19T05:21:51Z",
+                "open_issues": 0,
                 "owner": "SvetlAl",
                 "repo": "docs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -325,12 +441,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAN analysis - Use your car as a gamepad!",
+            "homepage": null,
             "id": 97443560,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-11T14:38:01Z",
+            "open_issues": 0,
             "owner": "P1kachu",
             "repo": "talking-with-cars",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "automotive",
+              "can",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -341,12 +466,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FiatMon is a device which takes certain CAN messages from Fiat 500L CAN network using OBD2 connector and displays them on the LCD/OLED screen. Most CAN messages are captured from a broadcast stream, but few are requested/received.",
+            "homepage": null,
             "id": 408912581,
             "language": "C",
+            "license": null,
             "last_commit": "2022-02-21T12:17:46Z",
+            "open_issues": 1,
             "owner": "VeryBusyBee",
             "repo": "FiatMon",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "can-bus",
+              "freertos",
+              "st7565",
+              "stm32",
+              "stm32f103"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -363,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leverage from ioactive blog for research purpose in Self Driving Car Development",
+            "homepage": null,
             "id": 64955625,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-08-05T22:42:42Z",
+            "open_issues": 1,
             "owner": "andrewraharjo",
             "repo": "CAN-Bus-Hack_Prius_Focus",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -379,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAN-Bus Emulator for Controlling Automotive Dashboard Instrument Clusters",
+            "homepage": null,
             "id": 163445078,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-18T17:19:16Z",
+            "open_issues": 0,
             "owner": "thomastech",
             "repo": "CAN2Cluster",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -395,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+            "homepage": null,
             "id": 146688187,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-13T20:48:55Z",
+            "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -411,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBC files for Lincoln MKZ and Ford Fusion",
+            "homepage": null,
             "id": 84316393,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-12T07:16:45Z",
+            "open_issues": 53,
             "owner": "autti",
             "repo": "abraham",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -427,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Research and scripts for the Ford S550 Mustang CAN Bus",
+            "homepage": null,
             "id": 637408376,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-17T03:05:16Z",
+            "open_issues": 12,
             "owner": "EricTurner3",
             "repo": "s550-canbus",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -445,12 +606,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering of CANbus messages of Fiesta MK5 (restyling) dashboard/radio",
+                "homepage": null,
                 "id": 289456997,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-09-30T20:22:55Z",
+                "open_issues": 2,
                 "owner": "roncapat",
                 "repo": "Ford-Fiesta-MK5-MS-CAN-bus",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "automotive",
+                  "canbus",
+                  "canbus-messages",
+                  "fiesta-mk5",
+                  "ford",
+                  "ms-can"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -461,12 +634,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ford Fiesta MK 7.5 instrument cluster controller using Arduino and CAN bus",
+                "homepage": null,
                 "id": 214669413,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-10-27T18:53:46Z",
+                "open_issues": 1,
                 "owner": "fereste",
                 "repo": "tablero",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "arduino",
+                  "can-bus",
+                  "instrument-cluster"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -484,12 +666,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FoA Orion Repository",
+                "homepage": "https://testerPresent.com.au/",
                 "id": 298083806,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-25T09:47:26Z",
+                "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "australia",
+                  "canbus",
+                  "falcon",
+                  "fg",
+                  "ford",
+                  "orion"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -500,12 +694,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FoA Orion Repository",
+                "homepage": "https://testerPresent.com.au/",
                 "id": 298083806,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-25T09:47:26Z",
+                "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "australia",
+                  "canbus",
+                  "falcon",
+                  "fg",
+                  "ford",
+                  "orion"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -516,12 +722,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FoA Orion Repository",
+                "homepage": "https://testerPresent.com.au/",
                 "id": 298083806,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-25T09:47:26Z",
+                "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "australia",
+                  "canbus",
+                  "falcon",
+                  "fg",
+                  "ford",
+                  "orion"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -539,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application to display useful info and control Ford Transit Van via CANbus commands.",
+                "homepage": null,
                 "id": 417697697,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-14T00:26:38Z",
+                "open_issues": 0,
                 "owner": "slyt",
                 "repo": "van-hack",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -566,12 +789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyundai Ioniq 5 OBD2 PID files for Torque Pro",
+            "homepage": null,
             "id": 472536644,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-12T20:34:05Z",
+            "open_issues": 0,
             "owner": "Esprit1st",
             "repo": "Hyundai-Ioniq-5-Torque-Pro-PIDs",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -582,12 +810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyundai CANBus audio control",
+            "homepage": null,
             "id": 369661355,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-07T21:26:53Z",
+            "open_issues": 1,
             "owner": "joshpatten",
             "repo": "HyundaiCan",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -598,12 +831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAN Bus dumps from a 2016 Hyundai Veloster with the Infinity sound system.",
+            "homepage": null,
             "id": 359183229,
             "language": "Rich Text Format",
+            "license": null,
             "last_commit": "2021-04-18T15:37:25Z",
+            "open_issues": 1,
             "owner": "tylerwatt12",
             "repo": "VelosterCANBus",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -620,12 +858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dash Vehicle Plugin for 2011 InfinitiG37",
+            "homepage": null,
             "id": 338701963,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-05-07T03:31:45Z",
+            "open_issues": 1,
             "owner": "icecube45",
             "repo": "Dash_InfinitiG37",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -642,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1284768385,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T02:28:59Z",
+            "open_issues": 1,
             "owner": "fsfarmscaper",
             "repo": "jaguar-xf-x250-can",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -664,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -680,12 +933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -696,12 +954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -712,12 +975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -728,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -744,12 +1017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -760,12 +1038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setting up Torque Pro to show OBD data on Hyundai / Kia Electric Vehicles",
+            "homepage": null,
             "id": 75996723,
             "language": null,
+            "license": null,
             "last_commit": "2021-06-10T15:41:25Z",
+            "open_issues": 39,
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -782,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 594504087,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-04-06T08:30:44Z",
+            "open_issues": 0,
             "owner": "Tom-evnut",
             "repo": "Land-Rover-Gearknob",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -804,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 341846087,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-24T09:34:55Z",
+            "open_issues": 1,
             "owner": "Paucpauc",
             "repo": "lexus_canbus_id",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -826,12 +1119,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "database of known Mazda CAN messages",
+            "homepage": null,
             "id": 76207828,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-12T21:38:02Z",
+            "open_issues": 0,
             "owner": "majbthrd",
             "repo": "MazdaCANbus",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "can-bus",
+              "mazda",
+              "rx-8",
+              "skyactiv"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -842,12 +1145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino-based OBD2 engine monitor and data logger",
+            "homepage": null,
             "id": 5775503,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-01-17T02:24:58Z",
+            "open_issues": 0,
             "owner": "ihaque",
             "repo": "arduino-ecu-logger",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -858,12 +1166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 517401853,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-05T03:57:38Z",
+            "open_issues": 0,
             "owner": "silverchris",
             "repo": "Mazda3_Canbus_Messages",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -880,12 +1193,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source project for W211/W219 W203/W209 Mercs - bluetooth audio control and more!",
+            "homepage": null,
             "id": 212410806,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-08-07T08:49:33Z",
+            "open_issues": 3,
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "android",
+              "android-application",
+              "arduino",
+              "arduino-setup",
+              "bluetooth",
+              "canbus",
+              "canbus-shield",
+              "car",
+              "connected-car",
+              "connected-vehicle",
+              "frames",
+              "ic-display",
+              "mcp2515",
+              "mercedes",
+              "mercedes-benz",
+              "phone",
+              "reverse-engineering",
+              "w203",
+              "w211"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -896,12 +1234,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Custom Infotainment UI for older Mercedes vehicles (2000-2007), inspired loosely by the 2021 S Class MBUX UI",
+            "homepage": null,
             "id": 281424206,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-01-16T21:21:17Z",
+            "open_issues": 2,
             "owner": "rnd-ash",
             "repo": "MBUX-Port",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "android",
+              "arduino",
+              "canbus",
+              "java",
+              "kotlin",
+              "mercedes",
+              "w203",
+              "w209",
+              "w211",
+              "w219"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -912,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source TCM for Daimlers 722.6 gearbox. Resource repository",
+            "homepage": null,
             "id": 340183415,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-01T18:42:46Z",
+            "open_issues": 5,
             "owner": "rnd-ash",
             "repo": "ultimate_nag52",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -928,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "controller for 722.6 automatic transmission",
+            "homepage": null,
             "id": 68191214,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-07T08:08:22Z",
+            "open_issues": 12,
             "owner": "mkovero",
             "repo": "7226ctrl",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -944,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand and run units via CAN-bus network",
+            "homepage": null,
             "id": 187445221,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-19T10:42:06Z",
+            "open_issues": 0,
             "owner": "dvjcodec",
             "repo": "Mercedes-Benz-CAN-BUS",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -966,12 +1335,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open automotive CANbus database set made to reduce public obscurity in the CAN architecture of vehicles",
+            "homepage": null,
             "id": 200890013,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-06T20:42:02Z",
+            "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "automotive",
+              "can",
+              "canbus",
+              "car",
+              "car-hacking",
+              "impreza",
+              "mini",
+              "sti",
+              "subaru"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -988,12 +1372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mitsubishi I-Miev OBD-II PID documentation",
+            "homepage": null,
             "id": 9892932,
             "language": null,
+            "license": null,
             "last_commit": "2013-05-20T09:25:19Z",
+            "open_issues": 5,
             "owner": "plaes",
             "repo": "i-miev-obd2",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1010,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automotive data aquisition, logging, diagnostics, and visualization project. Focusing on CAN-bus and the Nissan 370Z",
+            "homepage": null,
             "id": 3363154,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-27T07:33:46Z",
+            "open_issues": 0,
             "owner": "Knio",
             "repo": "carhack",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1026,12 +1420,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse engineering vehicle CAN bus messages",
+            "homepage": null,
             "id": 127993647,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-19T00:07:07Z",
+            "open_issues": 1,
             "owner": "jackm",
             "repo": "carhack",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "can",
+              "can-bus",
+              "canbus",
+              "nissan",
+              "reverse-engineering",
+              "sentra",
+              "vehicle"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1044,12 +1451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LEAF CAN bus message decoding with proper database files",
+                "homepage": null,
                 "id": 205167184,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-06T10:38:54Z",
+                "open_issues": 0,
                 "owner": "dalathegreat",
                 "repo": "leaf_can_bus_messages",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1060,12 +1472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of CAN logs from different electric vehicles",
+                "homepage": null,
                 "id": 360972754,
                 "language": "AGS Script",
+                "license": null,
                 "last_commit": "2026-07-05T09:17:10Z",
+                "open_issues": 1,
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1076,12 +1493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Logs from my Gen 1 Nissan Leaf",
+                "homepage": null,
                 "id": 107578688,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2021-05-05T17:59:29Z",
+                "open_issues": 0,
                 "owner": "damienmaguire",
                 "repo": "LeafLogs",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1105,12 +1527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Database containing all discovered CAN-BUS messages in cars",
+                "homepage": null,
                 "id": 104185847,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-22T04:27:46Z",
+                "open_issues": 2,
                 "owner": "JJToB",
                 "repo": "Car-CAN-Message-DB",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1121,12 +1548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 329555740,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-14T11:47:06Z",
+                "open_issues": 0,
                 "owner": "megadrifter",
                 "repo": "Astra-H-Public",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1137,12 +1569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 94404252,
                 "language": "Arduino",
+                "license": null,
                 "last_commit": "2017-06-15T05:48:27Z",
+                "open_issues": 0,
                 "owner": "megadrifter",
                 "repo": "AstraH_climate",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1164,12 +1601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2016 Subaru WRX CAN BUS Ids",
+            "homepage": null,
             "id": 95372640,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-08T14:03:07Z",
+            "open_issues": 2,
             "owner": "afreiday",
             "repo": "2016-wrx-can-ids",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1180,12 +1622,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open automotive CANbus database set made to reduce public obscurity in the CAN architecture of vehicles",
+            "homepage": null,
             "id": 200890013,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-06T20:42:02Z",
+            "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "automotive",
+              "can",
+              "canbus",
+              "car",
+              "car-hacking",
+              "impreza",
+              "mini",
+              "sti",
+              "subaru"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1196,12 +1653,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open automotive CANbus database set made to reduce public obscurity in the CAN architecture of vehicles",
+            "homepage": null,
             "id": 200890013,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-06T20:42:02Z",
+            "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "automotive",
+              "can",
+              "canbus",
+              "car",
+              "car-hacking",
+              "impreza",
+              "mini",
+              "sti",
+              "subaru"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1212,12 +1684,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open automotive CANbus database set made to reduce public obscurity in the CAN architecture of vehicles",
+            "homepage": null,
             "id": 200890013,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-06T20:42:02Z",
+            "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "automotive",
+              "can",
+              "canbus",
+              "car",
+              "car-hacking",
+              "impreza",
+              "mini",
+              "sti",
+              "subaru"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1234,12 +1721,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAN analysis - Use your car as a gamepad!",
+            "homepage": null,
             "id": 97443560,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-11T14:38:01Z",
+            "open_issues": 0,
             "owner": "P1kachu",
             "repo": "talking-with-cars",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "automotive",
+              "can",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1256,12 +1752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 859672430,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-19T05:21:51Z",
+            "open_issues": 0,
             "owner": "SvetlAl",
             "repo": "docs",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1278,12 +1779,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBC file for Tesla Model 3 CAN messages",
+            "homepage": null,
             "id": 189098820,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-24T05:53:52Z",
+            "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 404
+            "stars": 404,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1300,12 +1806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toyota Prius NHW20 PID list for Torque app.",
+            "homepage": null,
             "id": 168047831,
             "language": null,
+            "license": null,
             "last_commit": "2019-02-02T19:29:24Z",
+            "open_issues": 0,
             "owner": "gerdbremer",
             "repo": "Prius-gen2-torque-PIDs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1316,12 +1827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leverage from ioactive blog for research purpose in Self Driving Car Development",
+            "homepage": null,
             "id": 64955625,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-08-05T22:42:42Z",
+            "open_issues": 1,
             "owner": "andrewraharjo",
             "repo": "CAN-Bus-Hack_Prius_Focus",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1332,12 +1848,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAN analysis - Use your car as a gamepad!",
+            "homepage": null,
             "id": 97443560,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-11T14:38:01Z",
+            "open_issues": 0,
             "owner": "P1kachu",
             "repo": "talking-with-cars",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "automotive",
+              "can",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1348,12 +1873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulate a CD Changer on a Toyota AVC LAN network",
+            "homepage": null,
             "id": 39314927,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-14T03:47:01Z",
+            "open_issues": 1,
             "owner": "halleysfifthinc",
             "repo": "AVCLAN-Mockingboard",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1364,12 +1894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+            "homepage": null,
             "id": 146688187,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-13T20:48:55Z",
+            "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1380,12 +1915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Активация AUX эмуляцией чейнджера на Arduino ",
+            "homepage": "https://blog.instalator.ru/archives/1146",
             "id": 160049545,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-02-07T10:46:25Z",
+            "open_issues": 1,
             "owner": "instalator",
             "repo": "AVC-LAN-Toyota",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1396,12 +1936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Toyota Prius CAN message translator",
+            "homepage": null,
             "id": 60481772,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-06-09T14:53:01Z",
+            "open_issues": 0,
             "owner": "HbirdJ",
             "repo": "CAN-Translator",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1420,12 +1965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Saleae Logic raw dumps + decoded frames in csv format of the EPS FlexRay bus on an Audi Q8 2019 with assistance features",
+                "homepage": null,
                 "id": 243953507,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-02-29T11:22:58Z",
+                "open_issues": 0,
                 "owner": "robbederks",
                 "repo": "q8_flexray_dumps",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1436,12 +1986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rough (around the edges) python script to connect a 2019 Audi e-tron to APRP",
+                "homepage": null,
                 "id": 437645488,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-19T14:14:25Z",
+                "open_issues": 0,
                 "owner": "bradarnold",
                 "repo": "e-tron_OBD2ABRP",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1459,12 +2014,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAN analysis - Use your car as a gamepad!",
+                "homepage": null,
                 "id": 97443560,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-11T14:38:01Z",
+                "open_issues": 0,
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "automotive",
+                  "can",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1475,12 +2039,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAN analysis - Use your car as a gamepad!",
+                "homepage": null,
                 "id": 97443560,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-11T14:38:01Z",
+                "open_issues": 0,
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "automotive",
+                  "can",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1491,12 +2064,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse CAN logs and visualize data streams on plot",
+                "homepage": null,
                 "id": 212888024,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-28T15:11:33Z",
+                "open_issues": 3,
                 "owner": "v-ivanyshyn",
                 "repo": "parse_can_logs",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "can-bus",
+                  "csv",
+                  "graph",
+                  "matplotlib"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1507,12 +2090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very hacky project that talks to the Nissan Leaf BMS (aka LBC) and to the VW CAN bus",
+                "homepage": null,
                 "id": 219599108,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-31T16:37:47Z",
+                "open_issues": 0,
                 "owner": "jsphuebner",
                 "repo": "stm32-car",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1523,12 +2111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+                "homepage": null,
                 "id": 146688187,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-13T20:48:55Z",
+                "open_issues": 0,
                 "owner": "karlyamashita",
                 "repo": "common_libraries",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1539,12 +2132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collect 0x22 ReadLocalIdentifier variables and conversions for use in Torque and other logging software",
+                "homepage": null,
                 "id": 119439095,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-01-29T20:47:53Z",
+                "open_issues": 1,
                 "owner": "bri3d",
                 "repo": "MQBSimosLogVariables",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1557,12 +2155,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.",
+                    "homepage": "https://evnotify.com",
                     "id": 93888796,
                     "language": "Vue",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-21T21:25:01Z",
+                    "open_issues": 84,
                     "owner": "EVNotify",
                     "repo": "EVNotify",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
                 },
@@ -1573,12 +2176,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of CAN logs from different electric vehicles",
+                    "homepage": null,
                     "id": 360972754,
                     "language": "AGS Script",
+                    "license": null,
                     "last_commit": "2026-07-05T09:17:10Z",
+                    "open_issues": 1,
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
                 },
@@ -1589,12 +2197,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 328944740,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-06-02T18:03:18Z",
+                    "open_issues": 6,
                     "owner": "spot2000",
                     "repo": "Volkswagen-MEB-EV-CAN-parameters",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
                 },
@@ -1605,12 +2218,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Work reverse engineering the VW GTE Contactor Box (E-BOX)",
+                    "homepage": null,
                     "id": 631193527,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2023-05-08T13:56:10Z",
+                    "open_issues": 0,
                     "owner": "jamiejones85",
                     "repo": "VW-GTE-ContactorBox",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
                 }
@@ -1637,12 +2255,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Python API for your car",
+            "homepage": null,
             "id": 92912604,
             "language": "Python",
-            "last_commit": "2026-08-27T16:09:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:54:50Z",
+            "open_issues": 342,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3368
+            "stars": 3369,
+            "topics": [
+              "automotive",
+              "can",
+              "dbc",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1653,12 +2281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VOLVO Driver Distraction Display :)",
+            "homepage": null,
             "id": 62731441,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-10T17:17:38Z",
+            "open_issues": 2,
             "owner": "vtl",
             "repo": "volvo-ddd",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1669,12 +2302,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volvo XC90 CAN bus adapter to restore wheel buttons and park assistant functionality",
+            "homepage": null,
             "id": 163684812,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2021-04-13T09:49:38Z",
+            "open_issues": 0,
             "owner": "olegel",
             "repo": "VolvoCan",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "arduino",
+              "bus-adapter",
+              "can-bus",
+              "parking-assistant",
+              "volvo",
+              "wheel-buttons"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1685,12 +2330,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volvo XC90 CAN bus adapter to restore wheel buttons and park assistant functionality",
+            "homepage": null,
             "id": 163684812,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2021-04-13T09:49:38Z",
+            "open_issues": 0,
             "owner": "olegel",
             "repo": "VolvoCan",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "arduino",
+              "bus-adapter",
+              "can-bus",
+              "parking-assistant",
+              "volvo",
+              "wheel-buttons"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1701,12 +2358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50)",
+            "homepage": null,
             "id": 153762982,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-19T10:54:41Z",
+            "open_issues": 1,
             "owner": "johnbutol",
             "repo": "CCM-busmaster",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1717,12 +2379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50)",
+            "homepage": null,
             "id": 153762982,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-19T10:54:41Z",
+            "open_issues": 1,
             "owner": "johnbutol",
             "repo": "CCM-busmaster",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1733,12 +2400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CANbus and other info on my Volvo V50 EV Project. aka the MuskVo",
+            "homepage": null,
             "id": 603414990,
             "language": "Fluent",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-24T12:53:24Z",
+            "open_issues": 0,
             "owner": "damienmaguire",
             "repo": "Volvo-V50-CAN-Info",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1751,12 +2423,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering the Volvo VIDA protocol and CAN network to gather diagnostic information not available via OBD2 on Volvo cars.",
+                "homepage": null,
                 "id": 293345380,
                 "language": "Roff",
+                "license": null,
                 "last_commit": "2022-07-06T17:57:01Z",
+                "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "can-bus",
+                  "car-hack",
+                  "car-hacking",
+                  "due",
+                  "volvo",
+                  "volvo-vida-protocol"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1767,12 +2451,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering the Volvo VIDA protocol and CAN network to gather diagnostic information not available via OBD2 on Volvo cars.",
+                "homepage": null,
                 "id": 293345380,
                 "language": "Roff",
+                "license": null,
                 "last_commit": "2022-07-06T17:57:01Z",
+                "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "can-bus",
+                  "car-hack",
+                  "car-hacking",
+                  "due",
+                  "volvo",
+                  "volvo-vida-protocol"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1783,12 +2479,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering the Volvo VIDA protocol and CAN network to gather diagnostic information not available via OBD2 on Volvo cars.",
+                "homepage": null,
                 "id": 293345380,
                 "language": "Roff",
+                "license": null,
                 "last_commit": "2022-07-06T17:57:01Z",
+                "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "can-bus",
+                  "car-hack",
+                  "car-hacking",
+                  "due",
+                  "volvo",
+                  "volvo-vida-protocol"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1806,12 +2514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino project to power a volvo DIM outside of the car",
+                "homepage": null,
                 "id": 257314811,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-27T00:48:26Z",
+                "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1822,12 +2535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino project to power a volvo DIM outside of the car",
+                "homepage": null,
                 "id": 257314811,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-27T00:48:26Z",
+                "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1838,12 +2556,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Arduino CANBUS Volvo S60 DPF soot filter",
+                "homepage": null,
                 "id": 40704907,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2025-06-20T10:50:51Z",
+                "open_issues": 1,
                 "owner": "waal70",
                 "repo": "S60CAN",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1854,12 +2577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JAVA project to interact with a P2 Volvo S60 Canbus",
+                "homepage": null,
                 "id": 142137323,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-04-10T23:57:07Z",
+                "open_issues": 2,
                 "owner": "waal70",
                 "repo": "VolvoCANBUS",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
@@ -1870,12 +2598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 188383418,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-06-07T09:27:27Z",
+                "open_issues": 0,
                 "owner": "ezkripke",
                 "repo": "volvo-CAN-exploration",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1899,12 +2632,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect to the CAN Bus on a Ducati Panigale, extract RPM/speed/gear/temperature, and broadcast it via bluetooth to Harry Lap Timer",
+                "homepage": null,
                 "id": 330760661,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-02-10T02:29:14Z",
+                "open_issues": 5,
                 "owner": "renatobo",
                 "repo": "DucatiPanigaleCanBus",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "ble",
+                  "canbus",
+                  "ducati",
+                  "harrylaptimer",
+                  "hlt",
+                  "panigale"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1922,12 +2667,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for decoding KTM CAN-bus messages",
+                "homepage": null,
                 "id": 339909357,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-28T14:11:05Z",
+                "open_issues": 1,
                 "owner": "blalor",
                 "repo": "ktm-can",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "automotive",
+                  "can-bus",
+                  "ktm",
+                  "motorcycle",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -1949,12 +2705,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+            "homepage": null,
             "id": 313261022,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
+            "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3434
+            "stars": 3434,
+            "topics": [
+              "automotive",
+              "automotive-security",
+              "awesome",
+              "awesome-list",
+              "bus-monitoring",
+              "can",
+              "can-bus",
+              "can-fd",
+              "canbus",
+              "canutils",
+              "car-hacking",
+              "elm327",
+              "embedded",
+              "j2534",
+              "lawicel",
+              "logger",
+              "obd2",
+              "slcan",
+              "sniffer",
+              "socketcan"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1965,12 +2747,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+            "homepage": null,
             "id": 317634009,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-12T13:39:28Z",
+            "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 978
+            "stars": 978,
+            "topics": [
+              "automotive",
+              "automotive-security",
+              "awesome",
+              "awesome-list",
+              "bus-monitoring",
+              "can",
+              "canbus",
+              "canutils",
+              "car",
+              "car-hacking",
+              "elm327",
+              "embedded",
+              "j1962",
+              "logger",
+              "obd2",
+              "slcan",
+              "sniffer",
+              "socketcan",
+              "vehicular-networks"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         },
@@ -1981,12 +2788,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
+            "homepage": null,
             "id": 344925173,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-09-06T06:49:15Z",
+            "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-linbus",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "arduino",
+              "automotive",
+              "awesome",
+              "awesome-list",
+              "car-hacking",
+              "embedded",
+              "iso17987",
+              "iso9141",
+              "lawicel",
+              "ldf",
+              "lin",
+              "lin-bus",
+              "lin-utils",
+              "local-interconnect-network",
+              "logger",
+              "raspberry-pi",
+              "slcan",
+              "socketlin",
+              "stm32"
+            ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
         }
@@ -1995,15 +2827,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:05:36.776Z",
+    "last_updated": "2026-08-29T04:36:44.951Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+      "homepage": null,
       "id": 317634009,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-12T13:39:28Z",
+      "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 978
+      "stars": 978,
+      "topics": [
+        "automotive",
+        "automotive-security",
+        "awesome",
+        "awesome-list",
+        "bus-monitoring",
+        "can",
+        "canbus",
+        "canutils",
+        "car",
+        "car-hacking",
+        "elm327",
+        "embedded",
+        "j1962",
+        "logger",
+        "obd2",
+        "slcan",
+        "sniffer",
+        "socketcan",
+        "vehicular-networks"
+      ]
     },
     "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
