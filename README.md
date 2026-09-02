@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,381 | 🐛 346 | 🌐 Python | 📅 2026-08-31 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,382 | 🐛 346 | 🌐 Python | 📅 2026-08-31 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 62 | 🐛 47 | 🌐 HTML | 📅 2026-08-30 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -122,13 +122,13 @@ Links for general DB and uther useful resources:
 
 ### Dodge
 
-* [Dodge](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering/blob/master/CAN-IHS%202010%20JK.ods) ⭐ 27 | 🐛 0 | 📅 2020-11-10 - Durango 2008 Internal CANBUS 83.333Kbps.
+* [Dodge](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering/blob/master/CAN-IHS%202010%20JK.ods) ⭐ 28 | 🐛 0 | 📅 2020-11-10 - Durango 2008 Internal CANBUS 83.333Kbps.
 * [Dodge](http://opengarages.org/index.php/Dodge_CAN_ID) - Opengarages Dodge CAN ID.
 
 ### Jeep
 
 * [Jeep](https://github.com/latonita/jeep-canbus) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2022-11-07 -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
-* [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) ⭐ 27 | 🐛 0 | 📅 2020-11-10 - Grand Cherokee 2006, Wrangler 2010.
+* [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) ⭐ 28 | 🐛 0 | 📅 2020-11-10 - Grand Cherokee 2006, Wrangler 2010.
 * [Jeep](https://github.com/SvetlAl/docs/blob/master/jeep_grand_cherokee_2017.txt) ⭐ 1 | 🐛 0 | 📅 2024-09-19 - Grand Cherokee 2017, dashboard speed,cruise.
 
 ## Fiat
@@ -190,7 +190,7 @@ Links for general DB and uther useful resources:
 
 ## Jaguar
 
-* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - CAN Codes & DBCs
+* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - CAN Codes & DBCs
 * [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
 
 ## Kia
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,381 | 🐛 346 | 🌐 Python | 📅 2026-08-31 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,382 | 🐛 346 | 🌐 Python | 📅 2026-08-31 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -399,8 +399,8 @@ temporaly unsorted:
 
 ### S60
 
-* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) ⭐ 48 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Project to power a volvo DIM outside of the car.
-* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) ⭐ 48 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Notes on CANBUS.
+* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) ⭐ 49 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Project to power a volvo DIM outside of the car.
+* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) ⭐ 49 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Notes on CANBUS.
 * [Volvo S60](https://github.com/waal70/S60CAN) ⚠️ Archived - Arduino CANBUS Volvo S60 DPF soot filter.
 * [Volvo S60](https://github.com/waal70/VolvoCANBUS) ⭐ 14 | 🐛 2 | 🌐 Java | 📅 2026-04-10 - MY2009, aka P2 facelift model.
 * [Volvo S60](https://github.com/ezkripke/volvo-CAN-exploration) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-06-07 - OBD-II CAN Data Extraction and Analysis.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,440 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,443 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 978 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
 3. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
