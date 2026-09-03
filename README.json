@@ -19,7 +19,7 @@
             "open_issues": 346,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3382,
+            "stars": 3384,
             "topics": [
               "automotive",
               "can",
@@ -671,7 +671,7 @@
                 "id": 298083806,
                 "language": "HTML",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-08-25T09:47:26Z",
+                "last_commit": "2026-09-03T16:46:53Z",
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
@@ -699,7 +699,7 @@
                 "id": 298083806,
                 "language": "HTML",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-08-25T09:47:26Z",
+                "last_commit": "2026-09-03T16:46:53Z",
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
@@ -727,7 +727,7 @@
                 "id": 298083806,
                 "language": "HTML",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-08-25T09:47:26Z",
+                "last_commit": "2026-09-03T16:46:53Z",
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
@@ -2264,7 +2264,7 @@
             "open_issues": 346,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3382,
+            "stars": 3384,
             "topics": [
               "automotive",
               "can",
@@ -2676,7 +2676,7 @@
                 "open_issues": 1,
                 "owner": "blalor",
                 "repo": "ktm-can",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -2714,7 +2714,7 @@
             "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3443,
+            "stars": 3445,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:12:46.585Z",
+    "last_updated": "2026-09-03T17:04:48.333Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
