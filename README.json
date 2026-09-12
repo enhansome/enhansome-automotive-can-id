@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:32:11Z",
-            "open_issues": 362,
+            "last_commit": "2026-09-12T08:40:34Z",
+            "open_issues": 361,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3406,
+            "stars": 3407,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T14:49:32Z",
+            "last_commit": "2026-09-12T01:01:35Z",
             "open_issues": 47,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -1481,7 +1481,7 @@
                 "open_issues": 1,
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 3,
                 "owner": "v-ivanyshyn",
                 "repo": "parse_can_logs",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "can-bus",
                   "csv",
@@ -2185,7 +2185,7 @@
                     "open_issues": 1,
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:32:11Z",
-            "open_issues": 362,
+            "last_commit": "2026-09-12T08:40:34Z",
+            "open_issues": 361,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3406,
+            "stars": 3407,
             "topics": [
               "automotive",
               "can",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:03:15.622Z",
+    "last_updated": "2026-09-12T16:22:58.438Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
