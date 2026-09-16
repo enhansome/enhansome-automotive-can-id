@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:05:27Z",
-            "open_issues": 375,
+            "last_commit": "2026-09-16T17:29:37Z",
+            "open_issues": 290,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3414,
+            "stars": 3415,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T13:48:35Z",
+            "last_commit": "2026-09-16T16:03:49Z",
             "open_issues": 47,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -921,7 +921,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -942,7 +942,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -963,7 +963,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -984,7 +984,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1005,7 +1005,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1202,7 +1202,7 @@
             "open_issues": 3,
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "android",
               "android-application",
@@ -1408,7 +1408,7 @@
             "open_issues": 0,
             "owner": "Knio",
             "repo": "carhack",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1429,7 +1429,7 @@
             "open_issues": 1,
             "owner": "jackm",
             "repo": "carhack",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "can",
               "can-bus",
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 407,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 3,
                 "owner": "v-ivanyshyn",
                 "repo": "parse_can_logs",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "can-bus",
                   "csv",
@@ -2206,7 +2206,7 @@
                     "open_issues": 6,
                     "owner": "spot2000",
                     "repo": "Volkswagen-MEB-EV-CAN-parameters",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:05:27Z",
-            "open_issues": 375,
+            "last_commit": "2026-09-16T17:29:37Z",
+            "open_issues": 290,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3414,
+            "stars": 3415,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3466,
+            "stars": 3469,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2756,7 +2756,7 @@
             "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:41:58.919Z",
+    "last_updated": "2026-09-16T17:39:24.210Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2839,7 +2839,7 @@
       "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 983,
+      "stars": 984,
       "topics": [
         "automotive",
         "automotive-security",
