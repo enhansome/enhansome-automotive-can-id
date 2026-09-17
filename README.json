@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:29:37Z",
-            "open_issues": 290,
+            "last_commit": "2026-09-17T08:21:35Z",
+            "open_issues": 283,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3415,
+            "stars": 3420,
             "topics": [
               "automotive",
               "can",
@@ -41,11 +41,11 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T16:03:49Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-17T16:35:01Z",
+            "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:29:37Z",
-            "open_issues": 290,
+            "last_commit": "2026-09-17T08:21:35Z",
+            "open_issues": 283,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3415,
+            "stars": 3420,
             "topics": [
               "automotive",
               "can",
@@ -2711,7 +2711,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "iDoka",
             "repo": "awesome-canbus",
             "stars": 3469,
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:39:24.210Z",
+    "last_updated": "2026-09-17T17:39:36.677Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
