@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:59:54Z",
-            "open_issues": 285,
+            "last_commit": "2026-09-19T08:17:28Z",
+            "open_issues": 284,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3421,
+            "stars": 3424,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T16:35:01Z",
+            "last_commit": "2026-09-19T12:09:49Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -2206,7 +2206,7 @@
                     "open_issues": 6,
                     "owner": "spot2000",
                     "repo": "Volkswagen-MEB-EV-CAN-parameters",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:59:54Z",
-            "open_issues": 285,
+            "last_commit": "2026-09-19T08:17:28Z",
+            "open_issues": 284,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3421,
+            "stars": 3424,
             "topics": [
               "automotive",
               "can",
@@ -2290,7 +2290,7 @@
             "open_issues": 2,
             "owner": "vtl",
             "repo": "volvo-ddd",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2714,7 +2714,7 @@
             "open_issues": 7,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3470,
+            "stars": 3471,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:07:07.351Z",
+    "last_updated": "2026-09-19T16:35:03.219Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
