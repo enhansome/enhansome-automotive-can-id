@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-20T06:17:12Z",
-            "open_issues": 285,
+            "last_commit": "2026-09-21T17:14:28Z",
+            "open_issues": 280,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3425,
+            "stars": 3431,
             "topics": [
               "automotive",
               "can",
@@ -72,7 +72,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "bmw",
               "bus-network",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "bmw",
               "bus-network",
@@ -1047,7 +1047,7 @@
             "open_issues": 39,
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 284,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1878,8 +1878,8 @@
             "id": 39314927,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-14T03:47:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-20T22:20:36Z",
+            "open_issues": 6,
             "owner": "halleysfifthinc",
             "repo": "AVCLAN-Mockingboard",
             "stars": 60,
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-20T06:17:12Z",
-            "open_issues": 285,
+            "last_commit": "2026-09-21T17:14:28Z",
+            "open_issues": 280,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3425,
+            "stars": 3431,
             "topics": [
               "automotive",
               "can",
@@ -2523,7 +2523,7 @@
                 "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2544,7 +2544,7 @@
                 "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2714,7 +2714,7 @@
             "open_issues": 7,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3472,
+            "stars": 3475,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2756,7 +2756,7 @@
             "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:53:14.321Z",
+    "last_updated": "2026-09-21T18:48:09.756Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2839,7 +2839,7 @@
       "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 986,
+      "stars": 987,
       "topics": [
         "automotive",
         "automotive-security",
