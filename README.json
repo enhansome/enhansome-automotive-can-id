@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T01:27:54Z",
-            "open_issues": 288,
+            "last_commit": "2026-09-27T17:48:25Z",
+            "open_issues": 293,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3439,
+            "stars": 3442,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T00:30:58Z",
+            "last_commit": "2026-09-27T02:10:43Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -1047,7 +1047,7 @@
             "open_issues": 39,
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 286,
+            "stars": 287,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 7,
             "owner": "halleysfifthinc",
             "repo": "AVCLAN-Mockingboard",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 3,
                 "owner": "v-ivanyshyn",
                 "repo": "parse_can_logs",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "can-bus",
                   "csv",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T01:27:54Z",
-            "open_issues": 288,
+            "last_commit": "2026-09-27T17:48:25Z",
+            "open_issues": 293,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3439,
+            "stars": 3442,
             "topics": [
               "automotive",
               "can",
@@ -2432,7 +2432,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2460,7 +2460,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2488,7 +2488,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2756,7 +2756,7 @@
             "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 988,
+            "stars": 989,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:17:10.930Z",
+    "last_updated": "2026-09-27T17:50:03.461Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2839,7 +2839,7 @@
       "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 988,
+      "stars": 989,
       "topics": [
         "automotive",
         "automotive-security",
