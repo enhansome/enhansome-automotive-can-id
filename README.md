@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,442 | 🐛 293 | 🌐 Python | 📅 2026-09-27 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-09-27 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,448 | 🐛 294 | 🌐 Python | 📅 2026-09-28 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-09-28 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -163,9 +163,9 @@ Links for general DB and uther useful resources:
 
 ### Ford FG Falcon
 
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - FG Falcon (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - CANBus decoded (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - Orion.
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - FG Falcon (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - CANBus decoded (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - Orion.
 
 ### Ford Transit
 
@@ -324,7 +324,7 @@ temporaly unsorted:
 
 ## Tesla
 
-* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 409 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
+* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 407 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
 * [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
 * [Tesla](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0) - Model S/X CAN IDs and payload.
 
@@ -340,7 +340,7 @@ temporaly unsorted:
 <!--lint enable double-link-->
 
 * [Toyota](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Yaris.
-* [Toyota AVC LAN](https://github.com/halleysfifthinc/Toyota-AVC-LAN) ⭐ 62 | 🐛 7 | 🌐 C++ | 📅 2026-09-23 - Arduino emulating a CD Changer on a Toyota AVC LAN network.
+* [Toyota AVC LAN](https://github.com/halleysfifthinc/Toyota-AVC-LAN) ⭐ 63 | 🐛 6 | 🌐 C++ | 📅 2026-09-28 - Arduino emulating a CD Changer on a Toyota AVC LAN network.
 * [Toyota](https://github.com/karlyamashita/common_libraries/blob/master/TOYOTA_CAN_ID.h) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-07-13 - 2018 Tacoma.
 * [Toyota AVC LAN](https://github.com/instalator/AVC-LAN-Toyota) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2021-02-07 - Arduino emulating a CD Changer on a Toyota AVC LAN network (another project).
 * [Toyota](https://github.com/HbirdJ/CAN-Translator) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2016-06-09 - Prius CAN message translator.
@@ -366,7 +366,7 @@ temporaly unsorted:
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Drivetrain CAN bus IDs].
-* [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
+* [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-07-13 - CAN\_ID.
 * [Volkswagen](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv) ⭐ 18 | 🐛 1 | 📅 2018-01-29 - MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc).
 * [Volkswagen](https://docs.google.com/spreadsheets/d/1eirT8LbSRl4j06BpwgsiE4PM_2BGH9UStdWLXwKvHJw/edit) - Golf GTI MK5.
@@ -374,14 +374,14 @@ temporaly unsorted:
 
 #### VW Hybrid and EV
 
-* [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-08-21 - VW e-Golf #2.
+* [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-09-27 - VW e-Golf #2.
 * [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 51 | 🐛 1 | 🌐 AGS Script | 📅 2026-09-10 - VW e-Golf.
 * [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) ⭐ 49 | 🐛 6 | 📅 2024-06-02 - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
 * [VW-GTE-ContactorBox](https://github.com/jamiejones85/VW-GTE-ContactorBox) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-05-08 - Reverse engineering the VW GTE Contactor Box (E-BOX).
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,442 | 🐛 293 | 🌐 Python | 📅 2026-09-27 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,448 | 🐛 294 | 🌐 Python | 📅 2026-09-28 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 72 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,482 | 🐛 7 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,481 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 989 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
 3. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
