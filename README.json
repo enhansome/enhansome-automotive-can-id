@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:24:21Z",
+            "last_commit": "2026-09-29T02:53:50Z",
             "open_issues": 294,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3448,
+            "stars": 3450,
             "topics": [
               "automotive",
               "can",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:24:21Z",
+            "last_commit": "2026-09-29T02:53:50Z",
             "open_issues": 294,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3448,
+            "stars": 3450,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 8,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3481,
+            "stars": 3485,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:09:34.086Z",
+    "last_updated": "2026-09-29T18:42:51.362Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
