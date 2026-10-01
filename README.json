@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T02:53:50Z",
-            "open_issues": 294,
+            "last_commit": "2026-10-01T01:52:22Z",
+            "open_issues": 295,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3452,
+            "stars": 3456,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T03:24:47Z",
+            "last_commit": "2026-10-01T02:52:14Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T02:53:50Z",
-            "open_issues": 294,
+            "last_commit": "2026-10-01T01:52:22Z",
+            "open_issues": 295,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3452,
+            "stars": 3456,
             "topics": [
               "automotive",
               "can",
@@ -2290,7 +2290,7 @@
             "open_issues": 2,
             "owner": "vtl",
             "repo": "volvo-ddd",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2311,7 +2311,7 @@
             "open_issues": 0,
             "owner": "olegel",
             "repo": "VolvoCan",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "arduino",
               "bus-adapter",
@@ -2339,7 +2339,7 @@
             "open_issues": 0,
             "owner": "olegel",
             "repo": "VolvoCan",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "arduino",
               "bus-adapter",
@@ -2714,7 +2714,7 @@
             "open_issues": 8,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3486,
+            "stars": 3488,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2756,7 +2756,7 @@
             "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:28:39.425Z",
+    "last_updated": "2026-10-01T18:56:25.568Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2839,7 +2839,7 @@
       "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 989,
+      "stars": 990,
       "topics": [
         "automotive",
         "automotive-security",
