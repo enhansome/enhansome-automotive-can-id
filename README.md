@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,456 | 🐛 295 | 🌐 Python | 📅 2026-10-01 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,457 | 🐛 296 | 🌐 Python | 📅 2026-10-01 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-10-01 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -87,8 +87,8 @@ Links for general DB and uther useful resources:
 
 ## BMW
 
-* [BMW](https://github.com/kmalinich/node-bmw-ref) ⭐ 80 | 🐛 0 | 🌐 C | 📅 2018-12-02 - DBUS/IBUS/KBUS information/reference/examples.
-* [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) ⭐ 80 | 🐛 0 | 🌐 C | 📅 2018-12-02 - CANBUS information/reference.
+* [BMW](https://github.com/kmalinich/node-bmw-ref) ⭐ 81 | 🐛 0 | 🌐 C | 📅 2018-12-02 - DBUS/IBUS/KBUS information/reference/examples.
+* [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) ⭐ 81 | 🐛 0 | 🌐 C | 📅 2018-12-02 - CANBUS information/reference.
 * [BMW](https://github.com/damienmaguire/BMW-E65-CANBUS) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2018-08-10 - E65 7 Series Powertrain CAN bus.
 * [BMW](https://www.ms4x.net/index.php?title=Siemens_MS43_CAN_Bus) - BMW E46, MS43 ECU.
 * [BMW](https://www.ms4x.net/index.php?title=Siemens_MS42_CAN_Bus) - BMW E46, MS42 ECU.
@@ -133,7 +133,7 @@ Links for general DB and uther useful resources:
 
 ## Fiat
 
-* [Fiat](https://github.com/P1kachu/talking-with-cars/blob/master/notes/fiat-500.txt) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - 500.
+* [Fiat](https://github.com/P1kachu/talking-with-cars/blob/master/notes/fiat-500.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - 500.
 * Fiat 500L: [ID](https://github.com/VeryBusyBee/FiatMon/blob/master/Core/Inc/main.h) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2022-02-21 & [Payload](https://github.com/VeryBusyBee/FiatMon/blob/master/Core/Src/obd.cpp) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2022-02-21 - Model 500L.
 
 ## Ford (Lincoln, Mercury)
@@ -262,7 +262,7 @@ Links for general DB and uther useful resources:
 
 ### Leaf
 
-* [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 233 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
+* [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 234 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
 * [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 51 | 🐛 1 | 🌐 AGS Script | 📅 2026-09-10 - #1.
 * [Nissan Leaf](https://github.com/damienmaguire/LeafLogs) ⭐ 7 | 🐛 0 | 📅 2021-05-05 - Some Logs from Gen 1 Nissan Leaf.
 * [Nissan Leaf](https://leaf-obd.readthedocs.io/en/latest/pid/index.html) - #2.
@@ -271,7 +271,7 @@ Links for general DB and uther useful resources:
 
 ### Astra
 
-* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 69 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
+* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 70 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
 * [Opel Astra H](https://github.com/megadrifter/Astra-H-Public) ⭐ 18 | 🐛 0 | 📅 2021-01-14 - LS CAN, MS CAN.
 * [Opel Astra H](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino) ⭐ 4 | 🐛 0 | 🌐 Arduino | 📅 2017-06-15 - Climate.
 * [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H) - CAN BUS.
@@ -316,7 +316,7 @@ temporaly unsorted:
 
 ## Suzuki
 
-* [Suzuki](https://github.com/P1kachu/talking-with-cars/blob/master/notes/suzuki-swift-IV.txt) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Swift IV AZG 1.3 DDiS 16V 75cv.
+* [Suzuki](https://github.com/P1kachu/talking-with-cars/blob/master/notes/suzuki-swift-IV.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Swift IV AZG 1.3 DDiS 16V 75cv.
 
 ## Tank
 
@@ -324,7 +324,7 @@ temporaly unsorted:
 
 ## Tesla
 
-* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 407 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
+* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 406 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
 * [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
 * [Tesla](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0) - Model S/X CAN IDs and payload.
 
@@ -339,7 +339,7 @@ temporaly unsorted:
 
 <!--lint enable double-link-->
 
-* [Toyota](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Yaris.
+* [Toyota](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Yaris.
 * [Toyota AVC LAN](https://github.com/halleysfifthinc/Toyota-AVC-LAN) ⭐ 63 | 🐛 6 | 🌐 C++ | 📅 2026-09-28 - Arduino emulating a CD Changer on a Toyota AVC LAN network.
 * [Toyota](https://github.com/karlyamashita/common_libraries/blob/master/TOYOTA_CAN_ID.h) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-07-13 - 2018 Tacoma.
 * [Toyota AVC LAN](https://github.com/instalator/AVC-LAN-Toyota) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2021-02-07 - Arduino emulating a CD Changer on a Toyota AVC LAN network (another project).
@@ -363,8 +363,8 @@ temporaly unsorted:
 
 ### Volkswagen
 
-* [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
-* [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
+* [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
+* [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Drivetrain CAN bus IDs].
 * [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2026-07-13 - CAN\_ID.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,456 | 🐛 295 | 🌐 Python | 📅 2026-10-01 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,457 | 🐛 296 | 🌐 Python | 📅 2026-10-01 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,488 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,490 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 990 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
 3. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

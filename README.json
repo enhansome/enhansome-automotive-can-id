@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T01:52:22Z",
-            "open_issues": 295,
+            "last_commit": "2026-10-01T23:52:44Z",
+            "open_issues": 296,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3456,
+            "stars": 3457,
             "topics": [
               "automotive",
               "can",
@@ -72,7 +72,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "bmw",
               "bus-network",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "bmw",
               "bus-network",
@@ -450,7 +450,7 @@
             "open_issues": 0,
             "owner": "P1kachu",
             "repo": "talking-with-cars",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "automotive",
               "can",
@@ -1460,7 +1460,7 @@
                 "open_issues": 0,
                 "owner": "dalathegreat",
                 "repo": "leaf_can_bus_messages",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1536,7 +1536,7 @@
                 "open_issues": 2,
                 "owner": "JJToB",
                 "repo": "Car-CAN-Message-DB",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1730,7 +1730,7 @@
             "open_issues": 0,
             "owner": "P1kachu",
             "repo": "talking-with-cars",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "automotive",
               "can",
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 407,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1857,7 +1857,7 @@
             "open_issues": 0,
             "owner": "P1kachu",
             "repo": "talking-with-cars",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "automotive",
               "can",
@@ -2023,7 +2023,7 @@
                 "open_issues": 0,
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "automotive",
                   "can",
@@ -2048,7 +2048,7 @@
                 "open_issues": 0,
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "automotive",
                   "can",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T01:52:22Z",
-            "open_issues": 295,
+            "last_commit": "2026-10-01T23:52:44Z",
+            "open_issues": 296,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3456,
+            "stars": 3457,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 8,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3488,
+            "stars": 3490,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:56:25.568Z",
+    "last_updated": "2026-10-02T18:32:38.227Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
