@@ -15,7 +15,7 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:52:44Z",
+            "last_commit": "2026-10-02T23:05:56Z",
             "open_issues": 296,
             "owner": "commaai",
             "repo": "opendbc",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T02:52:14Z",
+            "last_commit": "2026-10-03T03:01:25Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -437,7 +437,7 @@
         {
           "node_type": "item",
           "title": "Fiat",
-          "description": "500.",
+          "description": "P1kachu/talking-with-cars",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "australia",
                   "canbus",
@@ -703,7 +703,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "australia",
                   "canbus",
@@ -731,7 +731,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "australia",
                   "canbus",
@@ -753,7 +753,7 @@
             {
               "node_type": "item",
               "title": "Ford Transit",
-              "description": "2020.",
+              "description": "slyt/van-hack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1468,7 +1468,7 @@
             {
               "node_type": "item",
               "title": "Nissan Leaf",
-              "description": "#1.",
+              "description": "dalathegreat/EV-CANlogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1610,7 +1610,7 @@
             "open_issues": 2,
             "owner": "afreiday",
             "repo": "2016-wrx-can-ids",
-            "stars": 72,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,7 +2260,7 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:52:44Z",
+            "last_commit": "2026-10-02T23:05:56Z",
             "open_issues": 296,
             "owner": "commaai",
             "repo": "opendbc",
@@ -2714,7 +2714,7 @@
             "open_issues": 8,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3490,
+            "stars": 3491,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2736,47 +2736,6 @@
               "slcan",
               "sniffer",
               "socketcan"
-            ]
-          },
-          "first_seen": "2026-08-28T23:05:36.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Please follow this",
-          "description": "root-repo for lastest updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
-            "homepage": null,
-            "id": 317634009,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-12T13:39:28Z",
-            "open_issues": 0,
-            "owner": "iDoka",
-            "repo": "awesome-automotive-can-id",
-            "stars": 990,
-            "topics": [
-              "automotive",
-              "automotive-security",
-              "awesome",
-              "awesome-list",
-              "bus-monitoring",
-              "can",
-              "canbus",
-              "canutils",
-              "car",
-              "car-hacking",
-              "elm327",
-              "embedded",
-              "j1962",
-              "logger",
-              "obd2",
-              "slcan",
-              "sniffer",
-              "socketcan",
-              "vehicular-networks"
             ]
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2827,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:32:38.227Z",
+    "last_updated": "2026-10-03T04:34:53.143Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",

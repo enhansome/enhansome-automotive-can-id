@@ -1,10 +1,10 @@
 # Awesome CAN ID with stars
 
-[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/) ⭐ 990 | 🐛 0 | 📅 2026-08-12
-[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/) ⭐ 990 | 🐛 0 | 📅 2026-08-12
-[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/) ⭐ 990 | 🐛 0 | 📅 2026-08-12
-[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/) ⭐ 990 | 🐛 0 | 📅 2026-08-12
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged) ⭐ 990 | 🐛 0 | 📅 2026-08-12
+[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/)
+[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/)
+[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/)
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged)
 
 <!-- [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/commit/) -->
 
@@ -12,7 +12,7 @@
 
 An attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
 
-Permanent URL to this list: <https://github.com/iDoka/awesome-automotive-can-id> ⭐ 990 | 🐛 0 | 📅 2026-08-12
+Permanent URL to this list: <https://github.com/iDoka/awesome-automotive-can-id>
 
 ## Contents
 
@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,457 | 🐛 296 | 🌐 Python | 📅 2026-10-01 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-10-01 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,457 | 🐛 296 | 🌐 Python | 📅 2026-10-02 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-10-03 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -163,9 +163,9 @@ Links for general DB and uther useful resources:
 
 ### Ford FG Falcon
 
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - FG Falcon (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - CANBus decoded (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - Orion.
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 86 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - FG Falcon (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 86 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - CANBus decoded (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 86 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - Orion.
 
 ### Ford Transit
 
@@ -309,7 +309,7 @@ temporaly unsorted:
 
 ## Subaru
 
-* [Subaru](https://github.com/afreiday/2016-wrx-can-ids) ⭐ 72 | 🐛 2 | 📅 2023-11-08 - WRX 2016.
+* [Subaru](https://github.com/afreiday/2016-wrx-can-ids) ⭐ 71 | 🐛 2 | 📅 2023-11-08 - WRX 2016.
 * [Subaru](https://github.com/equinox311/open-can-db/raw/master/2005-2008_subaru_legacy_gt.xlsx) ⭐ 23 | 🐛 0 | 📅 2019-08-06 - Legacy 2005-2009 *(XLSX)*.
 * [Subaru](https://github.com/equinox311/open-can-db/raw/master/2013%2B_subaru_brz.xlsx) ⭐ 23 | 🐛 0 | 📅 2019-08-06 - BRZ 2013+ *(XLSX)*.
 * [Subaru](https://github.com/equinox311/open-can-db/raw/master/2015%2B_subaru_impreza_sti.xlsx) ⭐ 23 | 🐛 0 | 📅 2019-08-06 - Impreza WRX STi 2015+ *(XLSX)*.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,457 | 🐛 296 | 🌐 Python | 📅 2026-10-01 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,457 | 🐛 296 | 🌐 Python | 📅 2026-10-02 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,9 +430,9 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,490 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 990 | 🐛 0 | 📅 2026-08-12 root-repo for lastest updates.
-3. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,491 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
+3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
 <!--
 ## Tags
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
