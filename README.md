@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,458 | 🐛 297 | 🌐 Python | 📅 2026-10-02 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-10-03 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,460 | 🐛 299 | 🌐 Python | 📅 2026-10-02 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 64 | 🐛 49 | 🌐 HTML | 📅 2026-10-04 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -228,7 +228,7 @@ Links for general DB and uther useful resources:
 
 * [Mazda](https://github.com/majbthrd/MazdaCANbus) ⭐ 66 | 🐛 0 | 📅 2018-05-12 - Database of known Mazda (SkyActiv and RX-8) CAN messages.
 * [Mazda](https://github.com/ihaque/arduino-ecu-logger/blob/master/data/RX-8%20CAN%20bus%20data.xls) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2016-01-17 - RX8.
-* [Mazda](https://github.com/silverchris/Mazda3_Canbus_Messages) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-09-05 - Model 3.
+* [Mazda](https://github.com/silverchris/Mazda3_Canbus_Messages) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-09-05 - Model 3.
 * [Mazda](http://opengarages.org/index.php/Mazda_CAN_ID) - Opengarages Mazda CAN ID.
 * [Mazda](http://www.madox.net/blog/projects/mazda-can-bus/) - 3 (MS and HS CAN).
 * [Mazda](https://docs.google.com/spreadsheets/d/1SKfXAyo6fbAfMUENw1KR3w4Fvx_Ihj6sTPSVXBdOXKk/edit?usp=sharing) - Model 3 (2nd gen) HS CAN.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,458 | 🐛 297 | 🌐 Python | 📅 2026-10-02 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,460 | 🐛 299 | 🌐 Python | 📅 2026-10-02 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,492 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,493 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
