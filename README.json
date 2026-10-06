@@ -19,7 +19,7 @@
             "open_issues": 302,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3463,
+            "stars": 3464,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T22:59:54Z",
+            "last_commit": "2026-10-06T18:31:11Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -2264,7 +2264,7 @@
             "open_issues": 302,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3463,
+            "stars": 3464,
             "topics": [
               "automotive",
               "can",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:39.839Z",
+    "last_updated": "2026-10-06T18:57:03.607Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
