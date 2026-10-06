@@ -15,8 +15,8 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T14:07:20Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-06T01:30:59Z",
+            "open_issues": 302,
             "owner": "commaai",
             "repo": "opendbc",
             "stars": 3463,
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T21:00:34Z",
+            "last_commit": "2026-10-05T22:59:54Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -1408,7 +1408,7 @@
             "open_issues": 0,
             "owner": "Knio",
             "repo": "carhack",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,8 +2260,8 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T14:07:20Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-06T01:30:59Z",
+            "open_issues": 302,
             "owner": "commaai",
             "repo": "opendbc",
             "stars": 3463,
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:26:56.988Z",
+    "last_updated": "2026-10-06T10:25:39.839Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 993,
+      "stars": 994,
       "topics": [
         "automotive",
         "automotive-security",
