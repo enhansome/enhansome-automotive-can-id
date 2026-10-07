@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T01:30:59Z",
-            "open_issues": 302,
+            "last_commit": "2026-10-07T19:03:56Z",
+            "open_issues": 303,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3464,
+            "stars": 3465,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T18:31:11Z",
+            "last_commit": "2026-10-07T12:54:18Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -1101,7 +1101,7 @@
             "open_issues": 1,
             "owner": "Paucpauc",
             "repo": "lexus_canbus_id",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1344,7 +1344,7 @@
             "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "automotive",
               "can",
@@ -1631,7 +1631,7 @@
             "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "automotive",
               "can",
@@ -1662,7 +1662,7 @@
             "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "automotive",
               "can",
@@ -1693,7 +1693,7 @@
             "open_issues": 0,
             "owner": "equinox311",
             "repo": "open-can-db",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "automotive",
               "can",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T01:30:59Z",
-            "open_issues": 302,
+            "last_commit": "2026-10-07T19:03:56Z",
+            "open_issues": 303,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3464,
+            "stars": 3465,
             "topics": [
               "automotive",
               "can",
@@ -2676,7 +2676,7 @@
                 "open_issues": 1,
                 "owner": "blalor",
                 "repo": "ktm-can",
-                "stars": 74,
+                "stars": 75,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -2714,7 +2714,7 @@
             "open_issues": 9,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3492,
+            "stars": 3494,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:57:03.607Z",
+    "last_updated": "2026-10-07T19:24:12.298Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 0,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 994,
+      "stars": 995,
       "topics": [
         "automotive",
         "automotive-security",
