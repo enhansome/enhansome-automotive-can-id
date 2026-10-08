@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T19:03:56Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-08T16:57:42Z",
+            "open_issues": 304,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3465,
+            "stars": 3467,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T12:54:18Z",
+            "last_commit": "2026-10-08T19:11:23Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -508,7 +508,7 @@
             "open_issues": 1,
             "owner": "andrewraharjo",
             "repo": "CAN-Bus-Hack_Prius_Focus",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1047,7 +1047,7 @@
             "open_issues": 39,
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1128,7 +1128,7 @@
             "open_issues": 0,
             "owner": "majbthrd",
             "repo": "MazdaCANbus",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "can-bus",
               "mazda",
@@ -1476,8 +1476,8 @@
                 "homepage": null,
                 "id": 360972754,
                 "language": "AGS Script",
-                "license": null,
-                "last_commit": "2026-09-10T19:16:44Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-08T06:37:03Z",
                 "open_issues": 1,
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 408,
+            "stars": 410,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1836,7 +1836,7 @@
             "open_issues": 1,
             "owner": "andrewraharjo",
             "repo": "CAN-Bus-Hack_Prius_Focus",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2180,8 +2180,8 @@
                     "homepage": null,
                     "id": 360972754,
                     "language": "AGS Script",
-                    "license": null,
-                    "last_commit": "2026-09-10T19:16:44Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-08T06:37:03Z",
                     "open_issues": 1,
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T19:03:56Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-08T16:57:42Z",
+            "open_issues": 304,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3465,
+            "stars": 3467,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 9,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3494,
+            "stars": 3496,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2756,7 +2756,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-linbus",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "arduino",
               "automotive",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:24:12.298Z",
+    "last_updated": "2026-10-08T19:20:05.295Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2795,10 +2795,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-12T13:39:28Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 995,
+      "stars": 996,
       "topics": [
         "automotive",
         "automotive-security",
