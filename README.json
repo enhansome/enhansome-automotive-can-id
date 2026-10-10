@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T02:28:57Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3471,
+            "stars": 3474,
             "topics": [
               "automotive",
               "can",
@@ -41,11 +41,11 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T18:21:34Z",
+            "last_commit": "2026-10-10T00:04:54Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2261,10 +2261,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T02:28:57Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3471,
+            "stars": 3474,
             "topics": [
               "automotive",
               "can",
@@ -2432,7 +2432,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2460,7 +2460,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2488,7 +2488,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2714,7 +2714,7 @@
             "open_issues": 9,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3497,
+            "stars": 3498,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:52:29.456Z",
+    "last_updated": "2026-10-10T17:54:47.258Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
