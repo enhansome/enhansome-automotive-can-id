@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T02:28:57Z",
-            "open_issues": 305,
+            "last_commit": "2026-10-11T17:47:24Z",
+            "open_issues": 308,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3474,
+            "stars": 3479,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T00:04:54Z",
+            "last_commit": "2026-10-11T13:48:25Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -671,7 +671,7 @@
                 "id": 298083806,
                 "language": "HTML",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-09-03T16:46:53Z",
+                "last_commit": "2026-10-11T04:37:18Z",
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
@@ -699,7 +699,7 @@
                 "id": 298083806,
                 "language": "HTML",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-09-03T16:46:53Z",
+                "last_commit": "2026-10-11T04:37:18Z",
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
@@ -727,7 +727,7 @@
                 "id": 298083806,
                 "language": "HTML",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-09-03T16:46:53Z",
+                "last_commit": "2026-10-11T04:37:18Z",
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T02:28:57Z",
-            "open_issues": 305,
+            "last_commit": "2026-10-11T17:47:24Z",
+            "open_issues": 308,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3474,
+            "stars": 3479,
             "topics": [
               "automotive",
               "can",
@@ -2523,7 +2523,7 @@
                 "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2544,7 +2544,7 @@
                 "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:54:47.258Z",
+    "last_updated": "2026-10-11T18:10:45.089Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
