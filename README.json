@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T17:47:24Z",
-            "open_issues": 308,
+            "last_commit": "2026-10-12T14:11:19Z",
+            "open_issues": 309,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3479,
+            "stars": 3480,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T13:48:25Z",
+            "last_commit": "2026-10-11T22:36:05Z",
             "open_issues": 49,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -72,7 +72,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "bmw",
               "bus-network",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "bmw",
               "bus-network",
@@ -1202,7 +1202,7 @@
             "open_issues": 3,
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "android",
               "android-application",
@@ -1477,7 +1477,7 @@
                 "id": 360972754,
                 "language": "AGS Script",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T06:37:03Z",
+                "last_commit": "2026-10-12T10:41:15Z",
                 "open_issues": 1,
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
@@ -2181,7 +2181,7 @@
                     "id": 360972754,
                     "language": "AGS Script",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T06:37:03Z",
+                    "last_commit": "2026-10-12T10:41:15Z",
                     "open_issues": 1,
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T17:47:24Z",
-            "open_issues": 308,
+            "last_commit": "2026-10-12T14:11:19Z",
+            "open_issues": 309,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3479,
+            "stars": 3480,
             "topics": [
               "automotive",
               "can",
@@ -2311,7 +2311,7 @@
             "open_issues": 0,
             "owner": "olegel",
             "repo": "VolvoCan",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "arduino",
               "bus-adapter",
@@ -2339,7 +2339,7 @@
             "open_issues": 0,
             "owner": "olegel",
             "repo": "VolvoCan",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "arduino",
               "bus-adapter",
@@ -2586,7 +2586,7 @@
                 "open_issues": 2,
                 "owner": "waal70",
                 "repo": "VolvoCANBUS",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2711,10 +2711,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3498,
+            "stars": 3502,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:10:45.089Z",
+    "last_updated": "2026-10-12T21:46:59.995Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
