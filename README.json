@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T14:11:19Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-13T01:19:27Z",
+            "open_issues": 311,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3480,
+            "stars": 3481,
             "topics": [
               "automotive",
               "can",
@@ -891,7 +891,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-22T02:28:59Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "fsfarmscaper",
             "repo": "jaguar-xf-x250-can",
             "stars": 2,
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T14:11:19Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-13T01:19:27Z",
+            "open_issues": 311,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3480,
+            "stars": 3481,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 10,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3502,
+            "stars": 3504,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:46:59.995Z",
+    "last_updated": "2026-10-13T19:53:55.729Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 998,
+      "stars": 999,
       "topics": [
         "automotive",
         "automotive-security",
