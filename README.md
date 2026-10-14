@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,481 | 🐛 311 | 🌐 Python | 📅 2026-10-13 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,483 | 🐛 309 | 🌐 Python | 📅 2026-10-14 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 65 | 🐛 49 | 🌐 HTML | 📅 2026-10-11 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -87,15 +87,15 @@ Links for general DB and uther useful resources:
 
 ## BMW
 
-* [BMW](https://github.com/kmalinich/node-bmw-ref) ⭐ 82 | 🐛 0 | 🌐 C | 📅 2018-12-02 - DBUS/IBUS/KBUS information/reference/examples.
-* [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) ⭐ 82 | 🐛 0 | 🌐 C | 📅 2018-12-02 - CANBUS information/reference.
+* [BMW](https://github.com/kmalinich/node-bmw-ref) ⭐ 83 | 🐛 0 | 🌐 C | 📅 2018-12-02 - DBUS/IBUS/KBUS information/reference/examples.
+* [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) ⭐ 83 | 🐛 0 | 🌐 C | 📅 2018-12-02 - CANBUS information/reference.
 * [BMW](https://github.com/damienmaguire/BMW-E65-CANBUS) ⭐ 32 | 🐛 1 | 🌐 C++ | 📅 2018-08-10 - E65 7 Series Powertrain CAN bus.
 * [BMW](https://www.ms4x.net/index.php?title=Siemens_MS43_CAN_Bus) - BMW E46, MS43 ECU.
 * [BMW](https://www.ms4x.net/index.php?title=Siemens_MS42_CAN_Bus) - BMW E46, MS42 ECU.
 
 ### BMW Hybrid vehicles
 
-* [BMW BMS/Sbox](https://github.com/damienmaguire/BMW_SBox) ⭐ 15 | 🐛 1 | 🌐 C++ | 📅 2023-04-21 - Reverse Engineering of the BMW SBox for use in EV conversion projects.
+* [BMW BMS/Sbox](https://github.com/damienmaguire/BMW_SBox) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2023-04-21 - Reverse Engineering of the BMW SBox for use in EV conversion projects.
 
 ### iDrive
 
@@ -236,7 +236,7 @@ Links for general DB and uther useful resources:
 
 ## Mercedes-Benz
 
-* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 172 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
+* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 174 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
 * [Mercedes-Benz](https://github.com/rnd-ash/MBUX-Port) ⚠️ Archived - 2000-2007: See txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
 * [Mercedes-Benz](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) ⭐ 131 | 🐛 5 | 📅 2026-06-01 - W203 C200 CDI: Should theoretically work on W203/w209/w211/w219 vehicles.
 * [Mercedes-Benz](https://github.com/mkovero/7226ctrl) ⭐ 67 | 🐛 12 | 🌐 C++ | 📅 2020-07-07 - Controller for 722.6 automatic transmission.
@@ -376,12 +376,12 @@ temporaly unsorted:
 
 * [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-09-27 - VW e-Golf #2.
 * [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 51 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-12 - VW e-Golf.
-* [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) ⭐ 49 | 🐛 6 | 📅 2024-06-02 - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
+* [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) ⭐ 50 | 🐛 6 | 📅 2024-06-02 - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
 * [VW-GTE-ContactorBox](https://github.com/jamiejones85/VW-GTE-ContactorBox) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-05-08 - Reverse engineering the VW GTE Contactor Box (E-BOX).
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,481 | 🐛 311 | 🌐 Python | 📅 2026-10-13 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,483 | 🐛 309 | 🌐 Python | 📅 2026-10-14 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
