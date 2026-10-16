@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T17:30:18Z",
-            "open_issues": 308,
+            "last_commit": "2026-10-16T03:22:02Z",
+            "open_issues": 309,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3492,
+            "stars": 3496,
             "topics": [
               "automotive",
               "can",
@@ -41,11 +41,11 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T22:36:05Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-16T14:07:47Z",
+            "open_issues": 50,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "australia",
                   "canbus",
@@ -703,7 +703,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "australia",
                   "canbus",
@@ -731,7 +731,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "australia",
                   "canbus",
@@ -1047,7 +1047,7 @@
             "open_issues": 39,
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T17:30:18Z",
-            "open_issues": 308,
+            "last_commit": "2026-10-16T03:22:02Z",
+            "open_issues": 309,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3492,
+            "stars": 3496,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 10,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3508,
+            "stars": 3509,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:48:48.673Z",
+    "last_updated": "2026-10-16T17:32:08.390Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
