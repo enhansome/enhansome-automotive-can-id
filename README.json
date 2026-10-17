@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T03:22:02Z",
+            "last_commit": "2026-10-16T23:46:50Z",
             "open_issues": 309,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3496,
+            "stars": 3497,
             "topics": [
               "automotive",
               "can",
@@ -1460,7 +1460,7 @@
                 "open_issues": 0,
                 "owner": "dalathegreat",
                 "repo": "leaf_can_bus_messages",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 410,
+            "stars": 411,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T03:22:02Z",
+            "last_commit": "2026-10-16T23:46:50Z",
             "open_issues": 309,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3496,
+            "stars": 3497,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 10,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3509,
+            "stars": 3510,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:32:08.390Z",
+    "last_updated": "2026-10-17T16:31:25.462Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1000,
+      "stars": 1002,
       "topics": [
         "automotive",
         "automotive-security",
