@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T23:46:50Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-17T23:15:31Z",
+            "open_issues": 313,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3497,
+            "stars": 3498,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T14:07:47Z",
+            "last_commit": "2026-10-18T16:17:13Z",
             "open_issues": 50,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -259,7 +259,7 @@
             "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -280,7 +280,7 @@
             "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -309,7 +309,7 @@
                 "open_issues": 0,
                 "owner": "karlyamashita",
                 "repo": "common_libraries",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -550,7 +550,7 @@
             "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1481,7 +1481,7 @@
                 "open_issues": 1,
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 411,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1903,7 +1903,7 @@
             "open_issues": 0,
             "owner": "karlyamashita",
             "repo": "common_libraries",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 0,
                 "owner": "jsphuebner",
                 "repo": "stm32-car",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 0,
                 "owner": "karlyamashita",
                 "repo": "common_libraries",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2185,7 +2185,7 @@
                     "open_issues": 1,
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T23:46:50Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-17T23:15:31Z",
+            "open_issues": 313,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3497,
+            "stars": 3498,
             "topics": [
               "automotive",
               "can",
@@ -2711,10 +2711,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3510,
+            "stars": 3511,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:31:25.462Z",
+    "last_updated": "2026-10-18T16:37:21.609Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
