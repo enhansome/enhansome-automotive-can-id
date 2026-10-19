@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:15:31Z",
-            "open_issues": 313,
+            "last_commit": "2026-10-19T14:05:19Z",
+            "open_issues": 316,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3498,
+            "stars": 3502,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T16:17:13Z",
+            "last_commit": "2026-10-18T22:56:49Z",
             "open_issues": 50,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -525,7 +525,7 @@
             "id": 163445078,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2024-03-18T17:19:16Z",
+            "last_commit": "2026-10-18T16:56:37Z",
             "open_issues": 0,
             "owner": "thomastech",
             "repo": "CAN2Cluster",
@@ -921,7 +921,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -942,7 +942,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -963,7 +963,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -984,7 +984,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1005,7 +1005,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:15:31Z",
-            "open_issues": 313,
+            "last_commit": "2026-10-19T14:05:19Z",
+            "open_issues": 316,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3498,
+            "stars": 3502,
             "topics": [
               "automotive",
               "can",
@@ -2676,7 +2676,7 @@
                 "open_issues": 1,
                 "owner": "blalor",
                 "repo": "ktm-can",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:37:21.609Z",
+    "last_updated": "2026-10-19T19:22:44.311Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2795,7 +2795,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-12T13:39:28Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
       "stars": 1002,
