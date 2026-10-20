@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,502 | 🐛 316 | 🌐 Python | 📅 2026-10-19 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,503 | 🐛 322 | 🌐 Python | 📅 2026-10-20 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 66 | 🐛 50 | 🌐 HTML | 📅 2026-10-18 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -127,7 +127,7 @@ Links for general DB and uther useful resources:
 
 ### Jeep
 
-* [Jeep](https://github.com/latonita/jeep-canbus) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2026-09-12 -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
+* [Jeep](https://github.com/latonita/jeep-canbus) ⭐ 30 | 🐛 3 | 🌐 HTML | 📅 2026-10-20 -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
 * [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) ⭐ 28 | 🐛 0 | 📅 2020-11-10 - Grand Cherokee 2006, Wrangler 2010.
 * [Jeep](https://github.com/SvetlAl/docs/blob/master/jeep_grand_cherokee_2017.txt) ⭐ 1 | 🐛 0 | 📅 2024-09-19 - Grand Cherokee 2017, dashboard speed,cruise.
 
@@ -324,7 +324,7 @@ temporaly unsorted:
 
 ## Tesla
 
-* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 413 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
+* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 414 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
 * [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
 * [Tesla](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0) - Model S/X CAN IDs and payload.
 
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,502 | 🐛 316 | 🌐 Python | 📅 2026-10-19 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,503 | 🐛 322 | 🌐 Python | 📅 2026-10-20 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,8 +430,8 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,511 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 246 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,512 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 247 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
 <!--
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

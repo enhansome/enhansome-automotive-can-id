@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T14:05:19Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-20T01:23:02Z",
+            "open_issues": 322,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3502,
+            "stars": 3503,
             "topics": [
               "automotive",
               "can",
@@ -359,9 +359,9 @@
                 "description": "Projects around CAN BUS in Chrysler Jeep - VES enabler, other small features",
                 "homepage": null,
                 "id": 86825945,
-                "language": "C++",
+                "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-12T21:50:24Z",
+                "last_commit": "2026-10-20T05:33:37Z",
                 "open_issues": 3,
                 "owner": "latonita",
                 "repo": "jeep-canbus",
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 413,
+            "stars": 414,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T14:05:19Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-20T01:23:02Z",
+            "open_issues": 322,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3502,
+            "stars": 3503,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 11,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3511,
+            "stars": 3512,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2756,7 +2756,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-linbus",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "arduino",
               "automotive",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:22:44.311Z",
+    "last_updated": "2026-10-20T18:01:24.402Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 2,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1002,
+      "stars": 1003,
       "topics": [
         "automotive",
         "automotive-security",
