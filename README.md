@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,505 | 🐛 325 | 🌐 Python | 📅 2026-10-20 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 66 | 🐛 50 | 🌐 HTML | 📅 2026-10-20 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,509 | 🐛 325 | 🌐 Python | 📅 2026-10-20 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 53 | 🌐 HTML | 📅 2026-10-22 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -262,7 +262,7 @@ Links for general DB and uther useful resources:
 
 ### Leaf
 
-* [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 235 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
+* [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 236 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
 * [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 52 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-12 - #1.
 * [Nissan Leaf](https://github.com/damienmaguire/LeafLogs) ⭐ 7 | 🐛 0 | 📅 2021-05-05 - Some Logs from Gen 1 Nissan Leaf.
 * [Nissan Leaf](https://leaf-obd.readthedocs.io/en/latest/pid/index.html) - #2.
@@ -365,7 +365,7 @@ temporaly unsorted:
 
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
-* [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) ⭐ 102 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Drivetrain CAN bus IDs].
+* [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) ⭐ 103 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Drivetrain CAN bus IDs].
 * [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-07-13 - CAN\_ID.
 * [Volkswagen](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv) ⭐ 18 | 🐛 1 | 📅 2018-01-29 - MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc).
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,505 | 🐛 325 | 🌐 Python | 📅 2026-10-20 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,509 | 🐛 325 | 🌐 Python | 📅 2026-10-20 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
