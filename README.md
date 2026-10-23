@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,509 | 🐛 325 | 🌐 Python | 📅 2026-10-20 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 53 | 🌐 HTML | 📅 2026-10-22 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,510 | 🐛 326 | 🌐 Python | 📅 2026-10-23 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 52 | 🌐 HTML | 📅 2026-10-23 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -381,10 +381,10 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,509 | 🐛 325 | 🌐 Python | 📅 2026-10-20 - V60 2015 *(DBC)*.
-* [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
-* [Volvo](https://github.com/olegel/VolvoCan) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
-* [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,510 | 🐛 326 | 🌐 Python | 📅 2026-10-23 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 72 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
+* [Volvo](https://github.com/olegel/VolvoCan) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
+* [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
 * [Volvo](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2018-10-19 - BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50).
 * [Volvo](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/cem) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2018-10-19 - BUSMaster files for emulation of Central Electronics Module.
 * [Volvo](https://github.com/damienmaguire/Volvo-V50-CAN-Info) ⭐ 10 | 🐛 0 | 🌐 Fluent | 📅 2023-02-24 - V50 (dumps in SavvyCAN format).
@@ -392,9 +392,9 @@ temporaly unsorted:
 
 ### C30
 
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Codes.txt) ⭐ 135 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 Codes.
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/Low%20Speed.cmt) ⭐ 135 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 LowSpeed CAN.
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/High%20Speed.cmt) ⭐ 135 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 HighSpeed CAN.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Codes.txt) ⭐ 134 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 Codes.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/Low%20Speed.cmt) ⭐ 134 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 LowSpeed CAN.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/High%20Speed.cmt) ⭐ 134 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 HighSpeed CAN.
 * [Volvo C30](https://paul.sullivan.za.org/volvo-c30-1.6d/OBD-II_CAN-bus/) - 1.6d DRIVe.
 
 ### S60
@@ -402,7 +402,7 @@ temporaly unsorted:
 * [Volvo S60](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) ⭐ 51 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Project to power a volvo DIM outside of the car.
 * [Volvo S60](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) ⭐ 51 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Notes on CANBUS.
 * [Volvo S60](https://github.com/waal70/S60CAN) ⚠️ Archived - Arduino CANBUS Volvo S60 DPF soot filter.
-* [Volvo S60](https://github.com/waal70/VolvoCANBUS) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2026-04-10 - MY2009, aka P2 facelift model.
+* [Volvo S60](https://github.com/waal70/VolvoCANBUS) ⭐ 14 | 🐛 2 | 🌐 Java | 📅 2026-04-10 - MY2009, aka P2 facelift model.
 * [Volvo S60](https://github.com/ezkripke/volvo-CAN-exploration) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-06-07 - OBD-II CAN Data Extraction and Analysis.
 
 ***
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,516 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,517 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 247 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
