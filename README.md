@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,510 | 🐛 326 | 🌐 Python | 📅 2026-10-23 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,512 | 🐛 327 | 🌐 Python | 📅 2026-10-23 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 52 | 🌐 HTML | 📅 2026-10-23 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -157,7 +157,7 @@ Links for general DB and uther useful resources:
 
 ### Fiesta
 
-* [Ford Fiesta](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) ⭐ 51 | 🐛 2 | 📅 2020-09-30 - MK5 2006+ (MK5 restyling, Bus speed 125K).
+* [Ford Fiesta](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) ⭐ 52 | 🐛 2 | 📅 2020-09-30 - MK5 2006+ (MK5 restyling, Bus speed 125K).
 * [Ford Fiesta](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description) ⭐ 7 | 🐛 1 | 🌐 C++ | 📅 2019-10-27 - MK7.5.
 * [Ford Fiesta](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0) - MK7.
 
@@ -173,7 +173,7 @@ Links for general DB and uther useful resources:
 
 ## Honda
 
-* [Honda](https://github.com/Knio/carhack/blob/master/Cars/Honda.markdown) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-27 - Civic 8th Gen.
+* [Honda](https://github.com/Knio/carhack/blob/master/Cars/Honda.markdown) ⭐ 92 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-27 - Civic 8th Gen.
 
 ## Hyundai
 
@@ -198,12 +198,12 @@ Links for general DB and uther useful resources:
 > **Note**
 > ⚠ Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
 
-* [Kia](https://github.com/PolySync/OSCC) ⭐ 1,041 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) ⭐ 1,041 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul OBD.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Steering) ⭐ 1,041 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Steering.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,041 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,041 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,041 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
+* [Kia](https://github.com/PolySync/OSCC) ⭐ 1,042 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) ⭐ 1,042 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul OBD.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Steering) ⭐ 1,042 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Steering.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,042 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,042 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,042 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
 * [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 289 | 🐛 39 | 📅 2021-06-10 - EV.
 
 ## Land Rover
@@ -236,7 +236,7 @@ Links for general DB and uther useful resources:
 
 ## Mercedes-Benz
 
-* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 174 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
+* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 175 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
 * [Mercedes-Benz](https://github.com/rnd-ash/MBUX-Port) ⚠️ Archived - 2000-2007: See txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
 * [Mercedes-Benz](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) ⭐ 131 | 🐛 5 | 📅 2026-06-01 - W203 C200 CDI: Should theoretically work on W203/w209/w211/w219 vehicles.
 * [Mercedes-Benz](https://github.com/mkovero/7226ctrl) ⭐ 67 | 🐛 12 | 🌐 C++ | 📅 2020-07-07 - Controller for 722.6 automatic transmission.
@@ -254,7 +254,7 @@ Links for general DB and uther useful resources:
 
 ## Nissan
 
-* [Nissan](https://github.com/Knio/carhack/blob/master/Cars/Nissan.markdown) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-27 - 370Z 2010.
+* [Nissan](https://github.com/Knio/carhack/blob/master/Cars/Nissan.markdown) ⭐ 92 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-27 - 370Z 2010.
 
 * [Nissan](https://github.com/jackm/carhack/blob/master/nissan.md) ⭐ 39 | 🐛 1 | 📅 2018-04-19 - Sentra 2010.
 
@@ -263,7 +263,7 @@ Links for general DB and uther useful resources:
 ### Leaf
 
 * [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 236 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
-* [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 52 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-12 - #1.
+* [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 53 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-12 - #1.
 * [Nissan Leaf](https://github.com/damienmaguire/LeafLogs) ⭐ 7 | 🐛 0 | 📅 2021-05-05 - Some Logs from Gen 1 Nissan Leaf.
 * [Nissan Leaf](https://leaf-obd.readthedocs.io/en/latest/pid/index.html) - #2.
 
@@ -375,14 +375,14 @@ temporaly unsorted:
 #### VW Hybrid and EV
 
 * [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) ⭐ 233 | 🐛 84 | 🌐 Vue | 📅 2026-09-27 - VW e-Golf #2.
-* [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 52 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-12 - VW e-Golf.
+* [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) ⭐ 53 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-12 - VW e-Golf.
 * [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) ⭐ 50 | 🐛 6 | 📅 2024-06-02 - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
 * [VW-GTE-ContactorBox](https://github.com/jamiejones85/VW-GTE-ContactorBox) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-05-08 - Reverse engineering the VW GTE Contactor Box (E-BOX).
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,510 | 🐛 326 | 🌐 Python | 📅 2026-10-23 - V60 2015 *(DBC)*.
-* [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 72 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,512 | 🐛 327 | 🌐 Python | 📅 2026-10-23 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 71 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
 * [Volvo](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2018-10-19 - BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50).
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,517 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,518 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 247 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
