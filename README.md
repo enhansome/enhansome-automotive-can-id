@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,519 | 🐛 328 | 🌐 Python | 📅 2026-10-27 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 51 | 🌐 HTML | 📅 2026-10-27 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,522 | 🐛 328 | 🌐 Python | 📅 2026-10-28 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 51 | 🌐 HTML | 📅 2026-10-28 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -133,7 +133,7 @@ Links for general DB and uther useful resources:
 
 ## Fiat
 
-* [Fiat](https://github.com/P1kachu/talking-with-cars/blob/master/notes/fiat-500.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - 500.
+* [Fiat](https://github.com/P1kachu/talking-with-cars/blob/master/notes/fiat-500.txt) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - 500.
 * Fiat 500L: [ID](https://github.com/VeryBusyBee/FiatMon/blob/master/Core/Inc/main.h) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2022-02-21 & [Payload](https://github.com/VeryBusyBee/FiatMon/blob/master/Core/Src/obd.cpp) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2022-02-21 - Model 500L.
 
 ## Ford (Lincoln, Mercury)
@@ -198,12 +198,12 @@ Links for general DB and uther useful resources:
 > **Note**
 > ⚠ Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
 
-* [Kia](https://github.com/PolySync/OSCC) ⭐ 1,043 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) ⭐ 1,043 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul OBD.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Steering) ⭐ 1,043 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Steering.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,043 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,043 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,043 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
+* [Kia](https://github.com/PolySync/OSCC) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul OBD.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Steering) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Steering.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
 * [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 289 | 🐛 39 | 📅 2021-06-10 - EV.
 
 ## Land Rover
@@ -316,7 +316,7 @@ temporaly unsorted:
 
 ## Suzuki
 
-* [Suzuki](https://github.com/P1kachu/talking-with-cars/blob/master/notes/suzuki-swift-IV.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Swift IV AZG 1.3 DDiS 16V 75cv.
+* [Suzuki](https://github.com/P1kachu/talking-with-cars/blob/master/notes/suzuki-swift-IV.txt) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Swift IV AZG 1.3 DDiS 16V 75cv.
 
 ## Tank
 
@@ -339,7 +339,7 @@ temporaly unsorted:
 
 <!--lint enable double-link-->
 
-* [Toyota](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Yaris.
+* [Toyota](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Yaris.
 * [Toyota AVC LAN](https://github.com/halleysfifthinc/Toyota-AVC-LAN) ⭐ 64 | 🐛 6 | 🌐 C++ | 📅 2026-09-28 - Arduino emulating a CD Changer on a Toyota AVC LAN network.
 * [Toyota](https://github.com/karlyamashita/common_libraries/blob/master/TOYOTA_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - 2018 Tacoma.
 * [Toyota AVC LAN](https://github.com/instalator/AVC-LAN-Toyota) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2021-02-07 - Arduino emulating a CD Changer on a Toyota AVC LAN network (another project).
@@ -363,8 +363,8 @@ temporaly unsorted:
 
 ### Volkswagen
 
-* [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
-* [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
+* [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
+* [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Polo R6.
 * [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) ⭐ 103 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Drivetrain CAN bus IDs].
 * [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2026-01-31 - Touran 2004.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - CAN\_ID.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,519 | 🐛 328 | 🌐 Python | 📅 2026-10-27 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,522 | 🐛 328 | 🌐 Python | 📅 2026-10-28 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 71 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,527 | 🐛 13 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,529 | 🐛 12 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 247 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
