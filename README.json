@@ -19,7 +19,7 @@
             "open_issues": 328,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3524,
+            "stars": 3526,
             "topics": [
               "automotive",
               "can",
@@ -1788,7 +1788,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2264,7 +2264,7 @@
             "open_issues": 328,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3524,
+            "stars": 3526,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 13,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3536,
+            "stars": 3538,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:40:51.559Z",
+    "last_updated": "2026-10-31T17:49:43.289Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
