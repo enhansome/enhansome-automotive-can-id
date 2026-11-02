@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T21:19:15Z",
-            "open_issues": 327,
+            "last_commit": "2026-11-02T14:03:32Z",
+            "open_issues": 328,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3527,
+            "stars": 3534,
             "topics": [
               "automotive",
               "can",
@@ -72,7 +72,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "bmw",
               "bus-network",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "kmalinich",
             "repo": "node-bmw-ref",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "bmw",
               "bus-network",
@@ -1202,7 +1202,7 @@
             "open_issues": 3,
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "android",
               "android-application",
@@ -1481,7 +1481,7 @@
                 "open_issues": 1,
                 "owner": "dalathegreat",
                 "repo": "EV-CANlogs",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2185,7 +2185,7 @@
                     "open_issues": 1,
                     "owner": "dalathegreat",
                     "repo": "EV-CANlogs",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T21:19:15Z",
-            "open_issues": 327,
+            "last_commit": "2026-11-02T14:03:32Z",
+            "open_issues": 328,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3527,
+            "stars": 3534,
             "topics": [
               "automotive",
               "can",
@@ -2711,10 +2711,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3540,
+            "stars": 3545,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:27:34.589Z",
+    "last_updated": "2026-11-02T22:22:38.323Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 2,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1017,
+      "stars": 1018,
       "topics": [
         "automotive",
         "automotive-security",
