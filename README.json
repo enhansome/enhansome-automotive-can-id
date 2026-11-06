@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:34:19Z",
-            "open_issues": 334,
+            "last_commit": "2026-11-06T15:55:55Z",
+            "open_issues": 335,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3540,
+            "stars": 3543,
             "topics": [
               "automotive",
               "can",
@@ -1128,7 +1128,7 @@
             "open_issues": 0,
             "owner": "majbthrd",
             "repo": "MazdaCANbus",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "can-bus",
               "mazda",
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:34:19Z",
-            "open_issues": 334,
+            "last_commit": "2026-11-06T15:55:55Z",
+            "open_issues": 335,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3540,
+            "stars": 3543,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 17,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3549,
+            "stars": 3554,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:43:41.354Z",
+    "last_updated": "2026-11-06T19:59:18.820Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2798,7 +2798,7 @@
       "open_issues": 2,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1022,
+      "stars": 1024,
       "topics": [
         "automotive",
         "automotive-security",
