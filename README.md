@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,552 | 🐛 350 | 🌐 Python | 📅 2026-11-10 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,554 | 🐛 350 | 🌐 Python | 📅 2026-11-10 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 51 | 🌐 HTML | 📅 2026-11-10 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -153,7 +153,7 @@ Links for general DB and uther useful resources:
 * [Mustang, 2007-2009](https://github.com/thomastech/CAN2Cluster) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-10-18 - Emulator for Dashboard Instrument Cluster.
 * [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - Mustang 2005 CAN 125k.
 * [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) ⭐ 29 | 🐛 53 | 🌐 Python | 📅 2018-07-12 - Files for Ford Fusion and Lincoln MKZ (DBC).
-* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2026-11-10 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2026-11-10 on CANBus ids and behavior.
+* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-11 on CANBus ids and behavior.
 
 ### Fiesta
 
@@ -163,9 +163,9 @@ Links for general DB and uther useful resources:
 
 ### Ford FG Falcon
 
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 87 | 🐛 0 | 🌐 HTML | 📅 2026-10-29 - FG Falcon (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 87 | 🐛 0 | 🌐 HTML | 📅 2026-10-29 - CANBus decoded (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 87 | 🐛 0 | 🌐 HTML | 📅 2026-10-29 - Orion.
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) ⭐ 88 | 🐛 0 | 🌐 HTML | 📅 2026-10-29 - FG Falcon (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) ⭐ 88 | 🐛 0 | 🌐 HTML | 📅 2026-10-29 - CANBus decoded (XLSX).
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) ⭐ 88 | 🐛 0 | 🌐 HTML | 📅 2026-10-29 - Orion.
 
 ### Ford Transit
 
@@ -238,7 +238,7 @@ Links for general DB and uther useful resources:
 
 * [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 176 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
 * [Mercedes-Benz](https://github.com/rnd-ash/MBUX-Port) ⚠️ Archived - 2000-2007: See txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
-* [Mercedes-Benz](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) ⭐ 131 | 🐛 5 | 📅 2026-06-01 - W203 C200 CDI: Should theoretically work on W203/w209/w211/w219 vehicles.
+* [Mercedes-Benz](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) ⭐ 133 | 🐛 5 | 📅 2026-06-01 - W203 C200 CDI: Should theoretically work on W203/w209/w211/w219 vehicles.
 * [Mercedes-Benz](https://github.com/mkovero/7226ctrl) ⭐ 67 | 🐛 12 | 🌐 C++ | 📅 2020-07-07 - Controller for 722.6 automatic transmission.
 * [Mercedes-Benz](https://github.com/dvjcodec/Mercedes-Benz-CAN-BUS) ⭐ 23 | 🐛 0 | 📅 2021-09-19 - Understand and run units via CAN-bus network.
 * [Mercedes-Benz](https://docs.google.com/spreadsheets/d/1krPDmjjwmlta4jAVcDMoWbseAokUYnBAHn67pOo00C0/edit#gid=2038710733) - W203 CAN BUS.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,552 | 🐛 350 | 🌐 Python | 📅 2026-11-10 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,554 | 🐛 350 | 🌐 Python | 📅 2026-11-10 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,561 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,562 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

@@ -19,7 +19,7 @@
             "open_issues": 350,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3552,
+            "stars": 3554,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T20:21:39Z",
+            "last_commit": "2026-11-10T23:42:14Z",
             "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -588,8 +588,8 @@
             "id": 637408376,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-10T19:05:02Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-11T04:13:39Z",
+            "open_issues": 3,
             "owner": "EricTurner3",
             "repo": "s550-canbus",
             "stars": 21,
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "australia",
                   "canbus",
@@ -703,7 +703,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "australia",
                   "canbus",
@@ -731,7 +731,7 @@
                 "open_issues": 0,
                 "owner": "jakka351",
                 "repo": "FG-Falcon",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "australia",
                   "canbus",
@@ -1275,7 +1275,7 @@
             "open_issues": 5,
             "owner": "rnd-ash",
             "repo": "ultimate_nag52",
-            "stars": 131,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2264,7 +2264,7 @@
             "open_issues": 350,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3552,
+            "stars": 3554,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 17,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3561,
+            "stars": 3562,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:29:59.319Z",
+    "last_updated": "2026-11-11T20:15:49.544Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
