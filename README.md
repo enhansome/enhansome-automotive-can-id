@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,554 | 🐛 350 | 🌐 Python | 📅 2026-11-10 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 51 | 🌐 HTML | 📅 2026-11-10 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,555 | 🐛 357 | 🌐 Python | 📅 2026-11-12 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 67 | 🐛 51 | 🌐 HTML | 📅 2026-11-12 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -127,7 +127,7 @@ Links for general DB and uther useful resources:
 
 ### Jeep
 
-* [Jeep](https://github.com/latonita/jeep-canbus) ⭐ 30 | 🐛 3 | 🌐 HTML | 📅 2026-10-20 -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
+* [Jeep](https://github.com/latonita/jeep-canbus) ⭐ 30 | 🐛 3 | 🌐 HTML | 📅 2026-11-12 -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
 * [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) ⭐ 28 | 🐛 0 | 📅 2020-11-10 - Grand Cherokee 2006, Wrangler 2010.
 * [Jeep](https://github.com/SvetlAl/docs/blob/master/jeep_grand_cherokee_2017.txt) ⭐ 1 | 🐛 0 | 📅 2024-09-19 - Grand Cherokee 2017, dashboard speed,cruise.
 
@@ -153,7 +153,7 @@ Links for general DB and uther useful resources:
 * [Mustang, 2007-2009](https://github.com/thomastech/CAN2Cluster) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-10-18 - Emulator for Dashboard Instrument Cluster.
 * [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - Mustang 2005 CAN 125k.
 * [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) ⭐ 29 | 🐛 53 | 🌐 Python | 📅 2018-07-12 - Files for Ford Fusion and Lincoln MKZ (DBC).
-* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-11 on CANBus ids and behavior.
+* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-12 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-12 on CANBus ids and behavior.
 
 ### Fiesta
 
@@ -262,7 +262,7 @@ Links for general DB and uther useful resources:
 
 ### Leaf
 
-* [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 237 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
+* [Nissan Leaf](https://github.com/dalathegreat/leaf_can_bus_messages) ⭐ 236 | 🐛 0 | 📅 2026-07-06 - CAN bus message decoding with proper database files.
 * [Nissan Leaf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF) ⭐ 56 | 🐛 1 | 🌐 AGS Script | 📅 2026-10-29 - #1.
 * [Nissan Leaf](https://github.com/damienmaguire/LeafLogs) ⭐ 7 | 🐛 0 | 📅 2021-05-05 - Some Logs from Gen 1 Nissan Leaf.
 * [Nissan Leaf](https://leaf-obd.readthedocs.io/en/latest/pid/index.html) - #2.
@@ -271,7 +271,7 @@ Links for general DB and uther useful resources:
 
 ### Astra
 
-* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 70 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
+* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 71 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
 * [Opel Astra H](https://github.com/megadrifter/Astra-H-Public) ⭐ 18 | 🐛 0 | 📅 2021-01-14 - LS CAN, MS CAN.
 * [Opel Astra H](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino) ⭐ 4 | 🐛 0 | 🌐 Arduino | 📅 2017-06-15 - Climate.
 * [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H) - CAN BUS.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,554 | 🐛 350 | 🌐 Python | 📅 2026-11-10 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,555 | 🐛 357 | 🌐 Python | 📅 2026-11-12 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,562 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,563 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
