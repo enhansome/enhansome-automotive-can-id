@@ -77,8 +77,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,556 | 🐛 359 | 🌐 Python | 📅 2026-11-13 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 68 | 🐛 51 | 🌐 HTML | 📅 2026-11-13 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,558 | 🐛 360 | 🌐 Python | 📅 2026-11-14 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 68 | 🐛 51 | 🌐 HTML | 📅 2026-11-14 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -153,7 +153,7 @@ Links for general DB and uther useful resources:
 * [Mustang, 2007-2009](https://github.com/thomastech/CAN2Cluster) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-10-18 - Emulator for Dashboard Instrument Cluster.
 * [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - Mustang 2005 CAN 125k.
 * [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) ⭐ 29 | 🐛 53 | 🌐 Python | 📅 2018-07-12 - Files for Ford Fusion and Lincoln MKZ (DBC).
-* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-13 on CANBus ids and behavior.
+* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-14 on CANBus ids and behavior.
 
 ### Fiesta
 
@@ -190,7 +190,7 @@ Links for general DB and uther useful resources:
 
 ## Jaguar
 
-* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-08-22 - CAN Codes & DBCs
+* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-11-14 - CAN Codes & DBCs
 * [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
 
 ## Kia
@@ -226,7 +226,7 @@ Links for general DB and uther useful resources:
 
 ## Mazda
 
-* [Mazda](https://github.com/majbthrd/MazdaCANbus) ⭐ 68 | 🐛 0 | 📅 2018-05-12 - Database of known Mazda (SkyActiv and RX-8) CAN messages.
+* [Mazda](https://github.com/majbthrd/MazdaCANbus) ⭐ 69 | 🐛 0 | 📅 2018-05-12 - Database of known Mazda (SkyActiv and RX-8) CAN messages.
 * [Mazda](https://github.com/ihaque/arduino-ecu-logger/blob/master/data/RX-8%20CAN%20bus%20data.xls) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2016-01-17 - RX8.
 * [Mazda](https://github.com/silverchris/Mazda3_Canbus_Messages) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-09-05 - Model 3.
 * [Mazda](http://opengarages.org/index.php/Mazda_CAN_ID) - Opengarages Mazda CAN ID.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,556 | 🐛 359 | 🌐 Python | 📅 2026-11-13 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,558 | 🐛 360 | 🌐 Python | 📅 2026-11-14 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -392,9 +392,9 @@ temporaly unsorted:
 
 ### C30
 
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Codes.txt) ⭐ 137 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 Codes.
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/Low%20Speed.cmt) ⭐ 137 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 LowSpeed CAN.
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/High%20Speed.cmt) ⭐ 137 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 HighSpeed CAN.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Codes.txt) ⭐ 138 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 Codes.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/Low%20Speed.cmt) ⭐ 138 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 LowSpeed CAN.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/High%20Speed.cmt) ⭐ 138 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 HighSpeed CAN.
 * [Volvo C30](https://paul.sullivan.za.org/volvo-c30-1.6d/OBD-II_CAN-bus/) - 1.6d DRIVe.
 
 ### S60
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,564 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,565 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
