@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T15:42:55Z",
-            "open_issues": 360,
+            "last_commit": "2026-11-14T21:43:18Z",
+            "open_issues": 365,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3558,
+            "stars": 3562,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T14:48:32Z",
+            "last_commit": "2026-11-14T20:11:03Z",
             "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -151,7 +151,7 @@
                 "open_issues": 1,
                 "owner": "damienmaguire",
                 "repo": "BMW_SBox",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -588,7 +588,7 @@
             "id": 637408376,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-14T04:46:44Z",
+            "last_commit": "2026-11-15T04:40:39Z",
             "open_issues": 3,
             "owner": "EricTurner3",
             "repo": "s550-canbus",
@@ -891,10 +891,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-14T08:01:41Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "fsfarmscaper",
             "repo": "jaguar-xf-x250-can",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -921,7 +921,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -942,7 +942,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -963,7 +963,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -984,7 +984,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1005,7 +1005,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1536,7 +1536,7 @@
                 "open_issues": 2,
                 "owner": "JJToB",
                 "repo": "Car-CAN-Message-DB",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2260,11 +2260,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T15:42:55Z",
-            "open_issues": 360,
+            "last_commit": "2026-11-14T21:43:18Z",
+            "open_issues": 365,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3558,
+            "stars": 3562,
             "topics": [
               "automotive",
               "can",
@@ -2714,7 +2714,7 @@
             "open_issues": 17,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3565,
+            "stars": 3567,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:46:35.661Z",
+    "last_updated": "2026-11-15T19:24:44.043Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2795,10 +2795,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-12T13:39:28Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1025,
+      "stars": 1027,
       "topics": [
         "automotive",
         "automotive-security",

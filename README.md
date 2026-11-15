@@ -77,7 +77,7 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,558 | 🐛 360 | 🌐 Python | 📅 2026-11-14 - Democratize access to car decoder rings by CommaAI.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,562 | 🐛 365 | 🌐 Python | 📅 2026-11-14 - Democratize access to car decoder rings by CommaAI.
 * [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 68 | 🐛 51 | 🌐 HTML | 📅 2026-11-14 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
@@ -95,7 +95,7 @@ Links for general DB and uther useful resources:
 
 ### BMW Hybrid vehicles
 
-* [BMW BMS/Sbox](https://github.com/damienmaguire/BMW_SBox) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2023-04-21 - Reverse Engineering of the BMW SBox for use in EV conversion projects.
+* [BMW BMS/Sbox](https://github.com/damienmaguire/BMW_SBox) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2023-04-21 - Reverse Engineering of the BMW SBox for use in EV conversion projects.
 
 ### iDrive
 
@@ -153,7 +153,7 @@ Links for general DB and uther useful resources:
 * [Mustang, 2007-2009](https://github.com/thomastech/CAN2Cluster) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-10-18 - Emulator for Dashboard Instrument Cluster.
 * [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - Mustang 2005 CAN 125k.
 * [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) ⭐ 29 | 🐛 53 | 🌐 Python | 📅 2018-07-12 - Files for Ford Fusion and Lincoln MKZ (DBC).
-* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-14 on CANBus ids and behavior.
+* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-15 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-11-15 on CANBus ids and behavior.
 
 ### Fiesta
 
@@ -190,7 +190,7 @@ Links for general DB and uther useful resources:
 
 ## Jaguar
 
-* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-11-14 - CAN Codes & DBCs
+* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - CAN Codes & DBCs
 * [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
 
 ## Kia
@@ -198,12 +198,12 @@ Links for general DB and uther useful resources:
 > **Note**
 > ⚠ Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
 
-* [Kia](https://github.com/PolySync/OSCC) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul OBD.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Steering) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Steering.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
-* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,044 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
+* [Kia](https://github.com/PolySync/OSCC) ⭐ 1,045 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) ⭐ 1,045 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul OBD.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Steering) ⭐ 1,045 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Steering.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,045 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,045 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
+* [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,045 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
 * [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 290 | 🐛 39 | 📅 2021-06-10 - EV.
 
 ## Land Rover
@@ -271,7 +271,7 @@ Links for general DB and uther useful resources:
 
 ### Astra
 
-* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 71 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
+* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) ⭐ 72 | 🐛 2 | 📅 2026-04-22 - CAN Message Databases.
 * [Opel Astra H](https://github.com/megadrifter/Astra-H-Public) ⭐ 18 | 🐛 0 | 📅 2021-01-14 - LS CAN, MS CAN.
 * [Opel Astra H](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino) ⭐ 4 | 🐛 0 | 🌐 Arduino | 📅 2017-06-15 - Climate.
 * [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H) - CAN BUS.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,558 | 🐛 360 | 🌐 Python | 📅 2026-11-14 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,562 | 🐛 365 | 🌐 Python | 📅 2026-11-14 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -430,7 +430,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,565 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,567 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -466,4 +466,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
