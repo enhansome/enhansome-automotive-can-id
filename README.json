@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T21:43:18Z",
+            "last_commit": "2026-11-16T22:53:49Z",
             "open_issues": 365,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3562,
+            "stars": 3567,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T20:11:03Z",
+            "last_commit": "2026-11-16T17:45:46Z",
             "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -493,115 +493,178 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Ford",
-          "description": "Escape 2010 LTD with Active Park Assist.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Leverage from ioactive blog for research purpose in Self Driving Car Development",
-            "homepage": null,
-            "id": 64955625,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2016-08-05T22:42:42Z",
-            "open_issues": 1,
-            "owner": "andrewraharjo",
-            "repo": "CAN-Bus-Hack_Prius_Focus",
-            "stars": 61,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:05:36.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Mustang, 2007-2009",
-          "description": "Emulator for Dashboard Instrument Cluster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CAN-Bus Emulator for Controlling Automotive Dashboard Instrument Clusters",
-            "homepage": null,
-            "id": 163445078,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-18T16:56:37Z",
-            "open_issues": 0,
-            "owner": "thomastech",
-            "repo": "CAN2Cluster",
-            "stars": 48,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:05:36.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ford",
-          "description": "Mustang 2005 CAN 125k.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
-            "homepage": null,
-            "id": 146688187,
-            "language": "C",
-            "license": null,
-            "last_commit": "2026-10-26T21:02:03Z",
-            "open_issues": 0,
-            "owner": "karlyamashita",
-            "repo": "common_libraries",
-            "stars": 34,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:05:36.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ford and Lincoln",
-          "description": "Files for Ford Fusion and Lincoln MKZ (DBC).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DBC files for Lincoln MKZ and Ford Fusion",
-            "homepage": null,
-            "id": 84316393,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2018-07-12T07:16:45Z",
-            "open_issues": 53,
-            "owner": "autti",
-            "repo": "abraham",
-            "stars": 29,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:05:36.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "S550 Mustang, 2015-2017",
-          "description": "Python scripts with notes and a wiki on CANBus ids and behavior.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Research and scripts for the Ford S550 Mustang CAN Bus",
-            "homepage": "https://ericturner3.github.io/s550-canbus/",
-            "id": 637408376,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-11-15T04:40:39Z",
-            "open_issues": 3,
-            "owner": "EricTurner3",
-            "repo": "s550-canbus",
-            "stars": 21,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:05:36.776Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fusion & Lincoln MKZ DBC",
+              "description": "Files for Ford Fusion and Lincoln MKZ (DBC).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DBC files for Lincoln MKZ and Ford Fusion",
+                "homepage": null,
+                "id": 84316393,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2018-07-12T07:16:45Z",
+                "open_issues": 53,
+                "owner": "autti",
+                "repo": "abraham",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Ford Fiesta",
+              "title": "Escape (2010)",
+              "description": "Escape 2010 LTD with Active Park Assist.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Leverage from ioactive blog for research purpose in Self Driving Car Development",
+                "homepage": null,
+                "id": 64955625,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2016-08-05T22:42:42Z",
+                "open_issues": 1,
+                "owner": "andrewraharjo",
+                "repo": "CAN-Bus-Hack_Prius_Focus",
+                "stars": 61,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Escape (2009, Hybrid)",
+              "description": "Ford Escape 2009 Limited Hybrid, CANbus reverse engineering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CAN reverse engineering of a Ford Escape 2009 Hybrid",
+                "homepage": null,
+                "id": 1424176857,
+                "language": "Python",
+                "license": "WTFPL",
+                "last_commit": "2026-10-21T06:09:04Z",
+                "open_issues": 0,
+                "owner": "msbence",
+                "repo": "ford-escape-mk2-can-id",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-16T22:56:30.043Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Escape"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FG Falcon 6FPA",
+              "description": "FG Falcon (XLSX).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FoA Orion Repository",
+                "homepage": "https://testerPresent.com.au/",
+                "id": 298083806,
+                "language": "HTML",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-10-29T15:47:27Z",
+                "open_issues": 0,
+                "owner": "jakka351",
+                "repo": "FG-Falcon",
+                "stars": 89,
+                "topics": [
+                  "australia",
+                  "canbus",
+                  "falcon",
+                  "fg",
+                  "ford",
+                  "orion"
+                ]
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FG Falcon Decoded",
+              "description": "CANBus decoded (XLSX).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FoA Orion Repository",
+                "homepage": "https://testerPresent.com.au/",
+                "id": 298083806,
+                "language": "HTML",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-10-29T15:47:27Z",
+                "open_issues": 0,
+                "owner": "jakka351",
+                "repo": "FG-Falcon",
+                "stars": 89,
+                "topics": [
+                  "australia",
+                  "canbus",
+                  "falcon",
+                  "fg",
+                  "ford",
+                  "orion"
+                ]
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Falcon Orion Platform",
+              "description": "Orion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FoA Orion Repository",
+                "homepage": "https://testerPresent.com.au/",
+                "id": 298083806,
+                "language": "HTML",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-10-29T15:47:27Z",
+                "open_issues": 0,
+                "owner": "jakka351",
+                "repo": "FG-Falcon",
+                "stars": 89,
+                "topics": [
+                  "australia",
+                  "canbus",
+                  "falcon",
+                  "fg",
+                  "ford",
+                  "orion"
+                ]
+              },
+              "first_seen": "2026-08-28T23:05:36.776Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Falcon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fiesta MK5 (2006+)",
               "description": "MK5 2006+ (MK5 restyling, Bus speed 125K).",
               "children": [],
               "repo_info": {
@@ -629,7 +692,7 @@
             },
             {
               "node_type": "item",
-              "title": "Ford Fiesta",
+              "title": "Fiesta MK7.5",
               "description": "MK7.5.",
               "children": [],
               "repo_info": {
@@ -661,98 +724,77 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Ford FG Falcon",
-              "description": "FG Falcon (XLSX).",
+              "title": "Mustang (2007-2009)",
+              "description": "Emulator for Dashboard Instrument Cluster.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "FoA Orion Repository",
-                "homepage": "https://testerPresent.com.au/",
-                "id": 298083806,
-                "language": "HTML",
-                "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-29T15:47:27Z",
+                "description": "CAN-Bus Emulator for Controlling Automotive Dashboard Instrument Clusters",
+                "homepage": null,
+                "id": 163445078,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-18T16:56:37Z",
                 "open_issues": 0,
-                "owner": "jakka351",
-                "repo": "FG-Falcon",
-                "stars": 88,
-                "topics": [
-                  "australia",
-                  "canbus",
-                  "falcon",
-                  "fg",
-                  "ford",
-                  "orion"
-                ]
+                "owner": "thomastech",
+                "repo": "CAN2Cluster",
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
-              "title": "Ford FG Falcon",
-              "description": "CANBus decoded (XLSX).",
+              "title": "Mustang (2005)",
+              "description": "Mustang 2005 CAN 125k.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "FoA Orion Repository",
-                "homepage": "https://testerPresent.com.au/",
-                "id": 298083806,
-                "language": "HTML",
-                "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-29T15:47:27Z",
+                "description": "These are reusable libraries. You'll need to include the LSP.h file and remove comment for what you need.  ",
+                "homepage": null,
+                "id": 146688187,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-10-26T21:02:03Z",
                 "open_issues": 0,
-                "owner": "jakka351",
-                "repo": "FG-Falcon",
-                "stars": 88,
-                "topics": [
-                  "australia",
-                  "canbus",
-                  "falcon",
-                  "fg",
-                  "ford",
-                  "orion"
-                ]
+                "owner": "karlyamashita",
+                "repo": "common_libraries",
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             },
             {
               "node_type": "item",
-              "title": "Ford FG Falcon",
-              "description": "Orion.",
+              "title": "Mustang S550 (2015-2017)",
+              "description": "Python scripts with notes and a wiki on CANBus ids and behavior.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "FoA Orion Repository",
-                "homepage": "https://testerPresent.com.au/",
-                "id": 298083806,
-                "language": "HTML",
-                "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-29T15:47:27Z",
-                "open_issues": 0,
-                "owner": "jakka351",
-                "repo": "FG-Falcon",
-                "stars": 88,
-                "topics": [
-                  "australia",
-                  "canbus",
-                  "falcon",
-                  "fg",
-                  "ford",
-                  "orion"
-                ]
+                "description": "Research and scripts for the Ford S550 Mustang CAN Bus",
+                "homepage": "https://ericturner3.github.io/s550-canbus/",
+                "id": 637408376,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-15T04:40:39Z",
+                "open_issues": 3,
+                "owner": "EricTurner3",
+                "repo": "s550-canbus",
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Ford FG Falcon"
+          "title": "Mustang"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Ford Transit",
+              "title": "Transit (2020)",
               "description": "slyt/van-hack",
               "children": [],
               "repo_info": {
@@ -774,7 +816,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Ford Transit"
+          "title": "Transit"
         }
       ],
       "title": "Ford (Lincoln, Mercury)"
@@ -2260,11 +2302,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T21:43:18Z",
+            "last_commit": "2026-11-16T22:53:49Z",
             "open_issues": 365,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3562,
+            "stars": 3567,
             "topics": [
               "automotive",
               "can",
@@ -2691,6 +2733,76 @@
           "description": null,
           "node_type": "group",
           "title": "KTM motorcycle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yamaha Tracer 9 / CP3",
+              "description": "Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reverse-engineered CAN bus of the Yamaha Tracer 9 / CP3 platform (2021-2024): signal database, DBC, docs, sample captures. Read-only.",
+                "homepage": null,
+                "id": 1458110882,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-15T18:12:10Z",
+                "open_issues": 0,
+                "owner": "bratukh",
+                "repo": "yamaha-cp3-can",
+                "stars": 0,
+                "topics": [
+                  "can-bus",
+                  "cp3",
+                  "dbc",
+                  "esp32",
+                  "motorcycle",
+                  "mt-09",
+                  "obd2",
+                  "reverse-engineering",
+                  "telemetry",
+                  "tracer-9",
+                  "yamaha"
+                ]
+              },
+              "first_seen": "2026-11-16T22:56:30.043Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Yamaha R9",
+              "description": "Yamaha R9 (2026) CAN bus: decoded signals, DBC, raw captures and tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reverse-engineering the Yamaha R9 (2026) CAN bus: decoded signals, DBC, raw captures and tools",
+                "homepage": null,
+                "id": 1340572074,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-23T15:04:33Z",
+                "open_issues": 1,
+                "owner": "DeziderMesko",
+                "repo": "motocan",
+                "stars": 0,
+                "topics": [
+                  "can-bus",
+                  "dbc",
+                  "motorcycle",
+                  "racechrono",
+                  "reverse-engineering",
+                  "telemetry",
+                  "yamaha",
+                  "yamaha-r9"
+                ]
+              },
+              "first_seen": "2026-11-16T22:56:30.043Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Yamaha motorcycle"
         }
       ],
       "title": "Motorcycles"
@@ -2710,11 +2822,11 @@
             "id": 313261022,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-16T21:47:33Z",
+            "open_issues": 3,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3567,
+            "stars": 3569,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2786,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:24:44.043Z",
+    "last_updated": "2026-11-16T22:56:30.043Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2794,11 +2906,11 @@
       "id": 317634009,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-12T13:39:28Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-16T18:46:09Z",
+      "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1027,
+      "stars": 1028,
       "topics": [
         "automotive",
         "automotive-security",
@@ -2821,7 +2933,7 @@
         "vehicular-networks"
       ]
     },
-    "original_repository_sha": "8eff640cd49984df4b37d996da46deaf81e53b52",
+    "original_repository_sha": "4112738bb1f2f08b5a044e03a030071a12f826eb",
     "enhanced_repository": "enhansome/enhansome-automotive-can-id",
     "enhanced_repository_description": null,
     "title": "Awesome CAN ID with stars"
