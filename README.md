@@ -78,8 +78,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,568 | 🐛 362 | 🌐 Python | 📅 2026-11-17 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 68 | 🐛 51 | 🌐 HTML | 📅 2026-11-17 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,570 | 🐛 373 | 🌐 Python | 📅 2026-11-18 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 68 | 🐛 51 | 🌐 HTML | 📅 2026-11-18 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -204,7 +204,7 @@ Links for general DB and uther useful resources:
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Throttle) ⭐ 1,046 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Throttle.
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29) ⭐ 1,046 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-Petrol.
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29) ⭐ 1,046 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - Soul Brake-EV.
-* [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 290 | 🐛 39 | 📅 2021-06-10 - EV.
+* [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) ⭐ 291 | 🐛 39 | 📅 2021-06-10 - EV.
 
 ## Land Rover
 
@@ -236,7 +236,7 @@ Links for general DB and uther useful resources:
 
 ## Mercedes-Benz
 
-* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 176 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
+* [Mercedes-Benz](https://github.com/rnd-ash/W203-canbus) ⭐ 177 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - W203 Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
 * [Mercedes-Benz](https://github.com/rnd-ash/MBUX-Port) ⚠️ Archived - 2000-2007: See txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
 * [Mercedes-Benz](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) ⭐ 133 | 🐛 5 | 📅 2026-06-01 - W203 C200 CDI: Should theoretically work on W203/w209/w211/w219 vehicles.
 * [Mercedes-Benz](https://github.com/mkovero/7226ctrl) ⭐ 67 | 🐛 12 | 🌐 C++ | 📅 2020-07-07 - Controller for 722.6 automatic transmission.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,568 | 🐛 362 | 🌐 Python | 📅 2026-11-17 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,570 | 🐛 373 | 🌐 Python | 📅 2026-11-18 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -399,8 +399,8 @@ temporaly unsorted:
 
 ### S60
 
-* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Project to power a volvo DIM outside of the car.
-* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Notes on CANBUS.
+* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) ⭐ 53 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Project to power a volvo DIM outside of the car.
+* [Volvo S60](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) ⭐ 53 | 🐛 1 | 🌐 C++ | 📅 2023-09-27 - 2007 DIM: Notes on CANBUS.
 * [Volvo S60](https://github.com/waal70/S60CAN) ⚠️ Archived - Arduino CANBUS Volvo S60 DPF soot filter.
 * [Volvo S60](https://github.com/waal70/VolvoCANBUS) ⭐ 16 | 🐛 2 | 🌐 Java | 📅 2026-04-10 - MY2009, aka P2 facelift model.
 * [Volvo S60](https://github.com/ezkripke/volvo-CAN-exploration) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-06-07 - OBD-II CAN Data Extraction and Analysis.
@@ -436,7 +436,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,571 | 🐛 3 | 📅 2026-11-16 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,573 | 🐛 3 | 📅 2026-11-16 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -472,4 +472,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T17:55:24Z",
-            "open_issues": 362,
+            "last_commit": "2026-11-18T00:58:55Z",
+            "open_issues": 373,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3568,
+            "stars": 3570,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T05:23:03Z",
+            "last_commit": "2026-11-18T04:07:33Z",
             "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -1089,7 +1089,7 @@
             "open_issues": 39,
             "owner": "JejuSoul",
             "repo": "OBD-PIDs-for-HKMC-EVs",
-            "stars": 290,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1244,7 +1244,7 @@
             "open_issues": 3,
             "owner": "rnd-ash",
             "repo": "W203-canbus",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "android",
               "android-application",
@@ -2302,11 +2302,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T17:55:24Z",
-            "open_issues": 362,
+            "last_commit": "2026-11-18T00:58:55Z",
+            "open_issues": 373,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3568,
+            "stars": 3570,
             "topics": [
               "automotive",
               "can",
@@ -2565,7 +2565,7 @@
                 "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2586,7 +2586,7 @@
                 "open_issues": 1,
                 "owner": "vgab7",
                 "repo": "VolvoDIM",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2826,7 +2826,7 @@
             "open_issues": 3,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3571,
+            "stars": 3573,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:49:38.670Z",
+    "last_updated": "2026-11-18T21:28:35.102Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2910,7 +2910,7 @@
       "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1029,
+      "stars": 1031,
       "topics": [
         "automotive",
         "automotive-security",
