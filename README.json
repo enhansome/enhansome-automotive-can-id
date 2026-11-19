@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T00:58:55Z",
-            "open_issues": 373,
+            "last_commit": "2026-11-19T18:49:18Z",
+            "open_issues": 378,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3570,
+            "stars": 3571,
             "topics": [
               "automotive",
               "can",
@@ -45,7 +45,7 @@
             "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -776,7 +776,7 @@
                 "id": 637408376,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-17T04:24:39Z",
+                "last_commit": "2026-11-19T04:49:51Z",
                 "open_issues": 1,
                 "owner": "EricTurner3",
                 "repo": "s550-canbus",
@@ -963,7 +963,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -984,7 +984,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1005,7 +1005,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1047,7 +1047,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1068,7 +1068,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1578,7 +1578,7 @@
                 "open_issues": 2,
                 "owner": "JJToB",
                 "repo": "Car-CAN-Message-DB",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1599,7 +1599,7 @@
                 "open_issues": 0,
                 "owner": "megadrifter",
                 "repo": "Astra-H-Public",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2302,11 +2302,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T00:58:55Z",
-            "open_issues": 373,
+            "last_commit": "2026-11-19T18:49:18Z",
+            "open_issues": 378,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3570,
+            "stars": 3571,
             "topics": [
               "automotive",
               "can",
@@ -2332,7 +2332,7 @@
             "open_issues": 2,
             "owner": "vtl",
             "repo": "volvo-ddd",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2409,7 +2409,7 @@
             "open_issues": 1,
             "owner": "johnbutol",
             "repo": "CCM-busmaster",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2430,7 +2430,7 @@
             "open_issues": 1,
             "owner": "johnbutol",
             "repo": "CCM-busmaster",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2474,7 +2474,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2502,7 +2502,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2530,7 +2530,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2826,7 +2826,7 @@
             "open_issues": 3,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3573,
+            "stars": 3572,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:28:35.102Z",
+    "last_updated": "2026-11-19T21:41:01.858Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
