@@ -15,11 +15,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T21:14:13Z",
-            "open_issues": 379,
+            "last_commit": "2026-11-20T23:47:10Z",
+            "open_issues": 383,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3573,
+            "stars": 3577,
             "topics": [
               "automotive",
               "can",
@@ -1830,7 +1830,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 418,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2302,11 +2302,11 @@
             "id": 92912604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T21:14:13Z",
-            "open_issues": 379,
+            "last_commit": "2026-11-20T23:47:10Z",
+            "open_issues": 383,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3573,
+            "stars": 3577,
             "topics": [
               "automotive",
               "can",
@@ -2683,7 +2683,7 @@
                 "open_issues": 5,
                 "owner": "renatobo",
                 "repo": "DucatiPanigaleCanBus",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "ble",
                   "canbus",
@@ -2823,10 +2823,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T21:47:33Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3572,
+            "stars": 3577,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:19:52.112Z",
+    "last_updated": "2026-11-21T20:09:46.720Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2910,7 +2910,7 @@
       "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1031,
+      "stars": 1033,
       "topics": [
         "automotive",
         "automotive-security",
