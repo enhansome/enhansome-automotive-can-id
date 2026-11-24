@@ -78,8 +78,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,583 | 🐛 390 | 🌐 Python | 📅 2026-11-23 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 69 | 🐛 52 | 🌐 HTML | 📅 2026-11-20 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,585 | 🐛 390 | 🌐 Python | 📅 2026-11-23 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 70 | 🐛 51 | 🌐 HTML | 📅 2026-11-24 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -165,7 +165,7 @@ Links for general DB and uther useful resources:
 
 * [Mustang (2007-2009)](https://github.com/thomastech/CAN2Cluster) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2026-10-18 - Emulator for Dashboard Instrument Cluster.
 * [Mustang (2005)](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - Mustang 2005 CAN 125k.
-* [Mustang S550 (2015-2017)](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-23 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-23 on CANBus ids and behavior.
+* [Mustang S550 (2015-2017)](https://github.com/EricTurner3/s550-canbus) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-24 - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-24 on CANBus ids and behavior.
 
 ### Transit
 
@@ -324,7 +324,7 @@ temporaly unsorted:
 
 ## Tesla
 
-* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 419 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
+* [Tesla](https://github.com/joshwardell/model3dbc) ⭐ 420 | 🐛 19 | 📅 2023-10-24 - Model 3 DBC file CAN messages *(DBC)*.
 * [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
 * [Tesla](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0) - Model S/X CAN IDs and payload.
 
@@ -340,7 +340,7 @@ temporaly unsorted:
 <!--lint enable double-link-->
 
 * [Toyota](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2021-10-11 - Yaris.
-* [Toyota AVC LAN](https://github.com/halleysfifthinc/Toyota-AVC-LAN) ⭐ 65 | 🐛 6 | 🌐 C++ | 📅 2026-09-28 - Arduino emulating a CD Changer on a Toyota AVC LAN network.
+* [Toyota AVC LAN](https://github.com/halleysfifthinc/Toyota-AVC-LAN) ⭐ 66 | 🐛 6 | 🌐 C++ | 📅 2026-11-24 - Arduino emulating a CD Changer on a Toyota AVC LAN network.
 * [Toyota](https://github.com/karlyamashita/common_libraries/blob/master/TOYOTA_CAN_ID.h) ⭐ 34 | 🐛 0 | 🌐 C | 📅 2026-10-26 - 2018 Tacoma.
 * [Toyota AVC LAN](https://github.com/instalator/AVC-LAN-Toyota) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2021-02-07 - Arduino emulating a CD Changer on a Toyota AVC LAN network (another project).
 * [Toyota](https://github.com/HbirdJ/CAN-Translator) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2016-06-09 - Prius CAN message translator.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,583 | 🐛 390 | 🌐 Python | 📅 2026-11-23 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,585 | 🐛 390 | 🌐 Python | 📅 2026-11-23 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 74 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -424,7 +424,7 @@ temporaly unsorted:
 
 ### Yamaha motorcycle
 
-* [Yamaha Tracer 9 / CP3](https://github.com/bratukh/yamaha-cp3-can) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.
+* [Yamaha Tracer 9 / CP3](https://github.com/bratukh/yamaha-cp3-can) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-24 - Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.
 * [Yamaha R9](https://github.com/DeziderMesko/motocan) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-23 - Yamaha R9 (2026) CAN bus: decoded signals, DBC, raw captures and tools.
 *
 
@@ -436,7 +436,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,581 | 🐛 4 | 📅 2026-11-16 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,583 | 🐛 4 | 📅 2026-11-16 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 

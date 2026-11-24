@@ -19,7 +19,7 @@
             "open_issues": 390,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3583,
+            "stars": 3585,
             "topics": [
               "automotive",
               "can",
@@ -41,11 +41,11 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T19:23:31Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-24T12:18:41Z",
+            "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -685,7 +685,7 @@
                 "id": 637408376,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-23T02:45:20Z",
+                "last_commit": "2026-11-24T02:18:39Z",
                 "open_issues": 1,
                 "owner": "EricTurner3",
                 "repo": "s550-canbus",
@@ -1739,7 +1739,7 @@
             "open_issues": 19,
             "owner": "joshwardell",
             "repo": "model3dbc",
-            "stars": 419,
+            "stars": 420,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -1829,11 +1829,11 @@
             "id": 39314927,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T18:36:01Z",
+            "last_commit": "2026-11-24T01:28:14Z",
             "open_issues": 6,
             "owner": "halleysfifthinc",
             "repo": "AVCLAN-Mockingboard",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2215,7 +2215,7 @@
             "open_issues": 390,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3583,
+            "stars": 3585,
             "topics": [
               "automotive",
               "can",
@@ -2657,7 +2657,7 @@
                 "id": 1458110882,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T18:12:10Z",
+                "last_commit": "2026-11-24T19:19:47Z",
                 "open_issues": 0,
                 "owner": "bratukh",
                 "repo": "yamaha-cp3-can",
@@ -2735,7 +2735,7 @@
             "open_issues": 4,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3581,
+            "stars": 3583,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:01:37.117Z",
+    "last_updated": "2026-11-24T23:07:34.494Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
