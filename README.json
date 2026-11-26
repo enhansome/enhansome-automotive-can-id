@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-25T18:43:41Z",
-            "open_issues": 390,
+            "open_issues": 392,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3589,
+            "stars": 3600,
             "topics": [
               "automotive",
               "can",
@@ -41,7 +41,7 @@
             "id": 163530292,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T18:06:12Z",
+            "last_commit": "2026-11-26T17:22:58Z",
             "open_issues": 51,
             "owner": "rusefi",
             "repo": "rusefi_documentation",
@@ -690,7 +690,16 @@
                 "owner": "EricTurner3",
                 "repo": "s550-canbus",
                 "stars": 21,
-                "topics": []
+                "topics": [
+                  "automotive",
+                  "canbus",
+                  "canbus-research",
+                  "mustang",
+                  "racing-simulator",
+                  "reverse-enginnering",
+                  "s550mustang",
+                  "simhub"
+                ]
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
             }
@@ -872,7 +881,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -893,7 +902,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -914,7 +923,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -935,7 +944,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -956,7 +965,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -977,7 +986,7 @@
             "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1044,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2212,10 +2221,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-25T18:43:41Z",
-            "open_issues": 390,
+            "open_issues": 392,
             "owner": "commaai",
             "repo": "opendbc",
-            "stars": 3589,
+            "stars": 3600,
             "topics": [
               "automotive",
               "can",
@@ -2360,7 +2369,7 @@
             "open_issues": 0,
             "owner": "damienmaguire",
             "repo": "Volvo-V50-CAN-Info",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2383,7 +2392,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2411,7 +2420,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2439,7 +2448,7 @@
                 "open_issues": 2,
                 "owner": "Alfaa123",
                 "repo": "Volvo-CAN-Gauge",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "can-bus",
                   "car-hack",
@@ -2516,7 +2525,7 @@
                 "open_issues": 1,
                 "owner": "waal70",
                 "repo": "S60CAN",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2558,7 +2567,7 @@
                 "open_issues": 0,
                 "owner": "ezkripke",
                 "repo": "volvo-CAN-exploration",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:05:36.776Z"
@@ -2732,10 +2741,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T21:47:33Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3585,
+            "stars": 3588,
             "topics": [
               "automotive",
               "automotive-security",
@@ -2807,7 +2816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:37:30.415Z",
+    "last_updated": "2026-11-26T22:27:12.387Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -2816,10 +2825,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-16T18:46:09Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "iDoka",
       "repo": "awesome-automotive-can-id",
-      "stars": 1035,
+      "stars": 1037,
       "topics": [
         "automotive",
         "automotive-security",
