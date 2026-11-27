@@ -78,8 +78,8 @@ DB by Brands/Models:
 
 Links for general DB and uther useful resources:
 
-* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,600 | 🐛 392 | 🌐 Python | 📅 2026-11-25 - Democratize access to car decoder rings by CommaAI.
-* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 70 | 🐛 51 | 🌐 HTML | 📅 2026-11-26 - Dump traces from various vehicles from rusEFI project.
+* [CommaAI](https://github.com/commaai/opendbc) ⭐ 3,605 | 🐛 392 | 🌐 Python | 📅 2026-11-26 - Democratize access to car decoder rings by CommaAI.
+* [rusEFI](https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs) ⭐ 70 | 🐛 52 | 🌐 HTML | 📅 2026-11-26 - Dump traces from various vehicles from rusEFI project.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
@@ -381,7 +381,7 @@ temporaly unsorted:
 
 ## Volvo
 
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,600 | 🐛 392 | 🌐 Python | 📅 2026-11-25 - V60 2015 *(DBC)*.
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) ⭐ 3,605 | 🐛 392 | 🌐 Python | 📅 2026-11-26 - V60 2015 *(DBC)*.
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) ⭐ 74 | 🐛 2 | 🌐 C++ | 📅 2022-01-10 - XC70 2.5T 2005 B5254T2+AW55.
 * [Volvo](https://github.com/olegel/VolvoCan) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2021-04-13 - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
@@ -392,9 +392,9 @@ temporaly unsorted:
 
 ### C30
 
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Codes.txt) ⭐ 141 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 Codes.
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/Low%20Speed.cmt) ⭐ 141 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 LowSpeed CAN.
-* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/High%20Speed.cmt) ⭐ 141 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 HighSpeed CAN.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Codes.txt) ⭐ 142 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 Codes.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/Low%20Speed.cmt) ⭐ 142 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 LowSpeed CAN.
+* [Volvo C30](https://github.com/Alfaa123/Volvo-CAN-Gauge/blob/master/Sniffing/High%20Speed.cmt) ⭐ 142 | 🐛 2 | 🌐 Roff | 📅 2022-07-06 - T5 2011 HighSpeed CAN.
 * [Volvo C30](https://paul.sullivan.za.org/volvo-c30-1.6d/OBD-II_CAN-bus/) - 1.6d DRIVe.
 
 ### S60
@@ -424,7 +424,7 @@ temporaly unsorted:
 
 ### Yamaha motorcycle
 
-* [Yamaha Tracer 9 / CP3](https://github.com/bratukh/yamaha-cp3-can) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-24 - Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.
+* [Yamaha Tracer 9 / CP3](https://github.com/bratukh/yamaha-cp3-can) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-24 - Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.
 * [Yamaha R9](https://github.com/DeziderMesko/motocan) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-23 - Yamaha R9 (2026) CAN bus: decoded signals, DBC, raw captures and tools.
 *
 
@@ -436,7 +436,7 @@ temporaly unsorted:
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,588 | 🐛 6 | 📅 2026-11-16 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,589 | 🐛 6 | 📅 2026-11-16 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another [awesome list](https://github.com/iDoka/awesome-linbus) ⭐ 251 | 🐛 1 | 📅 2023-09-06 of tools and resources for LIN bus reverse engineering, LIN hardware development and debugging also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
@@ -472,4 +472,4 @@ temporaly unsorted:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
